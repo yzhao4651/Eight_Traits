@@ -1,1 +1,1 @@
-# Dissertation- This project including all the R codes and datasets need for Ph.D dissertation. 
+# Dissertation- This project contains all the R codes and datasets need for Ph.D dissertation. 
