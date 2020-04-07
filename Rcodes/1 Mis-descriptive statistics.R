@@ -226,6 +226,7 @@ qualdat_BC <- bc1(qualdat, lda)
 ### this one is for owa
 write.csv(qualdat_BC, file = "data/traits1718normalited3.csv",row.names = T, na = ".")
 ## this one is for all of tratis 
-write.csv(qualdat_BC, file = "~/Documents/whole traits/traits1718normalited2.csv", row.names = T, na = ".")
+write.csv(qualdat_BC, file = "data/traits1718normalited5.csv",row.names = T, na = ".")
+#write.csv(qualdat_BC, file = "~/Documents/whole traits/traits1718normalited2.csv", row.names = T, na = ".")
 
 
