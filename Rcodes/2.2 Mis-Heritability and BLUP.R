@@ -74,9 +74,6 @@ ranefvalueall <- ranefvalue(4, 4, normadata)
 write.csv(ranefvalueall, file = "data/ranefvalueOWA1817T.csv", na = ".")
 
 
-
-
-
 #normadata <- read.csv("~/Documents/whole traits/traits1718normalited1.csv",na.strings = c("",".","NA"))
 normadata <- read.csv("data/traits1718normalited3.csv",na.strings = c("",".","NA"),row.names=1)
 #normadata <- normadata[!(normadata$Year=="2019"),]
@@ -179,3 +176,27 @@ str(normadata)
 source("Function/Heritability.R")
 Herit <- Heritability(4, 7, normadata)
 write.csv(Herit, file = "data/heritabilityflopc1.csv", na = ".")
+
+
+###only for SRD
+###only for SRD
+#normadata <- read.csv("~/Documents/whole traits/traits1718normalited1.csv",na.strings = c("",".","NA"))
+normadata <- read.csv("data/traits1718normalited4.csv",na.strings = c("",".","NA"),row.names=1)
+###check the data format
+normadata <- normadata[,c(2:4,25)]
+str(normadata)
+###change the format of the several variables 
+normadata$Entry=as.factor(normadata$Entry)
+normadata$Rep=as.factor(normadata$Rep)
+normadata$Year=as.factor(normadata$Year)
+###check the data format
+str(normadata)
+normadata$SRD
+###get the heritablity of all the traits using the function in the Function
+source("Function/Heritability.19.R")
+Herit <- Heritability(4, 4, normadata)
+write.csv(Herit, file = "data/heritabilitSRD.csv", row.names = T, na = ".")
+###get the heritablity of all the traits using the function in the Function
+source("Function/BLUP.19.R")
+ranefvalueall <- ranefvalue(4, 4, normadata)
+write.csv(ranefvalueall, file = "data/ranefvalueSRD.csv", row.names = T, na = ".")
