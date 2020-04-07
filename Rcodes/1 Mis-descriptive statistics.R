@@ -229,4 +229,153 @@ write.csv(qualdat_BC, file = "data/traits1718normalited3.csv",row.names = T, na 
 write.csv(qualdat_BC, file = "data/traits1718normalited5.csv",row.names = T, na = ".")
 #write.csv(qualdat_BC, file = "~/Documents/whole traits/traits1718normalited2.csv", row.names = T, na = ".")
 
+###this one for OWA 
+###import the OWA 
+OWA <- read.csv("data/traitOWAwhole.csv", na.strings = c("",".","NA"))
+str(OWA)
+OWA <- OWA[3:6]
+str(OWA)
+source("Function/plotboxFunc.R")
+pdf(paste("Boxplot of all traits VS Replication", 4 ,".pdf",sep=""))
+plotboxFunc(4,4, OWA)
+dev.off()
+####Normality
+####Normality
+#### Boxcox function R codes from online to get lambda
+
+OWA$OWA <- as.numeric(OWA$OWA)
+source("Function/bcplot function.txt")
+pdf(paste("lambda", 2 ,".pdf",sep=""))####question: only produce one image --> Did we solve this earlier?  seems to product all images now
+par(mar=rep(2,4))
+par(mfrow=c(4,4))
+out_start=4
+out_end=4
+# set up empty data frame to contain lambda values
+lda <- data.frame(row.names = colnames(OWA)[out_start:out_end],
+                  lambda = rep(NA_real_, out_end - out_start + 1))
+for (i in out_start:out_end){ 
+  trtname <- colnames(OWA)[i]
+  lda[trtname, 1] <- bcplot(na.omit(OWA[i])) # put result of bcplot into data frame
+} 
+dev.off()
+write.csv(lda,file="data/ldaOWA.csv")
+###question: how i can get a csv file with column name with lambda?
+### Unfortunately the bcplot function does not return any value, so it can't 
+### be used programatically to send values to a vector that can be written to a
+### file.  You could possible edit the function with a statement like
+### `return(lambda.hat)`
+###????question below
+###I tried to add this lines "return(lambda.hat)", but it does not work, I copied the output into CSV 
+###and then import it. I does not take me a lot of time, but it is better to return it as a csv or excel. 
+### --> Lindsay's answer
+### bcplot was returning lambda.hat, but you didn't update your script to save that value
+### anywhere.  I have edited it.
+
+### get the lambdal for the variable need do data transformation 
+##quesiton: trying to write a loop but it does not work, do you have any idea?
+## The loop was not constructed correctly, since there were not curly brackets
+## after it.  I have fixed it, and also indexed by trait name to make things
+## easier.
+####This one from Lindsay's contribution is GREAT, Thank you so much. 
+##this one for OWA
+lda<- read.csv("data/ldaOWA.csv",row.name=1)
+##this one for all 
+lda<- read.csv("data/lda.csv",row.name=1)
+#lda <- read.csv(file.path(mywd, "lambda1.csv"), row.name=1)
+
+bc1 <- function(x, lda){ # function to transform data after lambda is determined
+  for(trait in rownames(lda)){
+    while(min(x[[trait]], na.rm = TRUE) <= 0){
+      x[[trait]] <- x[[trait]] + 1 # positive numbers required
+    }
+    if(lda[trait,] == 0){
+      x[[trait]] <- log(x[[trait]])
+    } else {
+      x[[trait]] <- (x[[trait]]^lda[trait,] - 1)/lda[trait,]
+    }
+  }
+  return(x)
+}
+source("Function/bc1.R")
+OWA_BC <- bc1(OWA, lda)
+
+####write the data out 
+###this one updated the OWA
+write.csv(OWA_BC, file = "data/traits1718normalited3.csv",row.names = T, na = ".")
+
+
+###this one is for SRD
+setwd("~/Documents/R-corde for miscanthus project/Miscanthus")
+qualdat <- read.csv("data/traitSRDNOOUT.csv", na.strings = c("",".","NA"))
+qualdat$SRD <- as.numeric(as.Date(qualdat$SRD,format = "%m/%d/%Y")-as.Date(qualdat$datest2,format = "%m/%d/%Y"))
+str(qualdat)
+###this is for SRD 
+source("Function/plotboxFunc.R")
+pdf(paste("Boxplot of SRD VS Replication", 2 ,".pdf",sep=""))
+plotboxFunc(5,5,qualdat)
+dev.off()
+
+###this is for SRD 
+
+source("Function/BoxplotFunVSYear.R")
+pdf(paste("Boxplot of SRD VS Year", 2 ,".pdf",sep=" "))
+BoxplotFunVSYear(5,5,qualdat)
+dev.off()
+
+source("Function/bcplot function.txt")
+pdf(paste("lambda", 2 ,".pdf",sep=""))####question: only produce one image --> Did we solve this earlier?  seems to product all images now
+par(mar=rep(2,4))
+par(mfrow=c(4,4))
+out_start=5
+out_end=5
+# set up empty data frame to contain lambda values
+lda <- data.frame(row.names = colnames(qualdat)[out_start:out_end],
+                  lambda = rep(NA_real_, out_end - out_start + 1))
+for (i in out_start:out_end){ 
+  trtname <- colnames(qualdat)[i]
+  lda[trtname, 1] <- bcplot(na.omit(qualdat[i])) # put result of bcplot into data frame
+} 
+dev.off()
+write.csv(lda,file="data/lda.csv")
+###question: how i can get a csv file with column name with lambda?
+### Unfortunately the bcplot function does not return any value, so it can't 
+### be used programatically to send values to a vector that can be written to a
+### file.  You could possible edit the function with a statement like
+### `return(lambda.hat)`
+###????question below
+###I tried to add this lines "return(lambda.hat)", but it does not work, I copied the output into CSV 
+###and then import it. I does not take me a lot of time, but it is better to return it as a csv or excel. 
+### --> Lindsay's answer
+### bcplot was returning lambda.hat, but you didn't update your script to save that value
+### anywhere.  I have edited it.
+
+### get the lambdal for the variable need do data transformation 
+##quesiton: trying to write a loop but it does not work, do you have any idea?
+## The loop was not constructed correctly, since there were not curly brackets
+## after it.  I have fixed it, and also indexed by trait name to make things
+## easier.
+####This one from Lindsay's contribution is GREAT, Thank you so much. 
+
+lda<- read.csv("data/lda.csv",row.name=1)
+#lda <- read.csv(file.path(mywd, "lambda1.csv"), row.name=1)
+
+bc1 <- function(x, lda){ # function to transform data after lambda is determined
+  for(trait in rownames(lda)){
+    while(min(x[[trait]], na.rm = TRUE) <= 0){
+      x[[trait]] <- x[[trait]] + 1 # positive numbers required
+    }
+    if(lda[trait,] == 0){
+      x[[trait]] <- log(x[[trait]])
+    } else {
+      x[[trait]] <- (x[[trait]]^lda[trait,] - 1)/lda[trait,]
+    }
+  }
+  return(x)
+}
+source("Function/bc1.R")
+qualdat_BC <- bc1(qualdat, lda)
+## this one updated the SRD
+write.csv(qualdat_BC, file = "data/traits1718normalitedSRD.csv",row.names = T, na = ".")
+
+
 
