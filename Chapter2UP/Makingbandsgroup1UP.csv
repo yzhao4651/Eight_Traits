@@ -1,0 +1,1105 @@
+﻿Chrom,Start.1,End.1,Start,End,ID,ID.1,Name,Trait.name,Group2,Group,Colors,Group3
+3,7812387,7812387,7802387,7822387,height(Clark(2016)),height(Clark.et.al.(2016)),UIMiscanthus041646,height,height,height(Clark_et_al_(2016)),Magenta,Clark_et_al_(2016)
+6,56833188,56833188,56823188,56843188,stem.diameter(Clark(2016)),stem.diameter(Clark.et.al.(2016)),UIMiscanthus036746,stem dimeter,stem_diameter,stem_diameter(Clark_et_al_(2016)),Magenta,Clark_et_al_(2016)
+2,71500114,71500114,71490114,71510114,stems.per.area(Clark(2016)),stems.per.area(Clark.et.al.(2016)),UIMiscanthus038912,stems per area,stems_per_area,stems_per_area(Clark_et_al_(2016)),Magenta,Clark_et_al_(2016)
+2,53651277,53651277,53641277,53661277,stems.per.area(Clark(2016)),stems.per.area(Clark.et.al.(2016)),UIMiscanthus054659,stems per area,stems_per_area,stems_per_area(Clark_et_al_(2016)),Magenta,Clark_et_al_(2016)
+6,49232193,49232193,49222193,49242193,stems.per.area(Clark(2016)),stems.per.area(Clark.et.al.(2016)),UIMiscanthus015394(PstI.TP784444),stems per area,stems_per_area,stems_per_area(Clark_et_al_(2016)),Magenta,Clark_et_al_(2016)
+1,60042002,60042018,60032002,60052018,BC(Clark(2019)),BC(Clark.et.al.(2019)),NsiI.TP45219,Basal circumference,BC,BC(Clark2019)),Blue,Clark_et_al_(2019)
+1,76937565,76937584,76927565,76947584,BC(Clark(2019)),BC(Clark.et.al.(2019)),NsiI.TP674441,Basal circumference,BC,BC(Clark2019)),Blue,Clark_et_al_(2019)
+8,61280127,61280140,61270127,61290140,BC(Clark(2019)),BC(Clark.et.al.(2019)),PstI.TP22102,Basal circumference,BC,BC(Clark2019)),Blue,Clark_et_al_(2019)
+10,6028036,6028043,6018036,6038043,BC(Clark(2019)),BC(Clark.et.al.(2019)),PstI.TP1279997,Basal circumference,BC,BC(Clark2019)),Blue,Clark_et_al_(2019)
+3,52267500,52267535,52257500,52277535,CC(Clark(2019)),CC(Clark.et.al.(2019)),NsiI.TP307561,Compressed circumference,CC,CC(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,47759284,47759301,47749284,47769301,CC(Clark(2019)),CC(Clark.et.al.(2019)),PstI.TP1094542,Compressed circumference,CC,CC(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,52834381,52834413,52824381,52844413,CC(Clark(2019)),CC(Clark.et.al.(2019)),PstI.TP139094,Compressed circumference,CC,CC(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,42875084,42875099,42865084,42885099,CC(Clark(2019)),CC(Clark.et.al.(2019)),PstI.TP846172,Compressed circumference,CC,CC(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,78991651,78991703,78981651,79001703,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP631089,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+2,57544768,57544790,57534768,57554790,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),PstI.TP1114827,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+2,76754510,76754522,76744510,76764522,CC/BC(Clark(2019))BC(Dong(2017)),CC/BC(Clark.et.al.(2019))BC(Dong.et.al.(2017)),PstI.TP718837,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+3,62102763,62102826,62092763,62112826,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP771371,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+3,70340078,70340091,70330078,70350091,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),PstI.TP1143155,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+4,57917174,57917206,57907174,57927206,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP668768,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+4,61346996,61347042,61336996,61357042,NA,NA,PstI.TP637804,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+4,64652944,64652977,64642944,64662977,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),PstI.TP796634,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+4,67780882,67780901,67770882,67790901,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP71276,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+6,47759284,47759301,47749284,47769301,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),PstI.TP1094542,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+6,59157096,59157101,59147096,59167101,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),PstI.TP720319,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+7,65362120,65362140,65352120,65372140,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP562946,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+8,53906246,53906301,53896246,53916301,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP669291,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+9,42418711,42418738,42408711,42428738,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP243719,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+9,51662064,51662076,51652064,51672076,NA,NA,NsiI.TP427326,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+9,55207270,55207278,55197270,55217278,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),PstI.TP1126093,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+10,42833148,42833172,42823148,42843172,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),NsiI.TP44049,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+10,60930249,60930307,60920249,60940307,CC/BC(Clark(2019)),CC/BC(Clark.et.al.(2019)),PstI.TP751019,Compressed circumference/basal circumference,CC/BC,CC/BC(Clark2019)),Blue,Clark_et_al_(2019)
+1,75697426,75697441,75687426,75707441,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP488333,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,58490850,58490873,58480850,58500873,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP1205830,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,20807843,20807868,20797843,20817868,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP187958,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,74969259,74969305,74959259,74979305,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP304860,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,77868388,77868398,77858388,77878398,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP425825,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,527130,527149,517130,537149,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP245177,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,76404658,76404670,76394658,76414670,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP29500,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,70869244,70869265,70859244,70879265,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP1045751,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,71291869,71291896,71281869,71301896,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP328854,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,5764183,5764222,5754183,5774222,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP768975,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,59388031,59388087,59378031,59398087,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP21924,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,66046880,66046928,66036880,66056928,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP243370,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,65501761,65501807,65491761,65511807,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP470794,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,60813260,60813301,60803260,60823301,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP264924,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+5,67425654,67425675,67415654,67435675,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP152466,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+5,67518297,67518317,67508297,67528317,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP181332,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+5,67426709,67426770,67416709,67436770,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP751681,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,42480801,42480830,42470801,42490830,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP1092536,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,60916847,60916879,60906847,60926879,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP17741,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,6308560,6308579,6298560,6318579,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP250403,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+7,61269928,61269970,61259928,61279970,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP590314,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+8,8195380,8195389,8185380,8205389,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP334052,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+8,12156318,12156336,12146318,12166336,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP788570,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,2690781,2690819,2680781,2700819,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP38877,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,57094909,57094929,57084909,57104929,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP440846,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,55967593,55967635,55957593,55977635,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP116355,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,53145027,53145062,53135027,53155062,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP989741,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,60410029,60410043,60400029,60420043,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP213211,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,6643969,6643993,6633969,6653993,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),NsiI.TP443003,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,55228808,55228841,55218808,55238841,CmDW/V(Clark(2019)),CmDW/V(Clark.et.al.(2019)),PstI.TP725489,Culm density,CmDW/V,CmDW/V(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,58552388,58552434,58542388,58562434,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),PstI.TP1215799,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,59309823,59309858,59299823,59319858,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),PstI.TP122680,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,67274456,67274500,67264456,67284500,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),NsiI.TP400051,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,58163544,58163559,58153544,58173559,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),NsiI.TP6292,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,8676888,8676929,8666888,8686929,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),PstI.TP168674,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,60023766,60023820,60013766,60033820,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),PstI.TP977760,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,46381019,46381031,46371019,46391031,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),PstI.TP38210,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,51076759,51076780,51066759,51086780,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),PstI.TP714414,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+7,58039006,58039037,58029006,58049037,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),NsiI.TP546382,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,59219545,59219551,59209545,59229551,CmL(Clark(2019)),CmL(Clark.et.al.(2019)),PstI.TP780454,Culm length,CmL,CmL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,8153076,8153110,8143076,8163110,CmNdN(Clark(2019)),CmNdN(Clark.et.al.(2019)),NsiI.TP137978,Culm node number,CmNdN,CmNdN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,72330951,72330993,72320951,72340993,CmNdN(Clark(2019)),CmNdN(Clark.et.al.(2019)),PstI.TP279809,Culm node number,CmNdN,CmNdN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,16499950,16499951,16489950,16509951,CmNdN(Clark(2019)),CmNdN(Clark.et.al.(2019)),PstI.TP603951,Culm node number,CmNdN,CmNdN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+5,1808298,1808304,1798298,1818304,CmNdN(Clark(2019)),CmNdN(Clark.et.al.(2019)),PstI.TP1140941,Culm node number,CmNdN,CmNdN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+7,14386519,14386558,14376519,14396558,CmNdN(Clark(2019)),CmNdN(Clark.et.al.(2019)),NsiI.TP750071,Culm node number,CmNdN,CmNdN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,60122682,60122723,60112682,60132723,CmNdN(Clark(2019)),CmNdN(Clark.et.al.(2019)),PstI.TP993513,Culm node number,CmNdN,CmNdN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,63992445,63992469,63982445,64002469,CmV(Clark(2019)),CmV(Clark.et.al.(2019)),PstI.TP213479,Culm volume,CmV,CmV(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,9570135,9570148,9560135,9580148,DBI(Clark(2019)),DBI(Clark.et.al.(2019)),PstI.TP1193219,Diameter of basal internode,DBI,DBI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,63992445,63992469,63982445,64002469,DBI(Clark(2019)),DBI(Clark.et.al.(2019)),PstI.TP213479,Diameter of basal internode,DBI,DBI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,57894675,57894680,57884675,57904680,DBI(Clark(2019)),DBI(Clark.et.al.(2019)),NsiI.TP78904,Diameter of basal internode,DBI,DBI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,58243820,58243864,58233820,58253864,DBI(Clark(2019)),DBI(Clark.et.al.(2019)),NsiI.TP2617,Diameter of basal internode,DBI,DBI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,9087139,9087147,9077139,9097147,DBI(Clark(2019)),DBI(Clark.et.al.(2019)),PstI.TP1071406,Diameter of basal internode,DBI,DBI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,43096195,43096238,43086195,43106238,DBI(Clark(2019)),DBI(Clark.et.al.(2019)),NsiI.TP789052,Diameter of basal internode,DBI,DBI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,21845522,21845560,21835522,21855560,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP834121,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,9570135,9570148,9560135,9580148,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),PstI.TP1193219,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,3765042,3765100,3755042,3775100,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP391602,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,65378296,65378339,65368296,65388339,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP563232,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,10065198,10065212,10055198,10075212,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP755529,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,68567949,68567976,68557949,68577976,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),PstI.TP167782,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,70870909,70870928,70860909,70880928,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),PstI.TP44584,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,68562475,68562524,68552475,68572524,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP259300,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,9160201,9160208,9150201,9170208,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),PstI.TP408444,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,45061320,45061369,45051320,45071369,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP17846,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Green,Clark_et_al_(2019)
+6,52472440,52472448,52462440,52482448,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP711779,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,9087139,9087147,9077139,9097147,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),PstI.TP1071406,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+7,57293639,57293650,57283639,57303650,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),PstI.TP326785,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,58500611,58500616,58490611,58510616,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP324486,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,43096195,43096238,43086195,43106238,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),NsiI.TP789052,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,61172978,61173000,61162978,61183000,DTI(Clark(2019)),DTI(Clark.et.al.(2019)),PstI.TP1280479,Diameter of topmost internode,DTI,DTI(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,72666012,72666037,72656012,72676037,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),NsiI.TP388887,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,64885884,64885908,64875884,64895908,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),NsiI.TP627040,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,3550164,3550216,3540164,3560216,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),NsiI.TP829914,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,4369514,4369536,4359514,4379536,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP314275,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,3006542,3006566,2996542,3016566,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP528703,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,68613623,68613645,68603623,68623645,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),NsiI.TP169221,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,2806993,2807000,2796993,2817000,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP1112819,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,72330951,72330993,72320951,72340993,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP279809,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,3764827,3764828,3754827,3774828,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP362300,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,58163544,58163559,58153544,58173559,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),NsiI.TP6292,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,58501136,58501198,58491136,58511198,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP31016,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,42101740,42101760,42091740,42111760,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),NsiI.TP447271,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,51990200,51990247,51980200,52000247,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP1077958,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+7,5604445,5604465,5594445,5614465,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP938285,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+8,56756599,56756625,56746599,56766625,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP962832,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,56906828,56906861,56896828,56916861,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP1023013,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,57856480,57856522,57846480,57866522,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP228440,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,52327446,52327480,52317446,52337480,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP919066,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,43096195,43096249,43086195,43106249,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),NsiI.TP785032,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,60872085,60872117,60862085,60882117,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP1054932,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,4946260,4946269,4936260,4956269,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP1092160,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,6039889,6039925,6029889,6049925,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP186628,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,57156229,57156281,57146229,57166281,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP44184,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,53743913,53743947,53733913,53753947,IntL(Clark(2019)),IntL(Clark.et.al.(2019)),PstI.TP790645,Internode length,IntL,IntL(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,17982184,17982247,17972184,17992247,RCmN/TCmN(Clark(2019)),RCmN/TCmN(Clark.et.al.(2019)),NsiI.TP798729,Proportion of reproductive culms,RCmN/TCmN,RCmN/TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,65531289,65531306,65521289,65541306,RCmN/TCmN(Clark(2019)),RCmN/TCmN(Clark.et.al.(2019)),PstI.TP315378,Proportion of reproductive culms,RCmN/TCmN,RCmN/TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,6308560,6308579,6298560,6318579,RCmN/TCmN(Clark(2019)),RCmN/TCmN(Clark.et.al.(2019)),PstI.TP250403,Proportion of reproductive culms,RCmN/TCmN,RCmN/TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,58980435,58980452,58970435,58990452,RCmN/TCmN(Clark(2019)),RCmN/TCmN(Clark.et.al.(2019)),PstI.TP661820,Proportion of reproductive culms,RCmN/TCmN,RCmN/TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+8,6143783,6143843,6133783,6153843,RCmN/TCmN(Clark(2019)),RCmN/TCmN(Clark.et.al.(2019)),NsiI.TP357738,Proportion of reproductive culms,RCmN/TCmN,RCmN/TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,47749856,47749872,47739856,47759872,RCmN/TCmN(Clark(2019)),RCmN/TCmN(Clark.et.al.(2019)),NsiI.TP704429,Proportion of reproductive culms,RCmN/TCmN,RCmN/TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,74123200,74123229,74113200,74133229,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP486569,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,77866131,77866184,77856131,77876184,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP549839,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,79380812,79380852,79370812,79390852,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP743891,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,13757251,13757306,13747251,13767306,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP21535,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,79511152,79511194,79501152,79521194,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP504128,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,68081415,68081418,68071415,68091418,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP94114,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,63875851,63875904,63865851,63885904,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP627370,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,69355007,69355037,69345007,69365037,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP406255,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,69257960,69257986,69247960,69267986,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP514214,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,65981221,65981257,65971221,65991257,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP623090,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,57267937,57267957,57257937,57277957,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP631032,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,53058611,53058647,53048611,53068647,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP113107,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,3865245,3865251,3855245,3875251,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP360544,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,67177506,67177516,67167506,67187516,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP752837,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,51515314,51515338,51505314,51525338,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP683573,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,1420158,1420176,1410158,1430176,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP848855,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+5,62673796,62673835,62663796,62683835,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP128975,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+5,57385200,57385246,57375200,57395246,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP1009093,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,9087139,9087147,9077139,9097147,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP1071406,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,45346764,45346802,45336764,45356802,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP934265,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+7,2347033,2347086,2337033,2357086,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP402502,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+8,58295420,58295434,58285420,58305434,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP522065,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,53350628,53350666,53340628,53360666,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP113042,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,43096195,43096238,43086195,43106238,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),NsiI.TP789052,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,8840430,8840468,8830430,8850468,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP1278615,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,57718921,57718955,57708921,57728955,TCmN(Clark(2019)),TCmN(Clark.et.al.(2019)),PstI.TP408230,Total number of culms,TCmN,TCmN(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,63992445,63992469,63982445,64002469,TCmN/A(Clark(2019)),TCmN/A(Clark.et.al.(2019)),PstI.TP213479,Culms per footprint,TCmN/A,TCmN/A(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,17982184,17982247,17972184,17992247,TCmN/A(Clark(2019)),TCmN/A(Clark.et.al.(2019)),PstI.TP26506,Culms per footprint,TCmN/A,TCmN/A(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,63102484,63102501,63092484,63112501,TCmN/A(Clark(2019)),TCmN/A(Clark.et.al.(2019)),PstI.TP265108,Culms per footprint,TCmN/A,TCmN/A(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,67780882,67780901,67770882,67790901,TCmN/A(Clark(2019)),TCmN/A(Clark.et.al.(2019)),NsiI.TP71276,Culms per footprint,TCmN/A,TCmN/A(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,62124582,62124617,62114582,62134617,TCmN/A(Clark(2019)),TCmN/A(Clark.et.al.(2019)),NsiI.TP809203,Culms per footprint,TCmN/A,TCmN/A(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,3360402,3360420,3350402,3370420,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP148784,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,59459178,59459219,59449178,59469219,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP207520,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,53059579,53059620,53049579,53069620,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP395258,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,5576257,5576309,5566257,5586309,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP582235,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,68301153,68301193,68291153,68311193,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP878529,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,17685125,17685178,17675125,17695178,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP505162,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,76331901,76331936,76321901,76341936,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP616411,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+2,69816313,69816370,69806313,69826370,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP660927,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,60919492,60919523,60909492,60929523,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP425306,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,6089152,6089172,6079152,6099172,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP1175531,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+3,1935945,1935992,1925945,1945992,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP1253947,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,390298,390322,380298,400322,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP502518,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+4,55526605,55526639,55516605,55536639,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP36158,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+6,50891396,50891417,50881396,50901417,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP682471,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+8,10794784,10794802,10784784,10804802,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP212518,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,50389023,50389049,50379023,50399049,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),NsiI.TP798461,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+9,51448734,51448783,51438734,51458783,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP669168,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+10,573144,573164,563144,583164,Yld(Clark(2019)),Yld(Clark.et.al.(2019)),PstI.TP237577,Yield,Yld,Yld(Clark_et_al_(2019)),Blue,Clark_et_al_(2019)
+1,72131324,72131324,72121324,72141324,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP211798,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,58622993,58622993,58612993,58632993,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP224601,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,6103539,6103539,6093539,6113539,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP257077,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,51136397,51136397,51126397,51146397,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP30868,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,76403176,76403176,76393176,76413176,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP404457,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,66520178,66520178,66510178,66530178,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP482264,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,12066190,12066190,12056190,12076190,Bcirc(Current Study),Bcirc(Current Study),PstI.TP1016611,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,30650620,30650620,30640620,30660620,Bcirc(Current Study),Bcirc(Current Study),PstI.TP150197,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,74036176,74036176,74026176,74046176,Bcirc(Current Study),Bcirc(Current Study),PstI.TP326891,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,60097068,60097068,60087068,60107068,Bcirc(Current Study),Bcirc(Current Study),PstI.TP457393,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,70529598,70529598,70519598,70539598,Bcirc(Current Study),Bcirc(Current Study),PstI.TP663427,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,76101544,76101544,76091544,76111544,Bcirc(Current Study),Bcirc(Current Study),PstI.TP744556,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,69204551,69204551,69194551,69214551,Bcirc(Current Study),Bcirc(Current Study),PstI.TP754866,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,66347924,66347924,66337924,66357924,Bcirc(Current Study),Bcirc(Current Study),PstI.TP770722,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,70558586,70558586,70548586,70568586,Bcirc(Current Study),Bcirc(Current Study),PstI.TP969142,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,10687788,10687788,10677788,10697788,Bcirc(Current Study),Bcirc(Current Study),PstI.TP980214,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,186613,186613,176613,196613,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP39740,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,71277610,71277610,71267610,71287610,Bcirc(Current Study),Bcirc(Current Study),PstI.TP1025634,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,2888124,2888124,2878124,2898124,Bcirc(Current Study),Bcirc(Current Study),PstI.TP312941,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,75226780,75226780,75216780,75236780,Bcirc(Current Study),Bcirc(Current Study),PstI.TP426528,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,55394288,55394288,55384288,55404288,Bcirc(Current Study),Bcirc(Current Study),PstI.TP476886,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,73095782,73095782,73085782,73105782,Bcirc(Current Study),Bcirc(Current Study),PstI.TP503391,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,699673,699673,689673,709673,Bcirc(Current Study),Bcirc(Current Study),PstI.TP790069,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,64681502,64681502,64671502,64691502,Bcirc(Current Study),Bcirc(Current Study),PstI.TP838455,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+2,70172526,70172526,70162526,70182526,Bcirc(Current Study),Bcirc(Current Study),PstI.TP995173,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,51796050,51796050,51786050,51806050,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP218789,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,2660294,2660294,2650294,2670294,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP441693,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,13084031,13084031,13074031,13094031,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP563229,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,3528771,3528771,3518771,3538771,Bcirc(Current Study),Bcirc(Current Study),PstI.TP1032333,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,4545043,4545043,4535043,4555043,Bcirc(Current Study),Bcirc(Current Study),PstI.TP1280049,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,6088178,6088178,6078178,6098178,Bcirc(Current Study),Bcirc(Current Study),PstI.TP188641,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,7414396,7414396,7404396,7424396,Bcirc(Current Study),Bcirc(Current Study),PstI.TP202435,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,2577255,2577255,2567255,2587255,Bcirc(Current Study),Bcirc(Current Study),PstI.TP513843,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+3,66708999,66708999,66698999,66718999,Bcirc(Current Study),Bcirc(Current Study),PstI.TP940999,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,67938088,67938088,67928088,67948088,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP346008,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,62592587,62592587,62582587,62602587,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP391506,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,54844080,54844080,54834080,54854080,Bcirc(Current Study),Bcirc(Current Study),PstI.TP1040729,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,2136493,2136493,2126493,2146493,Bcirc(Current Study),Bcirc(Current Study),PstI.TP1198406,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,5155593,5155593,5145593,5165593,Bcirc(Current Study),Bcirc(Current Study),PstI.TP504809,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,60109935,60109935,60099935,60119935,Bcirc(Current Study),Bcirc(Current Study),PstI.TP648736,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,9915378,9915378,9905378,9925378,Bcirc(Current Study),Bcirc(Current Study),PstI.TP697156,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,62405613,62405613,62395613,62415613,Bcirc(Current Study),Bcirc(Current Study),PstI.TP714069,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+4,51121423,51121423,51111423,51131423,Bcirc(Current Study),Bcirc(Current Study),PstI.TP852023,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,56339998,56339998,56329998,56349998,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP647736,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,3182336,3182336,3172336,3192336,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP762935,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,47930110,47930110,47920110,47940110,Bcirc(Current Study),Bcirc(Current Study),PstI.TP148994,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,50586809,50586809,50576809,50596809,Bcirc(Current Study),Bcirc(Current Study),PstI.TP18079,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,1375822,1375822,1365822,1385822,Bcirc(Current Study),Bcirc(Current Study),PstI.TP298201,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,3914949,3914949,3904949,3924949,Bcirc(Current Study),Bcirc(Current Study),PstI.TP434866,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,45894338,45894338,45884338,45904338,Bcirc(Current Study),Bcirc(Current Study),PstI.TP710636,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,44312976,44312976,44302976,44322976,Bcirc(Current Study),Bcirc(Current Study),PstI.TP75301,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,1911989,1911989,1901989,1921989,Bcirc(Current Study),Bcirc(Current Study),PstI.TP774963,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,57442567,57442567,57432567,57452567,Bcirc(Current Study),Bcirc(Current Study),PstI.TP788586,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+6,57879722,57879722,57869722,57889722,Bcirc(Current Study),Bcirc(Current Study),PstI.TP849929,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+7,5038310,5038310,5028310,5048310,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP765320,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+8,61954442,61954442,61944442,61964442,Bcirc(Current Study),Bcirc(Current Study),PstI.TP161086,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+9,5056498,5056498,5046498,5066498,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP250072,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+9,49933625,49933625,49923625,49943625,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP296932,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+9,51572610,51572610,51562610,51582610,Bcirc(Current Study),Bcirc(Current Study),PstI.TP134129,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+9,58253929,58253929,58243929,58263929,Bcirc(Current Study),Bcirc(Current Study),PstI.TP548121,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+9,57621267,57621267,57611267,57631267,Bcirc(Current Study),Bcirc(Current Study),PstI.TP976305,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+10,7488785,7488785,7478785,7498785,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP296881,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+10,56296082,56296082,56286082,56306082,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP330963,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+10,41353679,41353679,41343679,41363679,Bcirc(Current Study),Bcirc(Current Study),NsiI.TP648509,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+10,60139620,60139620,60129620,60149620,Bcirc(Current Study),Bcirc(Current Study),PstI.TP65527,Basal circumference ,Bcirc,Bcirc(Current Study),Red,Current Study
+1,69534233,69534233,69524233,69544233,CCirc(Current Study),CCirc(Current Study),NsiI.TP361622,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,2988383,2988383,2978383,2998383,CCirc(Current Study),CCirc(Current Study),PstI.TP1268585,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,74361721,74361721,74351721,74371721,CCirc(Current Study),CCirc(Current Study),PstI.TP258621,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,8330660,8330660,8320660,8340660,CCirc(Current Study),CCirc(Current Study),PstI.TP308053,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,17611146,17611146,17601146,17621146,CCirc(Current Study),CCirc(Current Study),PstI.TP392482,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,66632271,66632271,66622271,66642271,CCirc(Current Study),CCirc(Current Study),PstI.TP393536,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,60097068,60097068,60087068,60107068,CCirc(Current Study),CCirc(Current Study),PstI.TP457393,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,78162057,78162057,78152057,78172057,CCirc(Current Study),CCirc(Current Study),PstI.TP537292,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,13263569,13263569,13253569,13273569,CCirc(Current Study),CCirc(Current Study),PstI.TP770895,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,79442910,79442910,79432910,79452910,CCirc(Current Study),CCirc(Current Study),PstI.TP898259,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+2,57174602,57174602,57164602,57184602,CCirc(Current Study),CCirc(Current Study),PstI.TP1082141,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+2,59081475,59081475,59071475,59091475,CCirc(Current Study),CCirc(Current Study),PstI.TP584552,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+2,72930521,72930521,72920521,72940521,CCirc(Current Study),CCirc(Current Study),PstI.TP875140,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+2,58286678,58286678,58276678,58296678,CCirc(Current Study),CCirc(Current Study),PstI.TP993272,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+3,6399724,6399724,6389724,6409724,CCirc(Current Study),CCirc(Current Study),NsiI.TP634727,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+3,61619462,61619462,61609462,61629462,CCirc(Current Study),CCirc(Current Study),PstI.TP1158211,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+3,55546977,55546977,55536977,55556977,CCirc(Current Study),CCirc(Current Study),PstI.TP1214992,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+3,50687892,50687892,50677892,50697892,CCirc(Current Study),CCirc(Current Study),PstI.TP704244,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+3,55061314,55061314,55051314,55071314,CCirc(Current Study),CCirc(Current Study),PstI.TP773172,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+3,64754613,64754613,64744613,64764613,CCirc(Current Study),CCirc(Current Study),PstI.TP942675,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+4,58488770,58488770,58478770,58498770,CCirc(Current Study),CCirc(Current Study),NsiI.TP390222,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+4,61084375,61084375,61074375,61094375,CCirc(Current Study),CCirc(Current Study),NsiI.TP750593,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+4,12330408,12330408,12320408,12340408,CCirc(Current Study),CCirc(Current Study),NsiI.TP827851,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+4,55764847,55764847,55754847,55774847,CCirc(Current Study),CCirc(Current Study),PstI.TP982503,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+5,69264081,69264081,69254081,69274081,CCirc(Current Study),CCirc(Current Study),PstI.TP1145813,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+5,3450082,3450082,3440082,3460082,CCirc(Current Study),CCirc(Current Study),PstI.TP292268,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+5,35481232,35481232,35471232,35491232,CCirc(Current Study),CCirc(Current Study),PstI.TP651320,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+6,3182336,3182336,3172336,3192336,CCirc(Current Study),CCirc(Current Study),NsiI.TP762935,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+6,40247059,40247059,40237059,40257059,CCirc(Current Study),CCirc(Current Study),PstI.TP501240,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+6,51146867,51146867,51136867,51156867,CCirc(Current Study),CCirc(Current Study),PstI.TP55941,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+7,5395966,5395966,5385966,5405966,CCirc(Current Study),CCirc(Current Study),GFSSContig18221_1150,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+7,2953287,2953287,2943287,2963287,CCirc(Current Study),CCirc(Current Study),PstI.TP197493,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+7,63993858,63993858,63983858,64003858,CCirc(Current Study),CCirc(Current Study),PstI.TP814417,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+8,3139123,3139123,3129123,3149123,CCirc(Current Study),CCirc(Current Study),PstI.TP315072,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+8,50730872,50730872,50720872,50740872,CCirc(Current Study),CCirc(Current Study),PstI.TP458366,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+9,55961556,55961556,55951556,55971556,CCirc(Current Study),CCirc(Current Study),PstI.TP387329,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+10,52898413,52898413,52888413,52908413,CCirc(Current Study),CCirc(Current Study),NsiI.TP471487,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+10,9880843,9880843,9870843,9890843,CCirc(Current Study),CCirc(Current Study),PstI.TP110898,Compressed plant circumference ,CCirc,CCirc(Current Study),Red,Current Study
+1,5540981,5540981,5530981,5550981,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP137261,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+1,72175111,72175111,72165111,72185111,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP324568,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+1,28681754,28681754,28671754,28691754,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP376790,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+1,78162835,78162835,78152835,78172835,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP459121,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+1,22258955,22258955,22248955,22268955,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP761935,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+1,5999154,5999154,5989154,6009154,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP882936,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+1,731905,731905,721905,741905,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP94792,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,67720379,67720379,67710379,67730379,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP213158,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,13453548,13453548,13443548,13463548,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP51047,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,59610846,59610846,59600846,59620846,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP1012416,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,15963619,15963619,15953619,15973619,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP108652,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,65029446,65029446,65019446,65039446,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP384804,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,10527282,10527282,10517282,10537282,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP452173,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,63153549,63153549,63143549,63163549,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP454285,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,55394288,55394288,55384288,55404288,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP476886,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,74605041,74605041,74595041,74615041,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP5429,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,62659796,62659796,62649796,62669796,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP631692,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+2,14521096,14521096,14511096,14531096,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP998491,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,3528771,3528771,3518771,3538771,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP1032333,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,1870807,1870807,1860807,1880807,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP1064534,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,6088178,6088178,6078178,6098178,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP188641,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,52014149,52014149,52004149,52024149,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP346744,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,63462498,63462498,63452498,63472498,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP478050,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,50687892,50687892,50677892,50697892,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP704244,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,55061314,55061314,55051314,55071314,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP773172,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,69354547,69354547,69344547,69364547,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP789647,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,4037471,4037471,4027471,4047471,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP838943,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+3,14568699,14568699,14558699,14578699,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP867369,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+4,67451505,67451505,67441505,67461505,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP438910,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+4,14235179,14235179,14225179,14245179,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP575629,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+4,12330408,12330408,12320408,12340408,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP827851,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+4,63683010,63683010,63673010,63693010,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP1132955,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+4,3373898,3373898,3363898,3383898,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP39944,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+4,4201581,4201581,4191581,4211581,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP57846,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+4,61217735,61217735,61207735,61227735,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP704666,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+5,61642341,61642341,61632341,61652341,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP713636,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+5,51810245,51810245,51800245,51820245,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP197570,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+5,70851257,70851257,70841257,70861257,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP742466,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+6,56190559,56190559,56180559,56200559,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP128897,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+6,57974096,57974096,57964096,57984096,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP10996,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+6,3914949,3914949,3904949,3924949,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP434866,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+6,45615805,45615805,45605805,45625805,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP745785,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+7,5038310,5038310,5028310,5048310,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP765320,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+7,10755390,10755390,10745390,10765390,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP446073,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+7,15569290,15569290,15559290,15579290,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP474390,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+7,10269451,10269451,10259451,10279451,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP887302,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+8,60371664,60371664,60361664,60381664,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP701217,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+8,5124822,5124822,5114822,5134822,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP771300,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+9,50004653,50004653,49994653,50014653,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP1155086,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+9,57790410,57790410,57780410,57800410,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP14229,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+9,1942972,1942972,1932972,1952972,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP723544,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+10,41353679,41353679,41343679,41363679,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP648509,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+10,58023898,58023898,58013898,58033898,CmD_BI(Current Study),CmD_BI(Current Study),NsiI.TP717578,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+10,59883760,59883760,59873760,59893760,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP371473,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+10,7091437,7091437,7081437,7101437,CmD_BI(Current Study),CmD_BI(Current Study),PstI.TP510424,Culm outer diameter at basal internode ,CmD_BI,CmD_BI(Current Study),Red,Current Study
+1,21598230,21598230,21588230,21608230,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP331606,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,75748041,75748041,75738041,75758041,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP506284,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,19994793,19994793,19984793,20004793,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP576208,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,9322002,9322002,9312002,9332002,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP769756,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,76203935,76203935,76193935,76213935,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP832364,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,28681754,28681754,28671754,28691754,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP376790,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,60097068,60097068,60087068,60107068,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP457393,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,12743038,12743038,12733038,12753038,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP47447,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,2979376,2979376,2969376,2989376,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP736503,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,63680478,63680478,63670478,63690478,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP84880,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,65184135,65184135,65174135,65194135,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP961110,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,74627859,74627859,74617859,74637859,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP41841,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,59555953,59555953,59545953,59565953,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP741199,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,65962511,65962511,65952511,65972511,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP741991,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,61303139,61303139,61293139,61313139,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP810561,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,47054143,47054143,47044143,47064143,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP1154493,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,45986549,45986549,45976549,45996549,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP117081,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,69224467,69224467,69214467,69234467,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP139651,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,23769344,23769344,23759344,23779344,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP18098,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,4692065,4692065,4682065,4702065,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP262331,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+2,55394288,55394288,55384288,55404288,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP476886,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+3,2577255,2577255,2567255,2587255,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP513843,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+3,50687892,50687892,50677892,50697892,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP704244,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+3,55061314,55061314,55051314,55071314,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP773172,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+3,69354547,69354547,69344547,69364547,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP789647,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+3,3716611,3716611,3706611,3726611,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP906726,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+4,61088428,61088428,61078428,61098428,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP217994,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+4,7549373,7549373,7539373,7559373,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP774504,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+4,51121423,51121423,51111423,51131423,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP852023,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+5,5554725,5554725,5544725,5564725,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP488716,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+5,2299991,2299991,2289991,2309991,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP1181476,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,49927748,49927748,49917748,49937748,CmD_LI(Current Study),CmD_LI(Current Study),GFSSContig17265_1038,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,43353284,43353284,43343284,43363284,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP471156,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,57974096,57974096,57964096,57984096,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP10996,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,60825902,60825902,60815902,60835902,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP1193013,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,60503682,60503682,60493682,60513682,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP126085,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,51146867,51146867,51136867,51156867,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP55941,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,45894338,45894338,45884338,45904338,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP710636,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,1911989,1911989,1901989,1921989,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP774963,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,49388605,49388605,49378605,49398605,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP840679,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+6,38025522,38025522,38015522,38035522,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP96720,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+7,61710211,61710211,61700211,61720211,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP766057,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+8,1028461,1028461,1018461,1038461,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP1248844,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+8,16103749,16103749,16093749,16113749,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP290055,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+8,3139123,3139123,3129123,3149123,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP315072,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+9,46091568,46091568,46081568,46101568,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP154137,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+9,2970040,2970040,2960040,2980040,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP299726,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+10,41353679,41353679,41343679,41363679,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP648509,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+10,58023898,58023898,58013898,58033898,CmD_LI(Current Study),CmD_LI(Current Study),NsiI.TP717578,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+10,58956886,58956886,58946886,58966886,CmD_LI(Current Study),CmD_LI(Current Study),PstI.TP651715,Culm outer diameter at last internode ,CmD_LI,CmD_LI(Current Study),Red,Current Study
+1,57778864,57778864,57768864,57788864,CmDW(Current Study),CmDW(Current Study),NsiI.TP46196,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,6409370,6409370,6399370,6419370,CmDW(Current Study),CmDW(Current Study),NsiI.TP488601,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,75748041,75748041,75738041,75758041,CmDW(Current Study),CmDW(Current Study),NsiI.TP506284,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,19994793,19994793,19984793,20004793,CmDW(Current Study),CmDW(Current Study),NsiI.TP576208,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,3576636,3576636,3566636,3586636,CmDW(Current Study),CmDW(Current Study),PstI.TP374511,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,4990016,4990016,4980016,5000016,CmDW(Current Study),CmDW(Current Study),PstI.TP402429,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,60097068,60097068,60087068,60107068,CmDW(Current Study),CmDW(Current Study),PstI.TP457393,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,78162835,78162835,78152835,78172835,CmDW(Current Study),CmDW(Current Study),PstI.TP459121,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,12743038,12743038,12733038,12753038,CmDW(Current Study),CmDW(Current Study),PstI.TP47447,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,71344044,71344044,71334044,71354044,CmDW(Current Study),CmDW(Current Study),PstI.TP805461,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,57602883,57602883,57592883,57612883,CmDW(Current Study),CmDW(Current Study),NsiI.TP423584,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,63804104,63804104,63794104,63814104,CmDW(Current Study),CmDW(Current Study),NsiI.TP571832,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,61303139,61303139,61293139,61313139,CmDW(Current Study),CmDW(Current Study),NsiI.TP810561,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,62049812,62049812,62039812,62059812,CmDW(Current Study),CmDW(Current Study),PstI.TP1148558,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,61861955,61861955,61851955,61871955,CmDW(Current Study),CmDW(Current Study),PstI.TP134453,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,66298184,66298184,66288184,66308184,CmDW(Current Study),CmDW(Current Study),PstI.TP139937,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,65029446,65029446,65019446,65039446,CmDW(Current Study),CmDW(Current Study),PstI.TP384804,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,61335361,61335361,61325361,61345361,CmDW(Current Study),CmDW(Current Study),PstI.TP577552,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,699673,699673,689673,709673,CmDW(Current Study),CmDW(Current Study),PstI.TP790069,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+2,58637331,58637331,58627331,58647331,CmDW(Current Study),CmDW(Current Study),PstI.TP844985,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+3,58498950,58498950,58488950,58508950,CmDW(Current Study),CmDW(Current Study),PstI.TP1249212,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+3,60121147,60121147,60111147,60131147,CmDW(Current Study),CmDW(Current Study),PstI.TP701332,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+3,50687892,50687892,50677892,50697892,CmDW(Current Study),CmDW(Current Study),PstI.TP704244,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+3,55061314,55061314,55051314,55071314,CmDW(Current Study),CmDW(Current Study),PstI.TP773172,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+3,69354547,69354547,69344547,69364547,CmDW(Current Study),CmDW(Current Study),PstI.TP789647,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+3,4037471,4037471,4027471,4047471,CmDW(Current Study),CmDW(Current Study),PstI.TP838943,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+3,67880743,67880743,67870743,67890743,CmDW(Current Study),CmDW(Current Study),PstI.TP955356,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,54754163,54754163,54744163,54764163,CmDW(Current Study),CmDW(Current Study),NsiI.TP127922,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,14235179,14235179,14225179,14245179,CmDW(Current Study),CmDW(Current Study),NsiI.TP575629,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,57224161,57224161,57214161,57234161,CmDW(Current Study),CmDW(Current Study),NsiI.TP717913,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,12330408,12330408,12320408,12340408,CmDW(Current Study),CmDW(Current Study),NsiI.TP827851,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,63161916,63161916,63151916,63171916,CmDW(Current Study),CmDW(Current Study),NsiI.TP89701,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,61088428,61088428,61078428,61098428,CmDW(Current Study),CmDW(Current Study),PstI.TP217994,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,4201581,4201581,4191581,4211581,CmDW(Current Study),CmDW(Current Study),PstI.TP57846,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+4,51121423,51121423,51111423,51131423,CmDW(Current Study),CmDW(Current Study),PstI.TP852023,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+5,2299991,2299991,2289991,2309991,CmDW(Current Study),CmDW(Current Study),PstI.TP1181476,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+5,70851257,70851257,70841257,70861257,CmDW(Current Study),CmDW(Current Study),PstI.TP742466,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+6,56190559,56190559,56180559,56200559,CmDW(Current Study),CmDW(Current Study),NsiI.TP128897,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+6,57974096,57974096,57964096,57984096,CmDW(Current Study),CmDW(Current Study),PstI.TP10996,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+6,49388605,49388605,49378605,49398605,CmDW(Current Study),CmDW(Current Study),PstI.TP840679,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+7,56447700,56447700,56437700,56457700,CmDW(Current Study),CmDW(Current Study),PstI.TP1083673,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+8,2905616,2905616,2895616,2915616,CmDW(Current Study),CmDW(Current Study),PstI.TP350262,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+9,152998,152998,142998,162998,CmDW(Current Study),CmDW(Current Study),NsiI.TP608372,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+9,50004653,50004653,49994653,50014653,CmDW(Current Study),CmDW(Current Study),PstI.TP1155086,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+9,55685356,55685356,55675356,55695356,CmDW(Current Study),CmDW(Current Study),PstI.TP160694,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+9,2970040,2970040,2960040,2980040,CmDW(Current Study),CmDW(Current Study),PstI.TP299726,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+9,1942972,1942972,1932972,1952972,CmDW(Current Study),CmDW(Current Study),PstI.TP723544,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+10,41353679,41353679,41343679,41363679,CmDW(Current Study),CmDW(Current Study),NsiI.TP648509,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+10,9880843,9880843,9870843,9890843,CmDW(Current Study),CmDW(Current Study),PstI.TP110898,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+10,54500517,54500517,54490517,54510517,CmDW(Current Study),CmDW(Current Study),PstI.TP117838,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+10,60979471,60979471,60969471,60989471,CmDW(Current Study),CmDW(Current Study),PstI.TP226277,Culm dry weight ,CmDW,CmDW(Current Study),Red,Current Study
+1,75432709,75432709,75422709,75442709,Cml(Current Study),Cml(Current Study),NsiI.TP195403,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,6409370,6409370,6399370,6419370,Cml(Current Study),Cml(Current Study),NsiI.TP488601,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,3113038,3113038,3103038,3123038,Cml(Current Study),Cml(Current Study),NsiI.TP520698,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,69156484,69156484,69146484,69166484,Cml(Current Study),Cml(Current Study),NsiI.TP5701,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,57499558,57499558,57489558,57509558,Cml(Current Study),Cml(Current Study),NsiI.TP758763,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,13150553,13150553,13140553,13160553,Cml(Current Study),Cml(Current Study),PstI.TP1051083,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,1015480,1015480,1005480,1025480,Cml(Current Study),Cml(Current Study),PstI.TP1246584,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,26927564,26927564,26917564,26937564,Cml(Current Study),Cml(Current Study),PstI.TP19694,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,78162835,78162835,78152835,78172835,Cml(Current Study),Cml(Current Study),PstI.TP459121,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,80877289,80877289,80867289,80887289,Cml(Current Study),Cml(Current Study),PstI.TP703969,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,26848011,26848011,26838011,26858011,Cml(Current Study),Cml(Current Study),PstI.TP757921,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,7984963,7984963,7974963,7994963,Cml(Current Study),Cml(Current Study),PstI.TP972953,Culm length ,Cml,Cml(Current Study),Red,Current Study
+2,75774037,75774037,75764037,75784037,Cml(Current Study),Cml(Current Study),NsiI.TP164112,Culm length ,Cml,Cml(Current Study),Red,Current Study
+2,61303139,61303139,61293139,61313139,Cml(Current Study),Cml(Current Study),NsiI.TP810561,Culm length ,Cml,Cml(Current Study),Red,Current Study
+2,61335361,61335361,61325361,61345361,Cml(Current Study),Cml(Current Study),PstI.TP577552,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,51796050,51796050,51786050,51806050,Cml(Current Study),Cml(Current Study),NsiI.TP218789,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,63530717,63530717,63520717,63540717,Cml(Current Study),Cml(Current Study),NsiI.TP447144,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,57849113,57849113,57839113,57859113,Cml(Current Study),Cml(Current Study),NsiI.TP586300,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,54845915,54845915,54835915,54855915,Cml(Current Study),Cml(Current Study),PstI.TP105605,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,63645828,63645828,63635828,63655828,Cml(Current Study),Cml(Current Study),PstI.TP1057917,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,60988993,60988993,60978993,60998993,Cml(Current Study),Cml(Current Study),PstI.TP1066422,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,65245788,65245788,65235788,65255788,Cml(Current Study),Cml(Current Study),PstI.TP4963,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,55061314,55061314,55051314,55071314,Cml(Current Study),Cml(Current Study),PstI.TP773172,Culm length ,Cml,Cml(Current Study),Red,Current Study
+3,4037471,4037471,4027471,4047471,Cml(Current Study),Cml(Current Study),PstI.TP838943,Culm length ,Cml,Cml(Current Study),Red,Current Study
+4,54754163,54754163,54744163,54764163,Cml(Current Study),Cml(Current Study),NsiI.TP127922,Culm length ,Cml,Cml(Current Study),Red,Current Study
+4,62497766,62497766,62487766,62507766,Cml(Current Study),Cml(Current Study),NsiI.TP383201,Culm length ,Cml,Cml(Current Study),Red,Current Study
+4,10248885,10248885,10238885,10258885,Cml(Current Study),Cml(Current Study),NsiI.TP696486,Culm length ,Cml,Cml(Current Study),Red,Current Study
+4,61088428,61088428,61078428,61098428,Cml(Current Study),Cml(Current Study),PstI.TP217994,Culm length ,Cml,Cml(Current Study),Red,Current Study
+4,4201581,4201581,4191581,4211581,Cml(Current Study),Cml(Current Study),PstI.TP57846,Culm length ,Cml,Cml(Current Study),Red,Current Study
+4,66143706,66143706,66133706,66153706,Cml(Current Study),Cml(Current Study),PstI.TP858902,Culm length ,Cml,Cml(Current Study),Red,Current Study
+5,57403,57403,47403,67403,Cml(Current Study),Cml(Current Study),NsiI.TP33138,Culm length ,Cml,Cml(Current Study),Red,Current Study
+5,38567770,38567770,38557770,38577770,Cml(Current Study),Cml(Current Study),NsiI.TP635575,Culm length ,Cml,Cml(Current Study),Red,Current Study
+5,70851257,70851257,70841257,70861257,Cml(Current Study),Cml(Current Study),PstI.TP742466,Culm length ,Cml,Cml(Current Study),Red,Current Study
+5,69228848,69228848,69218848,69238848,Cml(Current Study),Cml(Current Study),PstI.TP841498,Culm length ,Cml,Cml(Current Study),Red,Current Study
+6,47900218,47900218,47890218,47910218,Cml(Current Study),Cml(Current Study),NsiI.TP34193,Culm length ,Cml,Cml(Current Study),Red,Current Study
+6,57974096,57974096,57964096,57984096,Cml(Current Study),Cml(Current Study),PstI.TP10996,Culm length ,Cml,Cml(Current Study),Red,Current Study
+6,47930110,47930110,47920110,47940110,Cml(Current Study),Cml(Current Study),PstI.TP148994,Culm length ,Cml,Cml(Current Study),Red,Current Study
+6,51146867,51146867,51136867,51156867,Cml(Current Study),Cml(Current Study),PstI.TP55941,Culm length ,Cml,Cml(Current Study),Red,Current Study
+6,45615805,45615805,45605805,45625805,Cml(Current Study),Cml(Current Study),PstI.TP745785,Culm length ,Cml,Cml(Current Study),Red,Current Study
+6,49388605,49388605,49378605,49398605,Cml(Current Study),Cml(Current Study),PstI.TP840679,Culm length ,Cml,Cml(Current Study),Red,Current Study
+7,59825579,59825579,59815579,59835579,Cml(Current Study),Cml(Current Study),PstI.TP290738,Culm length ,Cml,Cml(Current Study),Red,Current Study
+8,528900,528900,518900,538900,Cml(Current Study),Cml(Current Study),PstI.TP795667,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,5342948,5342948,5332948,5352948,Cml(Current Study),Cml(Current Study),NsiI.TP249634,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,55901846,55901846,55891846,55911846,Cml(Current Study),Cml(Current Study),NsiI.TP445017,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,50004653,50004653,49994653,50014653,Cml(Current Study),Cml(Current Study),PstI.TP1155086,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,50325026,50325026,50315026,50335026,Cml(Current Study),Cml(Current Study),PstI.TP118716,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,57790410,57790410,57780410,57800410,Cml(Current Study),Cml(Current Study),PstI.TP14229,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,56211895,56211895,56201895,56221895,Cml(Current Study),Cml(Current Study),PstI.TP15780,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,55239543,55239543,55229543,55249543,Cml(Current Study),Cml(Current Study),PstI.TP355049,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,57032697,57032697,57022697,57042697,Cml(Current Study),Cml(Current Study),PstI.TP485114,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,50513395,50513395,50503395,50523395,Cml(Current Study),Cml(Current Study),PstI.TP751721,Culm length ,Cml,Cml(Current Study),Red,Current Study
+9,3265857,3265857,3255857,3275857,Cml(Current Study),Cml(Current Study),PstI.TP901954,Culm length ,Cml,Cml(Current Study),Red,Current Study
+10,41353679,41353679,41343679,41363679,Cml(Current Study),Cml(Current Study),NsiI.TP648509,Culm length ,Cml,Cml(Current Study),Red,Current Study
+10,10693125,10693125,10683125,10703125,Cml(Current Study),Cml(Current Study),NsiI.TP764847,Culm length ,Cml,Cml(Current Study),Red,Current Study
+10,60979471,60979471,60969471,60989471,Cml(Current Study),Cml(Current Study),PstI.TP226277,Culm length ,Cml,Cml(Current Study),Red,Current Study
+10,6556740,6556740,6546740,6566740,Cml(Current Study),Cml(Current Study),PstI.TP738082,Culm length ,Cml,Cml(Current Study),Red,Current Study
+10,52242723,52242723,52232723,52252723,Cml(Current Study),Cml(Current Study),PstI.TP771967,Culm length ,Cml,Cml(Current Study),Red,Current Study
+1,67605060,67605060,67595060,67615060,CmN(Current Study),CmN(Current Study),NsiI.TP172212,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,75354964,75354964,75344964,75364964,CmN(Current Study),CmN(Current Study),NsiI.TP415654,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,74820948,74820948,74810948,74830948,CmN(Current Study),CmN(Current Study),NsiI.TP465791,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,8181678,8181678,8171678,8191678,CmN(Current Study),CmN(Current Study),NsiI.TP681203,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,12653027,12653027,12643027,12663027,CmN(Current Study),CmN(Current Study),NsiI.TP750615,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,67675884,67675884,67665884,67685884,CmN(Current Study),CmN(Current Study),NsiI.TP754072,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,67205643,67205643,67195643,67215643,CmN(Current Study),CmN(Current Study),PstI.TP111833,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,72123046,72123046,72113046,72133046,CmN(Current Study),CmN(Current Study),PstI.TP1212724,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,78396312,78396312,78386312,78406312,CmN(Current Study),CmN(Current Study),PstI.TP217199,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,66632271,66632271,66622271,66642271,CmN(Current Study),CmN(Current Study),PstI.TP393536,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,60097068,60097068,60087068,60107068,CmN(Current Study),CmN(Current Study),PstI.TP457393,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,78162835,78162835,78152835,78172835,CmN(Current Study),CmN(Current Study),PstI.TP459121,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,7260226,7260226,7250226,7270226,CmN(Current Study),CmN(Current Study),PstI.TP485051,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,70805200,70805200,70795200,70815200,CmN(Current Study),CmN(Current Study),PstI.TP69823,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,6117705,6117705,6107705,6127705,CmN(Current Study),CmN(Current Study),PstI.TP850835,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,11187262,11187262,11177262,11197262,CmN(Current Study),CmN(Current Study),PstI.TP869093,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,80310797,80310797,80300797,80320797,CmN(Current Study),CmN(Current Study),PstI.TP892749,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,67954599,67954599,67944599,67964599,CmN(Current Study),CmN(Current Study),GFSSContig17477_775,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,675031,675031,665031,685031,CmN(Current Study),CmN(Current Study),NsiI.TP282888,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,65096533,65096533,65086533,65106533,CmN(Current Study),CmN(Current Study),NsiI.TP409721,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,56699414,56699414,56689414,56709414,CmN(Current Study),CmN(Current Study),NsiI.TP443023,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,61270017,61270017,61260017,61280017,CmN(Current Study),CmN(Current Study),NsiI.TP494603,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,2228424,2228424,2218424,2238424,CmN(Current Study),CmN(Current Study),NsiI.TP575555,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,52050200,52050200,52040200,52060200,CmN(Current Study),CmN(Current Study),NsiI.TP617177,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,71277610,71277610,71267610,71287610,CmN(Current Study),CmN(Current Study),PstI.TP1025634,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,63346042,63346042,63336042,63356042,CmN(Current Study),CmN(Current Study),PstI.TP1100764,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,61958273,61958273,61948273,61968273,CmN(Current Study),CmN(Current Study),PstI.TP1123778,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,59726913,59726913,59716913,59736913,CmN(Current Study),CmN(Current Study),PstI.TP1128002,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,76322220,76322220,76312220,76332220,CmN(Current Study),CmN(Current Study),PstI.TP153500,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,45782629,45782629,45772629,45792629,CmN(Current Study),CmN(Current Study),PstI.TP385678,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,71461615,71461615,71451615,71471615,CmN(Current Study),CmN(Current Study),PstI.TP425751,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,63153549,63153549,63143549,63163549,CmN(Current Study),CmN(Current Study),PstI.TP454285,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,75564773,75564773,75554773,75574773,CmN(Current Study),CmN(Current Study),PstI.TP547023,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,61335361,61335361,61325361,61345361,CmN(Current Study),CmN(Current Study),PstI.TP577552,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,69910554,69910554,69900554,69920554,CmN(Current Study),CmN(Current Study),PstI.TP663163,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,74477521,74477521,74467521,74487521,CmN(Current Study),CmN(Current Study),PstI.TP749093,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,3715278,3715278,3705278,3725278,CmN(Current Study),CmN(Current Study),PstI.TP794569,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,72930521,72930521,72920521,72940521,CmN(Current Study),CmN(Current Study),PstI.TP875140,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+2,14521096,14521096,14511096,14531096,CmN(Current Study),CmN(Current Study),PstI.TP998491,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,69000501,69000501,68990501,69010501,CmN(Current Study),CmN(Current Study),NsiI.TP128678,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,3586934,3586934,3576934,3596934,CmN(Current Study),CmN(Current Study),NsiI.TP217838,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,71119897,71119897,71109897,71129897,CmN(Current Study),CmN(Current Study),NsiI.TP327757,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,64344627,64344627,64334627,64354627,CmN(Current Study),CmN(Current Study),NsiI.TP332475,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,59218088,59218088,59208088,59228088,CmN(Current Study),CmN(Current Study),NsiI.TP338132,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,68111215,68111215,68101215,68121215,CmN(Current Study),CmN(Current Study),NsiI.TP370880,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,11842346,11842346,11832346,11852346,CmN(Current Study),CmN(Current Study),NsiI.TP434679,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,62054481,62054481,62044481,62064481,CmN(Current Study),CmN(Current Study),NsiI.TP726681,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,65668248,65668248,65658248,65678248,CmN(Current Study),CmN(Current Study),PstI.TP1128716,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,17294985,17294985,17284985,17304985,CmN(Current Study),CmN(Current Study),PstI.TP1146105,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,7342289,7342289,7332289,7352289,CmN(Current Study),CmN(Current Study),PstI.TP1226186,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,8690384,8690384,8680384,8700384,CmN(Current Study),CmN(Current Study),PstI.TP132940,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,72380511,72380511,72370511,72390511,CmN(Current Study),CmN(Current Study),PstI.TP233305,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,61336314,61336314,61326314,61346314,CmN(Current Study),CmN(Current Study),PstI.TP238422,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,10399618,10399618,10389618,10409618,CmN(Current Study),CmN(Current Study),PstI.TP300328,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,69602329,69602329,69592329,69612329,CmN(Current Study),CmN(Current Study),PstI.TP410209,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,57313153,57313153,57303153,57323153,CmN(Current Study),CmN(Current Study),PstI.TP433824,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,72097083,72097083,72087083,72107083,CmN(Current Study),CmN(Current Study),PstI.TP704102,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,8503251,8503251,8493251,8513251,CmN(Current Study),CmN(Current Study),PstI.TP788810,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+3,12140520,12140520,12130520,12150520,CmN(Current Study),CmN(Current Study),PstI.TP797446,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,54754163,54754163,54744163,54764163,CmN(Current Study),CmN(Current Study),NsiI.TP127922,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,5011408,5011408,5001408,5021408,CmN(Current Study),CmN(Current Study),NsiI.TP154371,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,58488770,58488770,58478770,58498770,CmN(Current Study),CmN(Current Study),NsiI.TP390222,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,58096507,58096507,58086507,58106507,CmN(Current Study),CmN(Current Study),NsiI.TP402511,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,52156961,52156961,52146961,52166961,CmN(Current Study),CmN(Current Study),NsiI.TP443125,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,68022596,68022596,68012596,68032596,CmN(Current Study),CmN(Current Study),NsiI.TP515167,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,63763133,63763133,63753133,63773133,CmN(Current Study),CmN(Current Study),NsiI.TP779177,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,12330408,12330408,12320408,12340408,CmN(Current Study),CmN(Current Study),NsiI.TP827851,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,62207098,62207098,62197098,62217098,CmN(Current Study),CmN(Current Study),PstI.TP1026977,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,65166320,65166320,65156320,65176320,CmN(Current Study),CmN(Current Study),PstI.TP1098463,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,48397503,48397503,48387503,48407503,CmN(Current Study),CmN(Current Study),PstI.TP1148487,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,64295006,64295006,64285006,64305006,CmN(Current Study),CmN(Current Study),PstI.TP1235909,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,666401,666401,656401,676401,CmN(Current Study),CmN(Current Study),PstI.TP1250993,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,4598220,4598220,4588220,4608220,CmN(Current Study),CmN(Current Study),PstI.TP246674,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,14228269,14228269,14218269,14238269,CmN(Current Study),CmN(Current Study),PstI.TP257951,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,66042591,66042591,66032591,66052591,CmN(Current Study),CmN(Current Study),PstI.TP317521,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,61064043,61064043,61054043,61074043,CmN(Current Study),CmN(Current Study),PstI.TP480983,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,5155593,5155593,5145593,5165593,CmN(Current Study),CmN(Current Study),PstI.TP504809,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,53924496,53924496,53914496,53934496,CmN(Current Study),CmN(Current Study),PstI.TP521834,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,4364673,4364673,4354673,4374673,CmN(Current Study),CmN(Current Study),PstI.TP570804,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,51215387,51215387,51205387,51225387,CmN(Current Study),CmN(Current Study),PstI.TP802133,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+4,9701801,9701801,9691801,9711801,CmN(Current Study),CmN(Current Study),PstI.TP998275,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+5,2299991,2299991,2289991,2309991,CmN(Current Study),CmN(Current Study),PstI.TP1181476,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+5,3450082,3450082,3440082,3460082,CmN(Current Study),CmN(Current Study),PstI.TP292268,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+5,53907385,53907385,53897385,53917385,CmN(Current Study),CmN(Current Study),PstI.TP609962,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+5,2641756,2641756,2631756,2651756,CmN(Current Study),CmN(Current Study),PstI.TP714651,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+5,64652954,64652954,64642954,64662954,CmN(Current Study),CmN(Current Study),PstI.TP719892,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+5,191126,191126,181126,201126,CmN(Current Study),CmN(Current Study),PstI.TP747686,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+5,69228848,69228848,69218848,69238848,CmN(Current Study),CmN(Current Study),PstI.TP841498,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,57820247,57820247,57810247,57830247,CmN(Current Study),CmN(Current Study),NsiI.TP159695,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,59462133,59462133,59452133,59472133,CmN(Current Study),CmN(Current Study),NsiI.TP255006,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,53961287,53961287,53951287,53971287,CmN(Current Study),CmN(Current Study),NsiI.TP338280,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,555824,555824,545824,565824,CmN(Current Study),CmN(Current Study),NsiI.TP352026,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,42784766,42784766,42774766,42794766,CmN(Current Study),CmN(Current Study),NsiI.TP358081,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,53064783,53064783,53054783,53074783,CmN(Current Study),CmN(Current Study),NsiI.TP359278,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,57075072,57075072,57065072,57085072,CmN(Current Study),CmN(Current Study),NsiI.TP616137,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,44593939,44593939,44583939,44603939,CmN(Current Study),CmN(Current Study),PstI.TP104645,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,47330022,47330022,47320022,47340022,CmN(Current Study),CmN(Current Study),PstI.TP1090311,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,57974096,57974096,57964096,57984096,CmN(Current Study),CmN(Current Study),PstI.TP10996,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,50717397,50717397,50707397,50727397,CmN(Current Study),CmN(Current Study),PstI.TP1187427,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,56654494,56654494,56644494,56664494,CmN(Current Study),CmN(Current Study),PstI.TP1225179,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,53186052,53186052,53176052,53196052,CmN(Current Study),CmN(Current Study),PstI.TP228722,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,59970341,59970341,59960341,59980341,CmN(Current Study),CmN(Current Study),PstI.TP418863,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,57995101,57995101,57985101,58005101,CmN(Current Study),CmN(Current Study),PstI.TP607682,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,40243524,40243524,40233524,40253524,CmN(Current Study),CmN(Current Study),PstI.TP629514,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+6,57757179,57757179,57747179,57767179,CmN(Current Study),CmN(Current Study),PstI.TP737551,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,14339016,14339016,14329016,14349016,CmN(Current Study),CmN(Current Study),NsiI.TP11666,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,3778581,3778581,3768581,3788581,CmN(Current Study),CmN(Current Study),NsiI.TP575618,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,823818,823818,813818,833818,CmN(Current Study),CmN(Current Study),NsiI.TP762015,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,62490129,62490129,62480129,62500129,CmN(Current Study),CmN(Current Study),PstI.TP116046,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,56573064,56573064,56563064,56583064,CmN(Current Study),CmN(Current Study),PstI.TP1254872,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,57197488,57197488,57187488,57207488,CmN(Current Study),CmN(Current Study),PstI.TP190549,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,4460512,4460512,4450512,4470512,CmN(Current Study),CmN(Current Study),PstI.TP251038,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,59945480,59945480,59935480,59955480,CmN(Current Study),CmN(Current Study),PstI.TP285646,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,64227793,64227793,64217793,64237793,CmN(Current Study),CmN(Current Study),PstI.TP292777,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,61484903,61484903,61474903,61494903,CmN(Current Study),CmN(Current Study),PstI.TP344899,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,7619505,7619505,7609505,7629505,CmN(Current Study),CmN(Current Study),PstI.TP543083,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,64850518,64850518,64840518,64860518,CmN(Current Study),CmN(Current Study),PstI.TP58391,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,3245920,3245920,3235920,3255920,CmN(Current Study),CmN(Current Study),PstI.TP617554,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,53864081,53864081,53854081,53874081,CmN(Current Study),CmN(Current Study),PstI.TP713758,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+7,37735277,37735277,37725277,37745277,CmN(Current Study),CmN(Current Study),PstI.TP729133,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,47079973,47079973,47069973,47089973,CmN(Current Study),CmN(Current Study),NsiI.TP241831,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,62544570,62544570,62534570,62554570,CmN(Current Study),CmN(Current Study),NsiI.TP42003,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,1326292,1326292,1316292,1336292,CmN(Current Study),CmN(Current Study),NsiI.TP667008,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,13866107,13866107,13856107,13876107,CmN(Current Study),CmN(Current Study),NsiI.TP744668,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,62622087,62622087,62612087,62632087,CmN(Current Study),CmN(Current Study),PstI.TP107240,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,1028461,1028461,1018461,1038461,CmN(Current Study),CmN(Current Study),PstI.TP1248844,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,15754213,15754213,15744213,15764213,CmN(Current Study),CmN(Current Study),PstI.TP53685,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,5124822,5124822,5114822,5134822,CmN(Current Study),CmN(Current Study),PstI.TP771300,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+8,47698137,47698137,47688137,47708137,CmN(Current Study),CmN(Current Study),PstI.TP815977,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,58912474,58912474,58902474,58922474,CmN(Current Study),CmN(Current Study),GFSSContig15563_263,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,53976945,53976945,53966945,53986945,CmN(Current Study),CmN(Current Study),GFSSContig18315_975,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,49933625,49933625,49923625,49943625,CmN(Current Study),CmN(Current Study),NsiI.TP296932,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,53923129,53923129,53913129,53933129,CmN(Current Study),CmN(Current Study),NsiI.TP415575,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,47862370,47862370,47852370,47872370,CmN(Current Study),CmN(Current Study),NsiI.TP509742,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,41089177,41089177,41079177,41099177,CmN(Current Study),CmN(Current Study),NsiI.TP753743,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,58754094,58754094,58744094,58764094,CmN(Current Study),CmN(Current Study),NsiI.TP90957,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,1671674,1671674,1661674,1681674,CmN(Current Study),CmN(Current Study),PstI.TP1150566,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,53101439,53101439,53091439,53111439,CmN(Current Study),CmN(Current Study),PstI.TP1218439,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,8556161,8556161,8546161,8566161,CmN(Current Study),CmN(Current Study),PstI.TP1263163,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,56211895,56211895,56201895,56221895,CmN(Current Study),CmN(Current Study),PstI.TP15780,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,583262,583262,573262,593262,CmN(Current Study),CmN(Current Study),PstI.TP26215,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,57032697,57032697,57022697,57042697,CmN(Current Study),CmN(Current Study),PstI.TP485114,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,59327122,59327122,59317122,59337122,CmN(Current Study),CmN(Current Study),PstI.TP53013,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,38275195,38275195,38265195,38285195,CmN(Current Study),CmN(Current Study),PstI.TP532345,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,57639787,57639787,57629787,57649787,CmN(Current Study),CmN(Current Study),PstI.TP69959,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,1942972,1942972,1932972,1952972,CmN(Current Study),CmN(Current Study),PstI.TP723544,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,3829005,3829005,3819005,3839005,CmN(Current Study),CmN(Current Study),PstI.TP752361,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,55177255,55177255,55167255,55187255,CmN(Current Study),CmN(Current Study),PstI.TP828064,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,773151,773151,763151,783151,CmN(Current Study),CmN(Current Study),PstI.TP862775,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,50250813,50250813,50240813,50260813,CmN(Current Study),CmN(Current Study),PstI.TP866959,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+9,50625938,50625938,50615938,50635938,CmN(Current Study),CmN(Current Study),PstI.TP995394,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,497104,497104,487104,507104,CmN(Current Study),CmN(Current Study),NsiI.TP459060,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,450727,450727,440727,460727,CmN(Current Study),CmN(Current Study),NsiI.TP525011,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,781197,781197,771197,791197,CmN(Current Study),CmN(Current Study),PstI.TP1044533,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,9880843,9880843,9870843,9890843,CmN(Current Study),CmN(Current Study),PstI.TP110898,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,17579080,17579080,17569080,17589080,CmN(Current Study),CmN(Current Study),PstI.TP1160897,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,7243969,7243969,7233969,7253969,CmN(Current Study),CmN(Current Study),PstI.TP123530,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,59027538,59027538,59017538,59037538,CmN(Current Study),CmN(Current Study),PstI.TP1272828,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,4269426,4269426,4259426,4279426,CmN(Current Study),CmN(Current Study),PstI.TP1294713,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,7791807,7791807,7781807,7801807,CmN(Current Study),CmN(Current Study),PstI.TP241242,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,53477961,53477961,53467961,53487961,CmN(Current Study),CmN(Current Study),PstI.TP541255,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,5628757,5628757,5618757,5638757,CmN(Current Study),CmN(Current Study),PstI.TP604956,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,10804856,10804856,10794856,10814856,CmN(Current Study),CmN(Current Study),PstI.TP758246,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,41350986,41350986,41340986,41360986,CmN(Current Study),CmN(Current Study),PstI.TP775752,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,10346907,10346907,10336907,10356907,CmN(Current Study),CmN(Current Study),PstI.TP77980,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+10,60309696,60309696,60299696,60319696,CmN(Current Study),CmN(Current Study),PstI.TP994751,Culm node number ,CmN,CmN(Current Study),Red,Current Study
+1,66087512,66087512,66077512,66097512,Flo(Current Study),Flo(Current Study),NsiI.TP117758,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,73170217,73170217,73160217,73180217,Flo(Current Study),Flo(Current Study),NsiI.TP156560,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,6704694,6704694,6694694,6714694,Flo(Current Study),Flo(Current Study),NsiI.TP174370,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,4937940,4937940,4927940,4947940,Flo(Current Study),Flo(Current Study),NsiI.TP21698,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,7350098,7350098,7340098,7360098,Flo(Current Study),Flo(Current Study),NsiI.TP481176,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,77064058,77064058,77054058,77074058,Flo(Current Study),Flo(Current Study),NsiI.TP521277,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,67422499,67422499,67412499,67432499,Flo(Current Study),Flo(Current Study),PstI.TP1012261,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,4939667,4939667,4929667,4949667,Flo(Current Study),Flo(Current Study),PstI.TP1100793,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,18065275,18065275,18055275,18075275,Flo(Current Study),Flo(Current Study),PstI.TP115083,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,58289912,58289912,58279912,58299912,Flo(Current Study),Flo(Current Study),PstI.TP178720,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,8330660,8330660,8320660,8340660,Flo(Current Study),Flo(Current Study),PstI.TP308053,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,8332613,8332613,8322613,8342613,Flo(Current Study),Flo(Current Study),PstI.TP402756,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,79172378,79172378,79162378,79182378,Flo(Current Study),Flo(Current Study),PstI.TP6990,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,71391273,71391273,71381273,71401273,Flo(Current Study),Flo(Current Study),PstI.TP901545,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,67004686,67004686,66994686,67014686,Flo(Current Study),Flo(Current Study),NsiI.TP39438,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,72884008,72884008,72874008,72894008,Flo(Current Study),Flo(Current Study),NsiI.TP563567,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,63520018,63520018,63510018,63530018,Flo(Current Study),Flo(Current Study),NsiI.TP630636,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,8133534,8133534,8123534,8143534,Flo(Current Study),Flo(Current Study),NsiI.TP7764,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,9592436,9592436,9582436,9602436,Flo(Current Study),Flo(Current Study),PstI.TP1065484,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,73904492,73904492,73894492,73914492,Flo(Current Study),Flo(Current Study),PstI.TP1231486,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,57163911,57163911,57153911,57173911,Flo(Current Study),Flo(Current Study),PstI.TP133700,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,57967122,57967122,57957122,57977122,Flo(Current Study),Flo(Current Study),PstI.TP13843,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,5312015,5312015,5302015,5322015,Flo(Current Study),Flo(Current Study),PstI.TP44945,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,67346618,67346618,67336618,67356618,Flo(Current Study),Flo(Current Study),PstI.TP57930,Flowering,Flowering,Flo(Current Study),Red,Current Study
+2,699673,699673,689673,709673,Flo(Current Study),Flo(Current Study),PstI.TP790069,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,69355037,69355037,69345037,69365037,Flo(Current Study),Flo(Current Study),NsiI.TP406255,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,70673787,70673787,70663787,70683787,Flo(Current Study),Flo(Current Study),NsiI.TP75624,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,68130123,68130123,68120123,68140123,Flo(Current Study),Flo(Current Study),NsiI.TP756994,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,71199343,71199343,71189343,71209343,Flo(Current Study),Flo(Current Study),NsiI.TP777241,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,70684115,70684115,70674115,70694115,Flo(Current Study),Flo(Current Study),PstI.TP1022814,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,65668248,65668248,65658248,65678248,Flo(Current Study),Flo(Current Study),PstI.TP1128716,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,3573386,3573386,3563386,3583386,Flo(Current Study),Flo(Current Study),PstI.TP1168316,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,4213473,4213473,4203473,4223473,Flo(Current Study),Flo(Current Study),PstI.TP286131,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,12312514,12312514,12302514,12322514,Flo(Current Study),Flo(Current Study),PstI.TP302826,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,66513476,66513476,66503476,66523476,Flo(Current Study),Flo(Current Study),PstI.TP582861,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,3671264,3671264,3661264,3681264,Flo(Current Study),Flo(Current Study),PstI.TP638471,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,68129008,68129008,68119008,68139008,Flo(Current Study),Flo(Current Study),PstI.TP769101,Flowering,Flowering,Flo(Current Study),Red,Current Study
+3,69354547,69354547,69344547,69364547,Flo(Current Study),Flo(Current Study),PstI.TP789647,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,58049068,58049068,58039068,58059068,Flo(Current Study),Flo(Current Study),NsiI.TP752426,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,135529,135529,125529,145529,Flo(Current Study),Flo(Current Study),PstI.TP1280524,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,2594879,2594879,2584879,2604879,Flo(Current Study),Flo(Current Study),PstI.TP20145,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,4364885,4364885,4354885,4374885,Flo(Current Study),Flo(Current Study),PstI.TP297382,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,7865494,7865494,7855494,7875494,Flo(Current Study),Flo(Current Study),PstI.TP324616,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,4364673,4364673,4354673,4374673,Flo(Current Study),Flo(Current Study),PstI.TP570804,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,4574449,4574449,4564449,4584449,Flo(Current Study),Flo(Current Study),PstI.TP688010,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,55665489,55665489,55655489,55675489,Flo(Current Study),Flo(Current Study),PstI.TP707030,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,59384691,59384691,59374691,59394691,Flo(Current Study),Flo(Current Study),PstI.TP8376,Flowering,Flowering,Flo(Current Study),Red,Current Study
+4,829116,829116,819116,839116,Flo(Current Study),Flo(Current Study),PstI.TP922777,Flowering,Flowering,Flo(Current Study),Red,Current Study
+5,55180573,55180573,55170573,55190573,Flo(Current Study),Flo(Current Study),NsiI.TP245163,Flowering,Flowering,Flo(Current Study),Red,Current Study
+5,2897010,2897010,2887010,2907010,Flo(Current Study),Flo(Current Study),NsiI.TP561542,Flowering,Flowering,Flo(Current Study),Red,Current Study
+5,64737000,64737000,64727000,64747000,Flo(Current Study),Flo(Current Study),PstI.TP861953,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,47625849,47625849,47615849,47635849,Flo(Current Study),Flo(Current Study),NsiI.TP274765,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,49505312,49505312,49495312,49515312,Flo(Current Study),Flo(Current Study),NsiI.TP57283,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,50333660,50333660,50323660,50343660,Flo(Current Study),Flo(Current Study),NsiI.TP592655,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,56093448,56093448,56083448,56103448,Flo(Current Study),Flo(Current Study),NsiI.TP615883,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,49820945,49820945,49810945,49830945,Flo(Current Study),Flo(Current Study),NsiI.TP823356,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,54377110,54377110,54367110,54387110,Flo(Current Study),Flo(Current Study),PstI.TP1080029,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,33557723,33557723,33547723,33567723,Flo(Current Study),Flo(Current Study),PstI.TP1163120,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,47799081,47799081,47789081,47809081,Flo(Current Study),Flo(Current Study),PstI.TP41761,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,58115358,58115358,58105358,58125358,Flo(Current Study),Flo(Current Study),PstI.TP488800,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,57442567,57442567,57432567,57452567,Flo(Current Study),Flo(Current Study),PstI.TP788586,Flowering,Flowering,Flo(Current Study),Red,Current Study
+6,47209307,47209307,47199307,47219307,Flo(Current Study),Flo(Current Study),PstI.TP981594,Flowering,Flowering,Flo(Current Study),Red,Current Study
+7,2882399,2882399,2872399,2892399,Flo(Current Study),Flo(Current Study),NsiI.TP476441,Flowering,Flowering,Flo(Current Study),Red,Current Study
+7,63993635,63993635,63983635,64003635,Flo(Current Study),Flo(Current Study),PstI.TP234444,Flowering,Flowering,Flo(Current Study),Red,Current Study
+7,5291285,5291285,5281285,5301285,Flo(Current Study),Flo(Current Study),PstI.TP297547,Flowering,Flowering,Flo(Current Study),Red,Current Study
+7,5301778,5301778,5291778,5311778,Flo(Current Study),Flo(Current Study),PstI.TP370736,Flowering,Flowering,Flo(Current Study),Red,Current Study
+7,62007705,62007705,61997705,62017705,Flo(Current Study),Flo(Current Study),PstI.TP77161,Flowering,Flowering,Flo(Current Study),Red,Current Study
+7,65354956,65354956,65344956,65364956,Flo(Current Study),Flo(Current Study),PstI.TP817327,Flowering,Flowering,Flo(Current Study),Red,Current Study
+8,2563502,2563502,2553502,2573502,Flo(Current Study),Flo(Current Study),NsiI.TP810192,Flowering,Flowering,Flo(Current Study),Red,Current Study
+8,52654110,52654110,52644110,52664110,Flo(Current Study),Flo(Current Study),PstI.TP113313,Flowering,Flowering,Flo(Current Study),Red,Current Study
+8,57118094,57118094,57108094,57128094,Flo(Current Study),Flo(Current Study),PstI.TP166135,Flowering,Flowering,Flo(Current Study),Red,Current Study
+9,8117840,8117840,8107840,8127840,Flo(Current Study),Flo(Current Study),PstI.TP1221436,Flowering,Flowering,Flo(Current Study),Red,Current Study
+9,149728,149728,139728,159728,Flo(Current Study),Flo(Current Study),PstI.TP626274,Flowering,Flowering,Flo(Current Study),Red,Current Study
+9,2357362,2357362,2347362,2367362,Flo(Current Study),Flo(Current Study),PstI.TP654004,Flowering,Flowering,Flo(Current Study),Red,Current Study
+10,60886778,60886778,60876778,60896778,Flo(Current Study),Flo(Current Study),PstI.TP85647,Flowering,Flowering,Flo(Current Study),Red,Current Study
+1,74820300,74820300,74810300,74830300,SDW(Current Study),SDW(Current Study),GFSSContig15931_175,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+1,75748041,75748041,75738041,75758041,SDW(Current Study),SDW(Current Study),NsiI.TP506284,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+1,23057306,23057306,23047306,23067306,SDW(Current Study),SDW(Current Study),PstI.TP1040925,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+1,18793961,18793961,18783961,18803961,SDW(Current Study),SDW(Current Study),PstI.TP166501,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+1,73972161,73972161,73962161,73982161,SDW(Current Study),SDW(Current Study),PstI.TP832974,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+2,61335361,61335361,61325361,61345361,SDW(Current Study),SDW(Current Study),PstI.TP577552,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+2,67010862,67010862,67000862,67020862,SDW(Current Study),SDW(Current Study),PstI.TP650798,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+2,58286678,58286678,58276678,58296678,SDW(Current Study),SDW(Current Study),PstI.TP993272,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+2,70172526,70172526,70162526,70182526,SDW(Current Study),SDW(Current Study),PstI.TP995173,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,10802480,10802480,10792480,10812480,SDW(Current Study),SDW(Current Study),GFSSContig19553_1853,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,69000501,69000501,68990501,69010501,SDW(Current Study),SDW(Current Study),NsiI.TP128678,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,65443424,65443424,65433424,65453424,SDW(Current Study),SDW(Current Study),PstI.TP1184037,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,19276647,19276647,19266647,19286647,SDW(Current Study),SDW(Current Study),PstI.TP424396,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,3702504,3702504,3692504,3712504,SDW(Current Study),SDW(Current Study),PstI.TP676875,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,60121147,60121147,60111147,60131147,SDW(Current Study),SDW(Current Study),PstI.TP701332,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,55061314,55061314,55051314,55071314,SDW(Current Study),SDW(Current Study),PstI.TP773172,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,69354547,69354547,69344547,69364547,SDW(Current Study),SDW(Current Study),PstI.TP789647,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,58432596,58432596,58422596,58442596,SDW(Current Study),SDW(Current Study),PstI.TP797083,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,64754613,64754613,64744613,64764613,SDW(Current Study),SDW(Current Study),PstI.TP942675,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+3,63530528,63530528,63520528,63540528,SDW(Current Study),SDW(Current Study),PstI.TP965825,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+4,54844080,54844080,54834080,54854080,SDW(Current Study),SDW(Current Study),PstI.TP1040729,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+4,64452246,64452246,64442246,64462246,SDW(Current Study),SDW(Current Study),PstI.TP6534,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+4,3859798,3859798,3849798,3869798,SDW(Current Study),SDW(Current Study),PstI.TP840657,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+5,16450180,16450180,16440180,16460180,SDW(Current Study),SDW(Current Study),NsiI.TP796495,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+5,70851257,70851257,70841257,70861257,SDW(Current Study),SDW(Current Study),PstI.TP742466,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+5,51809124,51809124,51799124,51819124,SDW(Current Study),SDW(Current Study),PstI.TP977809,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+6,57836261,57836261,57826261,57846261,SDW(Current Study),SDW(Current Study),NsiI.TP273928,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+6,56319647,56319647,56309647,56329647,SDW(Current Study),SDW(Current Study),PstI.TP1164091,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+6,60825902,60825902,60815902,60835902,SDW(Current Study),SDW(Current Study),PstI.TP1193013,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+6,3914949,3914949,3904949,3924949,SDW(Current Study),SDW(Current Study),PstI.TP434866,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+6,51146867,51146867,51136867,51156867,SDW(Current Study),SDW(Current Study),PstI.TP55941,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+6,45615805,45615805,45605805,45625805,SDW(Current Study),SDW(Current Study),PstI.TP745785,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+8,3139123,3139123,3129123,3149123,SDW(Current Study),SDW(Current Study),PstI.TP315072,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+9,8192109,8192109,8182109,8202109,SDW(Current Study),SDW(Current Study),NsiI.TP811997,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+9,50004653,50004653,49994653,50014653,SDW(Current Study),SDW(Current Study),PstI.TP1155086,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+9,57790410,57790410,57780410,57800410,SDW(Current Study),SDW(Current Study),PstI.TP14229,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+9,7287080,7287080,7277080,7297080,SDW(Current Study),SDW(Current Study),PstI.TP609740,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+9,1942972,1942972,1932972,1952972,SDW(Current Study),SDW(Current Study),PstI.TP723544,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+10,52286358,52286358,52276358,52296358,SDW(Current Study),SDW(Current Study),NsiI.TP631452,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+10,58023898,58023898,58013898,58033898,SDW(Current Study),SDW(Current Study),NsiI.TP717578,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+10,54500517,54500517,54490517,54510517,SDW(Current Study),SDW(Current Study),PstI.TP117838,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+10,58959795,58959795,58949795,58969795,SDW(Current Study),SDW(Current Study),PstI.TP360715,Sample Dry weight ,SDW,SDW(Current Study),Red,Current Study
+1,74820300,74820300,74810300,74830300,Yld(Current Study),Yld(Current Study),GFSSContig15931_175,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+1,3020815,3020815,3010815,3030815,Yld(Current Study),Yld(Current Study),NsiI.TP307255,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+1,75748041,75748041,75738041,75758041,Yld(Current Study),Yld(Current Study),NsiI.TP506284,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+1,76291569,76291569,76281569,76301569,Yld(Current Study),Yld(Current Study),NsiI.TP511244,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+1,23556111,23556111,23546111,23566111,Yld(Current Study),Yld(Current Study),PstI.TP420365,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+1,60097068,60097068,60087068,60107068,Yld(Current Study),Yld(Current Study),PstI.TP457393,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+1,11187262,11187262,11177262,11197262,Yld(Current Study),Yld(Current Study),PstI.TP869093,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+2,13518060,13518060,13508060,13528060,Yld(Current Study),Yld(Current Study),PstI.TP1200270,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+2,61335361,61335361,61325361,61345361,Yld(Current Study),Yld(Current Study),PstI.TP577552,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+2,58286678,58286678,58276678,58296678,Yld(Current Study),Yld(Current Study),PstI.TP993272,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,10802480,10802480,10792480,10812480,Yld(Current Study),Yld(Current Study),GFSSContig19553_1853,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,69000501,69000501,68990501,69010501,Yld(Current Study),Yld(Current Study),NsiI.TP128678,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,63530717,63530717,63520717,63540717,Yld(Current Study),Yld(Current Study),NsiI.TP447144,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,2656013,2656013,2646013,2666013,Yld(Current Study),Yld(Current Study),PstI.TP65271,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,50687892,50687892,50677892,50697892,Yld(Current Study),Yld(Current Study),PstI.TP704244,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,66083753,66083753,66073753,66093753,Yld(Current Study),Yld(Current Study),PstI.TP745674,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,55061314,55061314,55051314,55071314,Yld(Current Study),Yld(Current Study),PstI.TP773172,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,69354547,69354547,69344547,69364547,Yld(Current Study),Yld(Current Study),PstI.TP789647,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,64754613,64754613,64744613,64764613,Yld(Current Study),Yld(Current Study),PstI.TP942675,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+3,63530528,63530528,63520528,63540528,Yld(Current Study),Yld(Current Study),PstI.TP965825,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,51081160,51081160,51071160,51091160,Yld(Current Study),Yld(Current Study),NsiI.TP566474,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,14235179,14235179,14225179,14245179,Yld(Current Study),Yld(Current Study),NsiI.TP575629,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,59238758,59238758,59228758,59248758,Yld(Current Study),Yld(Current Study),NsiI.TP632086,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,12330408,12330408,12320408,12340408,Yld(Current Study),Yld(Current Study),NsiI.TP827851,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,54844080,54844080,54834080,54854080,Yld(Current Study),Yld(Current Study),PstI.TP1040729,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,59195320,59195320,59185320,59205320,Yld(Current Study),Yld(Current Study),PstI.TP647611,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,64452246,64452246,64442246,64462246,Yld(Current Study),Yld(Current Study),PstI.TP6534,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+4,3859798,3859798,3849798,3869798,Yld(Current Study),Yld(Current Study),PstI.TP840657,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,57836261,57836261,57826261,57846261,Yld(Current Study),Yld(Current Study),NsiI.TP273928,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,52754787,52754787,52744787,52764787,Yld(Current Study),Yld(Current Study),NsiI.TP514947,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,3182336,3182336,3172336,3192336,Yld(Current Study),Yld(Current Study),NsiI.TP762935,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,57974096,57974096,57964096,57984096,Yld(Current Study),Yld(Current Study),PstI.TP10996,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,3914949,3914949,3904949,3924949,Yld(Current Study),Yld(Current Study),PstI.TP434866,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,51146867,51146867,51136867,51156867,Yld(Current Study),Yld(Current Study),PstI.TP55941,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,45894338,45894338,45884338,45904338,Yld(Current Study),Yld(Current Study),PstI.TP710636,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+6,45615805,45615805,45605805,45625805,Yld(Current Study),Yld(Current Study),PstI.TP745785,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+7,5395966,5395966,5385966,5405966,Yld(Current Study),Yld(Current Study),GFSSContig18221_1150,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+8,16086302,16086302,16076302,16096302,Yld(Current Study),Yld(Current Study),NsiI.TP308953,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+8,3139123,3139123,3129123,3149123,Yld(Current Study),Yld(Current Study),PstI.TP315072,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+8,58262070,58262070,58252070,58272070,Yld(Current Study),Yld(Current Study),PstI.TP753385,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+9,2876948,2876948,2866948,2886948,Yld(Current Study),Yld(Current Study),NsiI.TP753852,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+9,57790410,57790410,57780410,57800410,Yld(Current Study),Yld(Current Study),PstI.TP14229,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+9,1942972,1942972,1932972,1952972,Yld(Current Study),Yld(Current Study),PstI.TP723544,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+10,52286358,52286358,52276358,52296358,Yld(Current Study),Yld(Current Study),NsiI.TP631452,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+10,6556740,6556740,6546740,6566740,Yld(Current Study),Yld(Current Study),PstI.TP738082,Fresh weight ,Yld,Yld(Current Study),Red,Current Study
+1,3051168,3051168,3041168,3061168,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP641200,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+1,2588793,2588793,2578793,2598793,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP108989,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+1,67947376,67947376,67937376,67957376,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP234382,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+1,10687788,10687788,10677788,10697788,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP980214,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+2,73159281,73159281,73149281,73169281,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP65061,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+2,3911470,3911470,3901470,3921470,OWA18(Current Study.T),OWA18(Current Study.T),PstI.TP312639,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+3,4243452,4243452,4233452,4253452,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP224586,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+3,61885782,61885782,61875782,61895782,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP512189,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+3,2916484,2916484,2906484,2926484,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP1257104,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+3,69354547,69354547,69344547,69364547,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP789647,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+3,59531363,59531363,59521363,59541363,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP841525,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+3,8632016,8632016,8622016,8642016,OWA18(Current Study.T),OWA18(Current Study.T),NsiI.TP718157,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+3,69354547,69354547,69344547,69364547,OWA18(Current Study.T),OWA18(Current Study.T),PstI.TP789647,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+4,67177683,67177683,67167683,67187683,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP504649,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+4,60455775,60455775,60445775,60465775,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP624872,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+4,68146066,68146066,68136066,68156066,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP724799,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+4,51739537,51739537,51729537,51749537,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP349355,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+4,2828636,2828636,2818636,2838636,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP727705,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+6,57096182,57096182,57086182,57106182,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP642933,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+7,54899243,54899243,54889243,54909243,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP702393,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+8,62210912,62210912,62200912,62220912,"OWA18,19(Current Study.A)","OWA18,19(Current Study.A)",NsiI.TP424080,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+8,3978036,3978036,3968036,3988036,OWA18(Current Study.A),OWA18(Current Study.A),PstI.TP1009084,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+10,59308875,59308875,59298875,59318875,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP128483,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+10,7147645,7147645,7137645,7157645,OWA18(Current Study.A),OWA18(Current Study.A),NsiI.TP299143,overwintering ability ,OWA18,OWA18(Current Study.A),Red,Current Study.A
+10,9880843,9880843,9870843,9890843,OWA18(Current Study.T),OWA18(Current Study.T),PstI.TP110898,overwintering ability ,OWA18,OWA19(Current Study.A),Red,Current Study.A
+1,68301853,68301853,68291853,68311853,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP241500,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,10465743,10465743,10455743,10475743,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP360999,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,62376131,62376131,62366131,62386131,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP474172,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,11198433,11198433,11188433,11208433,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP58591,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+1,10117174,10117174,10107174,10127174,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1075817,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,67135061,67135061,67125061,67145061,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1094695,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,77213117,77213117,77203117,77223117,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1151255,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,27158173,27158173,27148173,27168173,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP288641,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,17611146,17611146,17601146,17621146,"OWA18,19(Current Study.A)","OWA18,19(Current Study.A)",PstI.TP392482,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,569039,569039,559039,579039,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP425356,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,80477608,80477608,80467608,80487608,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP49139,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,59006419,59006419,58996419,59016419,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP57213,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+1,67745947,67745947,67735947,67755947,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP678255,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,1175417,1175417,1165417,1185417,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP775725,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,13537099,13537099,13527099,13547099,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP775845,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+1,69282032,69282032,69272032,69292032,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP127610,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,60949616,60949616,60939616,60959616,OWA19(Current Study.T),OWA19(Current Study.T),PstI.TP1014707,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,78162835,78162835,78152835,78172835,OWA19(Current Study.T),OWA19(Current Study.T),PstI.TP459121,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,75774037,75774037,75764037,75784037,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP164112,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,68227771,68227771,68217771,68237771,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP195995,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,65965770,65965770,65955770,65975770,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP204910,overwintering ability ,OWA19,"OWA18,19(Current Study.A)",Red,Current Study.A
+2,72193245,72193245,72183245,72203245,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP408031,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,69620402,69620402,69610402,69630402,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP444479,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,16850781,16850781,16840781,16860781,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP640755,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,58871698,58871698,58861698,58881698,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP806172,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,45986549,45986549,45976549,45996549,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP117081,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,13518060,13518060,13508060,13528060,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1200270,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+2,64265265,64265265,64255265,64275265,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP268085,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+2,56907410,56907410,56897410,56917410,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP383939,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,71246128,71246128,71236128,71256128,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP483920,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,699673,699673,689673,709673,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP790069,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+2,23342056,23342056,23332056,23352056,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP833228,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,76620224,76620224,76610224,76630224,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP881184,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+2,13610693,13610693,13600693,13620693,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP947087,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,21428233,21428233,21418233,21438233,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP982120,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,76163097,76163097,76153097,76173097,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP486731,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+2,22482603,22482603,22472603,22492603,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP487417,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+2,62417756,62417756,62407756,62427756,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP614629,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,63225229,63225229,63215229,63235229,OWA19(Current Study.T),OWA19(Current Study.T),PstI.TP181967,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+2,55394288,55394288,55384288,55404288,OWA19(Current Study.T),OWA19(Current Study.T),PstI.TP476886,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,70832262,70832262,70822262,70842262,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP422411,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,70187996,70187996,70177996,70197996,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP468343,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,50563424,50563424,50553424,50573424,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP554032,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,2603844,2603844,2593844,2613844,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1010623,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+3,54726050,54726050,54716050,54736050,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP141051,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,67910785,67910785,67900785,67920785,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP198015,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,3436667,3436667,3426667,3446667,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP207713,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,68268137,68268137,68258137,68278137,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP410505,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,2656013,2656013,2646013,2666013,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP65271,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,65126133,65126133,65116133,65136133,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP729855,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,67523376,67523376,67513376,67533376,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP770204,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,9603539,9603539,9593539,9613539,OWA19(Current Study.T),OWA19(Current Study.T),GFSSContig17769_257,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+3,65413138,65413138,65403138,65423138,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP501941,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+4,2161341,2161341,2151341,2171341,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP671324,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+4,4932783,4932783,4922783,4942783,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1040489,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+4,42752899,42752899,42742899,42762899,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1084308,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+4,67156223,67156223,67146223,67166223,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1098875,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+4,41445278,41445278,41435278,41455278,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP982139,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+4,62266318,62266318,62256318,62276318,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP460633,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+4,62611853,62611853,62601853,62621853,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP523625,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+5,61371701,61371701,61361701,61381701,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP111617,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+5,55219391,55219391,55209391,55229391,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1220022,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+5,41255313,41255313,41245313,41265313,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP124945,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+5,18806244,18806244,18796244,18816244,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP532325,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,54332713,54332713,54322713,54342713,OWA19(Current Study.A),OWA19(Current Study.A),GFSSContig7996_485,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,56319647,56319647,56309647,56329647,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1164091,overwintering ability ,OWA19,"OWA18,19(Current Study.A)",Red,Current Study.A
+6,3890042,3890042,3880042,3900042,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1172225,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,1375822,1375822,1365822,1385822,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP298201,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,3180162,3180162,3170162,3190162,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP33096,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,56671658,56671658,56661658,56681658,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP53152,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,55405319,55405319,55395319,55415319,OWA19(Current Study.T),OWA19(Current Study.T),PstI.TP1102210,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,2200069,2200069,2190069,2210069,OWA19(Current Study.T),OWA19(Current Study.T),PstI.TP166492,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+6,51199851,51199851,51189851,51209851,OWA19(Current Study.T),OWA19(Current Study.T),PstI.TP404885,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+7,57426488,57426488,57416488,57436488,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1000873,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+8,50606712,50606712,50596712,50616712,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP208625,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+8,55967248,55967248,55957248,55977248,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP678261,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+8,1077354,1077354,1067354,1087354,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP419801,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+9,44786093,44786093,44776093,44796093,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP129565,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+9,55737180,55737180,55727180,55747180,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP169382,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+9,48138,48138,38138,58138,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP349989,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+9,59299455,59299455,59289455,59309455,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP440500,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+9,48696731,48696731,48686731,48706731,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP1227790,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+9,1650258,1650258,1640258,1660258,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP419219,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+9,243415,243415,233415,253415,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP774948,overwintering ability ,OWA19,OWA18(Current Study.A),Red,Current Study.A
+10,58707662,58707662,58697662,58717662,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP101365,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+10,8197919,8197919,8187919,8207919,OWA19(Current Study.A),OWA19(Current Study.A),NsiI.TP228522,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+10,58159508,58159508,58149508,58169508,OWA19(Current Study.A),OWA19(Current Study.A),PstI.TP282657,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+10,59848770,59848770,59838770,59858770,OWA19(Current Study.T),OWA19(Current Study.T),NsiI.TP756808,overwintering ability ,OWA19,OWA19(Current Study.A),Red,Current Study.A
+1,60318661,76221012,60318661,76221012,BC(Dong(2017)),BC(Dong.et.al.(2017)),BC LG2 91.4 cM,basal circumference,BC,BC(Dong2017)),Green,Dong_et_al_(2017)
+2,2605801,13526667,2605801,13526667,BC(Dong(2017)),BC(Dong.et.al.(2017)),BC LG3 41.4 cM,basal circumference,BC,BC(Dong2017)),Green,Dong_et_al_(2017)
+2,71987708,77256362,71987708,77256362,BC(Dong(2017)),BC(Dong.et.al.(2017)),BC LG3 86.8 cM,basal circumference,BC,BC(Dong2017)),Green,Dong_et_al_(2017)
+5,3135389,59272634,3135389,59272634,BC(Dong(2017)),BC(Dong.et.al.(2017)),BC LG9 49.2 cM,basal circumference,BC,BC(Dong2017)),Green,Dong_et_al_(2017)
+5,7657485,15122225,7657485,15122225,BC(Dong(2017)),BC(Dong.et.al.(2017)),BC LG10 31 cM,basal circumference,BC,BC(Dong2017)),Green,Dong_et_al_(2017)
+10,60831359,60785154,60831359,60785154,CC(Dong(2017)),CC(Dong.et.al.(2017)),CC LG19 95.6 cM,compressed circumference,CC,Cc(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+1,64370037,69825090,64370037,69825090,CC/BC(Dong(2017)),CC/BC(Dong.et.al.(2017)),CC/BC LG1 95.5 cM,compressed circumference/basal circumference,CC/BC,CC/BC(Dong2017)),Green,Dong_et_al_(2017)
+5,4686232,13381050,4686232,13381050,CC/BC(Dong(2017)),CC/BC(Dong.et.al.(2017)),CC/BC LG10 31 cM,compressed circumference/basal circumference,CC/BC,CC/BC(Dong2017)),Green,Dong_et_al_(2017)
+10,58627987,60785154,58627987,60785154,CC/BC(Dong(2017)),CC/BC(Dong.et.al.(2017)),CC/BC LG19 88.6 cM,compressed circumference/basal circumference,CC/BC,CC/BC(Dong2017)),Green,Dong_et_al_(2017)
+3,2697915,4004654,2697915,4004654,CmDW(Dong(2017)),CmDW(Dong.et.al.(2017)),CmDW LG5 28 cM,culm dry weight,CmDW,CmDW(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+4,6406176,62920410,6406176,62920410,CmDW(Dong(2017)),CmDW(Dong.et.al.(2017)),CmDW LG8 31.4 cM,culm dry weight,CmDW,CmDW(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,4062218,57378861,4062218,57378861,CmDW(Dong(2017)),CmDW(Dong.et.al.(2017)),CmDW LG10 31 cM,culm dry weight,CmDW,CmDW(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+1,76999156,80734104,76999156,80734104,CmNN(Dong(2017)),CmNN(Dong.et.al.(2017)),CmNN LG2 120.9 cM,culm node number,CmNN,CmNN(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+2,59238183,72328855,59238183,72328855,CmNN(Dong(2017)),CmNN(Dong.et.al.(2017)),CmNN LG3 67.8 cM,culm node number,CmNN,CmNN(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,717646,3132204,717646,3132204,CmNN(Dong(2017)),CmNN(Dong.et.al.(2017)),CmNN LG5 25.1 cM,culm node number,CmNN,CmNN(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,7350789,53786857,7350789,53786857,CmNN(Dong(2017)),CmNN(Dong.et.al.(2017)),CmNN LG10 31 cM,culm node number,CmNN,CmNN(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+7,2187272,63712891,2187272,63712891,CmNN(Dong(2017)),CmNN(Dong.et.al.(2017)),CmNN LG7 58.3 cM,culm node number,CmNN,CmNN(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+8,56933272,62554114,56933272,62554114,CmNN(Dong(2017)),CmNN(Dong.et.al.(2017)),CmNN LG14 67.9 cM,culm node number,CmNN,CmNN(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+1,17078109,59668786,17078109,59668786,CmVol(Dong(2017)),CmVol(Dong.et.al.(2017)),CmVol LG2 69.3 cM,culm volume,CmVol,CmVol(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+2,69444701,71447584,69444701,71447584,CmVol(Dong(2017)),CmVol(Dong.et.al.(2017)),CmVol LG4 77.3 cM,culm volume,CmVol,CmVol(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,1597272,4170944,1597272,4170944,CmVol(Dong(2017)),CmVol(Dong.et.al.(2017)),CmVol LG5 26.7 cM,culm volume,CmVol,CmVol(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,66289314,72071645,66289314,72071645,CmVol(Dong(2017)),CmVol(Dong.et.al.(2017)),CmVol LG6 98.1 cM,culm volume,CmVol,CmVol(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,5606944,53786857,5606944,53786857,CmVol(Dong(2017)),CmVol(Dong.et.al.(2017)),CmVol LG10 31 cM,culm volume,CmVol,CmVol(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,3135389,57378741,3135389,57378741,CmVol(Dong(2017)),CmVol(Dong.et.al.(2017)),CmVol LG9 52.1 cM,culm volume,CmVol,CmVol(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+8,58554798,62554114,58554798,62554114,CmVol(Dong(2017)),CmVol(Dong.et.al.(2017)),CmVol LG14 78.5 cM,culm volume,CmVol,CmVol(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+2,64716124,70861060,64716124,70861060,DBI(Dong(2017)),DBI(Dong.et.al.(2017)),DBI LG3 97.3 cM,diameter of basal internode,DBI,DBI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+2,69444701,72795235,69444701,72795235,DBI(Dong(2017)),DBI(Dong.et.al.(2017)),DBI LG4 78.4 cM,diameter of basal internode,DBI,DBI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,1195524,4215398,1195524,4215398,DBI(Dong(2017)),DBI(Dong.et.al.(2017)),DBI LG5 29.6 cM,diameter of basal internode,DBI,DBI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,10456048,67504081,10456048,67504081,DBI(Dong(2017)),DBI(Dong.et.al.(2017)),DBI LG6 73.4 cM,diameter of basal internode,DBI,DBI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,7350789,53786857,7350789,53786857,DBI(Dong(2017)),DBI(Dong.et.al.(2017)),DBI LG10 31 cM,diameter of basal internode,DBI,DBI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,3491302,56036826,3491302,56036826,DBI(Dong(2017)),DBI(Dong.et.al.(2017)),DBI LG9 52.1 cM,diameter of basal internode,DBI,DBI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+2,16093969,64143030,16093969,64143030,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG3 70.9 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,66699411,71284481,66699411,71284481,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG6 98 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+4,63604358,62908236,63604358,62908236,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG7 77.9 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,5606944,53786857,5606944,53786857,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG10 31 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,3135389,57378845,3135389,57378845,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG9 52.1 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+6,54629080,58396562,54629080,58396562,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG12 64.1 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+7,1002730,5569725,1002730,5569725,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG13 35.6 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+7,147056,61080477,147056,61080477,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG7 57.7 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+7,63604358,62908236,63604358,62908236,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG7 77.9 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+7,60945564,60945564,60945564,60945564,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG7 77.9 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+8,60392766,62554114,60392766,62554114,DTI(Dong(2017)),DTI(Dong.et.al.(2017)),DTI LG14 78.5 cM,diameter of topmost internode,DTI,DTI(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+1,50867486,50867486,9796136,57972761,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(28.6cM),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,1938537,1938537,714600,2724777,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(6.8cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,1938537,1938537,1938537,1938537,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(6.8cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+7,63728450,63728450,146989,64081260,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(20.8cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,42340874,42340874,10464402,50287837,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(29.5cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,11591539,11591539,11591539,11591539,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(3.3cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+4,5327062,5327062,5327062,5327062,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(3.3cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+8,55083985,55083985,52476558,55166557,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(14.61cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+1,62643157,62643157,62643157,62643157,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(14.61cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+4,62530896,62530896,62530896,62530896,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(17.2cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+8,5191395,5191395,2579475,53734032,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(17.2cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+6,769851,769851,769851,769851,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(28.6cM),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+2,60648017,60648017,60648017,60648017,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(28.6cM),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+3,49266524,49266524,49266524,49266524,Flower(Dong_et_al_(2017)),Flower(Dong.et.al.(2017)),Flower(29.5cM)),Flowering,Flowering,Flower(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+4,78261,55308580,78261,55308580,height(Dong(2017)),height(Dong.et.al.(2017)),Height LG8 16.2 cM,height,height,height(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,5606944,9432605,5606944,9432605,height(Dong(2017)),height(Dong.et.al.(2017)),Height LG10 31 cM,height,height,height(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+6,52377406,60914557,52377406,60914557,height(Dong(2017)),height(Dong.et.al.(2017)),Height LG12 67.5 cM,height,height,height(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+7,7750381,65312385,7750381,65312385,height(Dong(2017)),height(Dong.et.al.(2017)),Height LG7 56.3 cM,height,height,height(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+8,59838201,62554114,59838201,62554114,height(Dong(2017)),height(Dong.et.al.(2017)),Height LG14 78.5 cM,height,height,height(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,7018712,15122225,7018712,15122225,YPP(Dong(2017)),YPP(Dong.et.al.(2017)),YPP LG10 31 cM,yield per plant,YPP,YPP(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+5,4870202,64757990,4870202,64757990,YPP(Dong(2017)),YPP(Dong.et.al.(2017)),YPP LG9 50.8 cM,yield per plant,YPP,YPP(Dong_et_al_(2017)),Green,Dong_et_al_(2017)
+1,61730981,61730981,61730981,71048900,OWA1(Dong_et_al_(2018),OWA1(Dong.et.al.(2018),OWA1(105),overwintering ability ,OWA1,OWA1(Dong_et_al_(2018),Green,Dong_et_al_(2018)
+2,69677727,69677727,69677727,71521811,OWA2(Dong_et_al_(2018),OWA2(Dong.et.al.(2018),OWA2(72.29),overwintering ability ,OWA2,OWA2(Dong_et_al_(2018),Green,Dong_et_al_(2018)
+3,19161424,19161424,19161424,57646278,OWA3(Dong_et_al_(2018),OWA3(Dong.et.al.(2018),OWA3(64.65),overwintering ability ,OWA3,OWA3(Dong_et_al_(2018),Green,Dong_et_al_(2018)
+10,10254193,10254193,10254193,62899382,OWA4(Dong_et_al_(2018),OWA4(Dong.et.al.(2018),OWA4(66.14),overwintering ability ,OWA4,OWA4(Dong_et_al_(2018),Green,Dong_et_al_(2018)
+5,18101943,18102815,18101943,18102815,OWA5(Dong_et_al_(2018),OWA5(Dong.et.al.(2018),OWA5(39.746),overwintering ability ,OWA5,OWA5(Dong_et_al_(2018),Green,Dong_et_al_(2018)
+6,57260759,57261925,46785398,57261925,OWA6(Dong_et_al_(2018),OWA6(Dong.et.al.(2018),OWA6(29.36),overwintering ability ,OWA6,OWA6(Dong_et_al_(2018),Green,Dong_et_al_(2018)
+8,45675062,45675062,2625199,45675062,OWA8(Dong_et_al_(2018),OWA8(Dong.et.al.(2018),OWA8(38.3),overwintering ability ,OWA8,OWA7(Dong_et_al_(2018),Green,Dong_et_al_(2018)
+1,9158264,9158264,9148264,9168264,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus096890,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+1,73182406,73182406,73172406,73192406,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus017076,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+1,73966201,73966201,73956201,73976201,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus104319,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+1,77425506,77425506,77415506,77435506,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus111533,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+2,3043560,3043560,3033560,3053560,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus015113,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+2,3279281,3279281,3269281,3289281,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118365,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+2,3406536,3406536,3396536,3416536,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118366,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+2,6522791,6522791,6512791,6532791,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118367,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+2,22943245,22943245,22933245,22953245,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118368,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+2,77204376,77204376,77194376,77214376,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus020585,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+3,1603696,1603696,1593696,1613696,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118369,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+3,7227095,7227095,7217095,7237095,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus008958,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+3,51321773,51321773,51311773,51331773,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118370,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+3,64085542,64085542,64075542,64095542,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118371,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+3,66638290,66638290,66628290,66648290,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118372,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+3,67125342,67125342,67115342,67135342,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus017647,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+3,72078520,72078520,72068520,72088520,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus019389,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,446677,446677,436677,456677,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus096439,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,3252258,3252258,3242258,3262258,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118373,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,3460776,3460776,3450776,3470776,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus091689,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,5948390,5948390,5938390,5958390,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus100262,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,7436056,7436056,7426056,7446056,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118374,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,59577953,59577953,59567953,59587953,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus005328,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,62207466,62207466,62197466,62217466,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus022071,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,62602070,62602070,62592070,62612070,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus021451,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,62928690,62928690,62918690,62938690,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus016552,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+4,65644782,65644782,65634782,65654782,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus107624,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+6,3007286,3007286,2997286,3017286,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus107102,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+6,46253326,46253326,46243326,46263326,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus014960,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+6,49249029,49249029,49239029,49259029,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118375,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+6,58727756,58727756,58717756,58737756,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus116154,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+6,59583985,59583985,59573985,59593985,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus018713,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+7,1678335,1678335,1668335,1688335,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus110730,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+7,61432860,61432860,61422860,61442860,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118376,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+8,255984,255984,245984,265984,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus010426,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+8,2549936,2549936,2539936,2559936,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus097991,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+9,44647057,44647057,44637057,44657057,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118377,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+9,57313789,57313789,57303789,57323789,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus012595,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+10,1280469,1280469,1270469,1290469,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus012279,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+10,6194258,6194258,6184258,6204258,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118378,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+10,44512735,44512735,44502735,44522735,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118379,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+10,49849126,49849126,49839126,49859126,OWA(Dong_et_al_(2019),OWA(Dong.et.al.(2019)),UIMiscanthus118380,Overwintering ability ,OWA,OWA(Dong_et_al_(2019),Green,Dong_et_al_(2019)
+2,0,3959119,0,3959119,BC1(Gifford(2015)),BC1(Gifford.et.al.(2015)),BC1,basal circumference,BC,BC1(Gifford(2015)),Purple,Gifford_et_al_(2015)
+3,62633062,70486999,62633062,70486999,BC2(Gifford(2015)),BC2(Gifford.et.al.(2015)),BC2,basal circumference,BC,BC2(Gifford2015)),Purple,Gifford_et_al_(2015)
+5,10486456,64927267,10486456,64927267,BC4(Gifford(2015)),BC4(Gifford.et.al.(2015)),BC4,basal circumference,BC,BC4(Gifford2015)),Purple,Gifford_et_al_(2015)
+6,49893387,52583057,49893387,52583057,BC6(Gifford(2015)),BC6(Gifford.et.al.(2015)),BC6,basal circumference,BC,BC6(Gifford2015)),Purple,Gifford_et_al_(2015)
+7,11187274,5102124,11187274,5102124,BC3(Gifford(2015)),BC3(Gifford.et.al.(2015)),BC3,basal circumference,BC,BC3(Gifford2015)),Purple,Gifford_et_al_(2015)
+7,5395966,5395966,5395966,5395966,BC3(Gifford(2015)),BC3(Gifford.et.al.(2015)),BC3,basal circumference,BC,BC3(Gifford2015)),Purple,Gifford_et_al_(2015)
+4,11187274,5102124,11187274,5102124,BC3(Gifford(2015)),BC3(Gifford.et.al.(2015)),BC3,basal circumference,BC,BC3(Gifford2015)),Purple,Gifford_et_al_(2015)
+10,55158232,58161744,55158232,58161744,BC5(Gifford(2015)),BC5(Gifford.et.al.(2015)),BC5,basal circumference,BC,BC(Gifford2015)),Purple,Gifford_et_al_(2015)
+1,63572513,69555622,63572513,69555622,CC3(Gifford(2015)),CC3(Gifford.et.al.(2015)),CC3,compressed circumference,CC,CC3(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+3,62633062,69829683,62633062,69829683,CC1(Gifford(2015)),CC1(Gifford.et.al.(2015)),CC1,compressed circumference,CC,CC1(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+6,42652850,49893387,42652850,49893387,CC2(Gifford(2015)),CC2(Gifford.et.al.(2015)),CC2,compressed circumference,CC,CC2(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+8,58616300,62621700,58616300,62621700,CC4(Gifford(2015)),CC4(Gifford.et.al.(2015)),CC4,compressed circumference,CC,CC4(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+2,66877781,68556864,66877781,68556864,CCBC2(Gifford(2015)),CCBC2(Gifford.et.al.(2015)),CCBC2,compressed circumference/basal circumference,CCBC,CCBC2(Gifford(2015)),Purple,Gifford_et_al_(2015)
+4,7489329,5395966,7489329,5395966,CCBC1(Gifford(2015)),CCBC1(Gifford.et.al.(2015)),CCBC1,compressed circumference/basal circumference,CCBC,CCBC1(Gifford(2015)),Purple,Gifford_et_al_(2015)
+4,16366431,16366431,16366431,16366431,CCBC1(Gifford(2015)),CCBC1(Gifford.et.al.(2015)),CCBC1,compressed circumference/basal circumference,CCBC,CCBC1(Gifford(2015)),Purple,Gifford_et_al_(2015)
+7,1663100,1663100,1663100,1663100,CCBC3(Gifford(2015)),CCBC3(Gifford.et.al.(2015)),CCBC3,compressed circumference/basal circumference,CCBC,CCBC3(Gifford2015)),Purple,Gifford_et_al_(2015)
+7,7489329,5395966,7489329,5395966,CCBC1(Gifford(2015)),CCBC1(Gifford.et.al.(2015)),CCBC1,compressed circumference/basal circumference,CCBC,CCBC1(Gifford2015)),Purple,Gifford_et_al_(2015)
+10,55158232,58161744,55158232,58161744,CCBC4(Gifford(2015))BC5(Gifford(2015)),CCBC4(Gifford.et.al.(2015))BC5(Gifford.et.al.(2015)),CCBC4,compressed circumference/basal circumference,CCBC,CCBC4(Gifford2015)),Purple,Gifford_et_al_(2015)
+1,63572513,69555622,63572513,69555622,H2(Gifford(2015)),H2(Gifford.et.al.(2015)),H2,height,height,H2(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+4,54423680,63701520,54423680,63701520,H3(Gifford(2015)),H3(Gifford.et.al.(2015)),H3,height,height,H3(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+6,49928199,52187471,49928199,52187471,H1(Gifford(2015)),H1(Gifford.et.al.(2015)),H1,height,height,H1(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+6,49893387,52583057,49893387,52583057,H4(Gifford(2015)),H4(Gifford.et.al.(2015)),H4,height,height,H4(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+9,55923478,58164825,55923478,58164825,H5(Gifford(2015)),H5(Gifford.et.al.(2015)),H5,height,height,H5(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+10,7263424,58161744,7263424,58161744,H6(Gifford(2015)),H6(Gifford.et.al.(2015)),H6,height,height,H6(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+1,61838562,72722776,61838562,72722776,NT3(Gifford(2015)),NT3(Gifford.et.al.(2015)),NT3,number of tillers,NT,NT3(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+1,3623605,8871969,3623605,8871969,NT4(Gifford(2015)),NT4(Gifford.et.al.(2015)),NT4,number of tillers,NT,NT4(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+2,2367836,11550006,2367836,11550006,NT5(Gifford(2015)),NT5(Gifford.et.al.(2015)),NT5,number of tillers,NT,NT5(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+3,62633062,69829683,62633062,69829683,NT2(Gifford(2015)),NT2(Gifford.et.al.(2015)),NT2,number of tillers,NT,NT2(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+3,3000000,6373000,3000000,6373000,NT6(Gifford(2015)),NT6(Gifford.et.al.(2015)),NT6,number of tillers,NT,NT6(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+6,0,39926643,0,39926643,NT1(Gifford(2015)),NT1(Gifford.et.al.(2015)),NT1,number of tillers,NT,NT1(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+7,62357133,58530011,62357133,58530011,NT7(Gifford(2015)),NT7(Gifford.et.al.(2015)),NT7,number of tillers,NT,NT7(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+10,55158232,58161744,55158232,58161744,NT8(Gifford(2015)),NT8(Gifford.et.al.(2015)),NT8,number of tillers,NT,NT8(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+2,2367836,6698083,2367836,6698083,TD1(Gifford(2015)),TD1(Gifford.et.al.(2015)),TD1,tiller diameter,tiller_diameter,TD1(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+3,0,3132600,0,3132600,TD2(Gifford(2015)),TD2(Gifford.et.al.(2015)),TD2,tiller diameter,tiller_diameter,TD2(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+4,56302274,63959499,56302274,63959499,TD3(Gifford(2015)),TD3(Gifford.et.al.(2015)),TD3,tiller diameter,tiller_diameter,TD3(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+9,6635495,48773122,6635495,48773122,TD4(Gifford(2015)),TD4(Gifford.et.al.(2015)),TD4,tiller diameter,tiller_diameter,TD4(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+1,3147961,8871969,3147961,8871969,Y4(Gifford(2015)),Y4(Gifford.et.al.(2015)),Y4,yield,Yld,Y4(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+3,3000000,4994154,3000000,4994154,Y1(Gifford(2015)),Y1(Gifford.et.al.(2015)),Y1,yield,Yld,Y1(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+3,62633062,69829683,62633062,69829683,Y2(Gifford(2015)),Y2(Gifford.et.al.(2015)),Y2,yield,Yld,Y2(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+6,54080069,56194502,54080069,56194502,Y3(Gifford(2015)),Y3(Gifford.et.al.(2015)),Y3,yield,Yld,Y3(Gifford_et_al_(2015)),Purple,Gifford_et_al_(2015)
+10,12353841,12355947,12353841,12355947,MsiHd1 loci(Sobic.010G115800)(Nagano et al. (2015)),,MsiHd1 loci(Sobic.010G115800),,Heading time,Heading time(Nagano et al. (2015)),Yellow,Nagano et al. (2015)
+1,3777098,3780262,3777098,3780262,tallest.stem(Slavov(2014)),tallest.stem(Slavov.et.al.(2014)),Sb01g004700,tallest stem,tallest_stem,tallest_stem(Slavov_et_al_(2014)),Black,Slavov_et_al_(2014)
+1,3788682,3795521,3788682,3795521,tallest.stem(Slavov(2014)),tallest.stem(Slavov.et.al.(2014)),Sb01g004720,tallest stem,tallest_stem,tallest_stem(Slavov_et_al_(2014)),Black,Slavov_et_al_(2014)
+1,75105097,75112065,75105097,75112065,tallest.stem(Slavov(2014)),tallest.stem(Slavov.et.al.(2014)),Sb01g044850,tallest stem,tallest_stem,tallest_stem(Slavov_et_al_(2014)),Black,Slavov_et_al_(2014)
+6,49328610,49330717,49328610,49330717,tallest.stem(Slavov(2014)),tallest.stem(Slavov.et.al.(2014)),Sb06g020830,tallest stem,tallest_stem,tallest_stem(Slavov_et_al_(2014)),Black,Slavov_et_al_(2014)
+10,55635934,55642561,55635934,55642561,tallest.stem(Slavov(2014)),tallest.stem(Slavov.et.al.(2014)),Sb10g026010,tallest stem,tallest_stem,tallest_stem(Slavov_et_al_(2014)),Black,Slavov_et_al_(2014)
+10,59857228,59860319,59857228,59860319,tallest.stem(Slavov(2014)),tallest.stem(Slavov.et.al.(2014)),Sb10g029835,tallest stem,tallest_stem,tallest_stem(Slavov_et_al_(2014)),Black,Slavov_et_al_(2014)
+2,67001824,67001979,67001824,67001979,HT(Zhao et al. (2013)),HT(Zhao et al. (2013)),DBM49,Heading time,Heading time,Heading time(Zhao et al. (2013)),Yellow,Zhao et al. (2013)
+4,95590,95690,95590,95690,HT(Zhao et al. (2013)),HT(Zhao et al. (2013)),DBM29,Heading time,Heading time,Heading time(Zhao et al. (2013)),Yellow,Zhao et al. (2013)
+3,69969955,69970199,69969955,69970199,HT(Zhao et al. (2013)),HT(Zhao et al. (2013)),DBM58,Heading time,Heading time,Heading time(Zhao et al. (2013)),Yellow,Zhao et al. (2013)
+1,60778915,60779162,60778915,60779162,HT(Zhao et al. (2013)),HT(Zhao et al. (2013)),DBM58,Heading time,Heading time,Heading time(Zhao et al. (2013)),Yellow,Zhao et al. (2013)
+10,8074334,8074416,8074334,8074416,HT(Zhao et al. (2013)),HT(Zhao et al. (2013)),DBM18,Heading time,Heading time,Heading time(Zhao et al. (2013)),Yellow,Zhao et al. (2013)
+10,15900276,15900368,15900276,15900368,HT(Zhao et al. (2013)),HT(Zhao et al. (2013)),DBM18,Heading time,Heading time,Heading time(Zhao et al. (2013)),Yellow,Zhao et al. (2013)
+6,4248017,4248077,4248017,4248077,HT(Zhao et al. (2013)),HT(Zhao et al. (2013)),DBM29,Heading time,Heading time,Heading time(Zhao et al. (2013)),Yellow,Zhao et al. (2013)
+2,4111300,4111300,4101300,4121300,Yld(Zhao(2013)),Yld(Zhao.et.al.(2013)),DBM12.11,biomass yield,Yld,Yld(Zhao_et_al_(2013)),Yellow,Zhao_et_al_(2013)
+6,56753000,56753000,56743000,56763000,Yld(Zhao(2013)),Yld(Zhao.et.al.(2013)),DBM55.5,biomass yield,Yld,Yld(Zhao_et_al_(2013)),Yellow,Zhao_et_al_(2013)

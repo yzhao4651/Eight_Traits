@@ -1,0 +1,73 @@
+"","Two.Traits","variable","value"
+"1","Bcirc+CCirc","overlapped SNPs",2
+"2","Bcirc+SDW","overlapped SNPs",3
+"3","Bcirc+Yld","overlapped SNPs",5
+"4","CmD_BI+Bcirc","overlapped SNPs",6
+"5","CmD_BI+CCirc","overlapped SNPs",5
+"6","CmD_BI+CmD_LI","overlapped SNPs",15
+"7","CmD_BI+CmN","overlapped SNPs",7
+"8","CmD_BI+SDW","overlapped SNPs",11
+"9","CmD_BI+Yld","overlapped SNPs",12
+"10","CmD_LI+Bcirc","overlapped SNPs",7
+"11","CmD_LI+CCirc","overlapped SNPs",5
+"12","CmD_LI+CmN","overlapped SNPs",6
+"13","CmD_LI+SDW","overlapped SNPs",11
+"14","CmD_LI+Yld","overlapped SNPs",11
+"15","CmDW+Bcirc","overlapped SNPs",4
+"16","CmDW+CCirc","overlapped SNPs",6
+"17","CmDW+CmD_BI","overlapped SNPs",23
+"18","CmDW+CmD_LI","overlapped SNPs",20
+"19","CmDW+Cml","overlapped SNPs",19
+"20","CmDW+CmN","overlapped SNPs",14
+"21","CmDW+SDW","overlapped SNPs",13
+"22","CmDW+Yld","overlapped SNPs",14
+"23","Cml+Bcirc","overlapped SNPs",3
+"24","Cml+CCirc","overlapped SNPs",3
+"25","Cml+CmD_BI","overlapped SNPs",15
+"26","Cml+CmD_LI","overlapped SNPs",10
+"27","Cml+CmN","overlapped SNPs",3
+"28","Cml+SDW","overlapped SNPs",10
+"29","Cml+Yld","overlapped SNPs",10
+"30","CmN+Bcirc","overlapped SNPs",4
+"31","CmN+CCirc","overlapped SNPs",7
+"32","CmN+SDW","overlapped SNPs",2
+"33","CmN+Yld","overlapped SNPs",3
+"34","SDW+CCirc","overlapped SNPs",8
+"35","Yld+CCirc","overlapped SNPs",13
+"36","Yld+SDW","overlapped SNPs",29
+"37","Bcirc+CCirc","Correlation of coefficient",0.69
+"38","Bcirc+SDW","Correlation of coefficient",0.6
+"39","Bcirc+Yld","Correlation of coefficient",0.61
+"40","CmD_BI+Bcirc","Correlation of coefficient",0.59
+"41","CmD_BI+CCirc","Correlation of coefficient",0.65
+"42","CmD_BI+CmD_LI","Correlation of coefficient",0.78
+"43","CmD_BI+CmN","Correlation of coefficient",0.57
+"44","CmD_BI+SDW","Correlation of coefficient",0.61
+"45","CmD_BI+Yld","Correlation of coefficient",0.56
+"46","CmD_LI+Bcirc","Correlation of coefficient",0.44
+"47","CmD_LI+CCirc","Correlation of coefficient",0.5
+"48","CmD_LI+CmN","Correlation of coefficient",0.44
+"49","CmD_LI+SDW","Correlation of coefficient",0.63
+"50","CmD_LI+Yld","Correlation of coefficient",0.41
+"51","CmDW+Bcirc","Correlation of coefficient",0.6
+"52","CmDW+CCirc","Correlation of coefficient",0.77
+"53","CmDW+CmD_BI","Correlation of coefficient",0.84
+"54","CmDW+CmD_LI","Correlation of coefficient",0.77
+"55","CmDW+Cml","Correlation of coefficient",0.77
+"56","CmDW+CmN","Correlation of coefficient",0.66
+"57","CmDW+SDW","Correlation of coefficient",0.75
+"58","CmDW+Yld","Correlation of coefficient",0.68
+"59","Cml+Bcirc","Correlation of coefficient",0.49
+"60","Cml+CCirc","Correlation of coefficient",0.54
+"61","Cml+CmD_BI","Correlation of coefficient",0.71
+"62","Cml+CmD_LI","Correlation of coefficient",0.71
+"63","Cml+CmN","Correlation of coefficient",0.51
+"64","Cml+SDW","Correlation of coefficient",0.68
+"65","Cml+Yld","Correlation of coefficient",0.42
+"66","CmN+Bcirc","Correlation of coefficient",0.63
+"67","CmN+CCirc","Correlation of coefficient",0.65
+"68","CmN+SDW","Correlation of coefficient",0.61
+"69","CmN+Yld","Correlation of coefficient",0.56
+"70","SDW+CCirc","Correlation of coefficient",0.66
+"71","Yld+CCirc","Correlation of coefficient",0.95
+"72","Yld+SDW","Correlation of coefficient",0.54

@@ -1,0 +1,416 @@
+SNP,Gene,GO,Best.hit.arabi.name,arabi.symbol,arabi.defline,Best.hit.rice.name,rice.symbol,rice.defline
+GFSSContig15563_263,Sobic.009G255100,NA,NA,NA,NA,NA,NA,NA
+GFSSContig15931_175,Sobic.001G476000,,AT4G40020.1,,Myosin heavy chain-related protein,LOC_Os03g08980.1,NA,expressed protein
+GFSSContig15931_175,Sobic.001G475900,"GO:0055114,GO:0016491,GO:0008270",AT5G42250.1,,Zinc-binding alcohol dehydrogenase family protein,LOC_Os07g42924.1,NA,"dehydrogenase, putative, expressed"
+GFSSContig17265_1038,Sobic.006G136800,GO:0016747,AT5G48930.1,HCT,hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyl transferase,LOC_Os04g42250.3,NA,"transferase family protein, putative, expressed"
+GFSSContig17477_775,Sobic.002G303700,GO:0016787,AT1G13750.1,,Purple acid phosphatases superfamily protein,LOC_Os12g38750.2,NA,"nucleotide pyrophosphatase/phosphodiesterase, putative, expressed"
+GFSSContig18221_1150,Sobic.007G053100,"GO:0055085,GO:0016020,GO:0006810,GO:0015171,GO:0003333",AT1G31830.1,,Amino acid permease family protein,LOC_Os03g37984.2,NA,"amino acid permease family protein, putative, expressed"
+GFSSContig18315_975,Sobic.009G187100,NA,NA,NA,NA,NA,NA,NA
+GFSSContig19553_1853,Sobic.003G119400,,AT2G32080.1,PUR ALPHA-1,purin-rich alpha 1,LOC_Os01g15600.1,NA,"PUR ALPHA-1, putative, expressed"
+NsiI.TP127922,Sobic.004G196500,,AT3G51000.1,,alpha/beta-Hydrolases superfamily protein,LOC_Os10g35520.1,NA,"hydrolase, alpha/beta fold family domain containing protein, expressed"
+NsiI.TP128678,Sobic.003G375200,GO:0007094,AT5G49880.1,,mitotic checkpoint family protein,LOC_Os01g65580.1,NA,"mitotic checkpoint family protein, putative, expressed"
+NsiI.TP128897,Sobic.006G213300,"GO:0005634,GO:0003677",AT5G52230.1,MBD13,methyl-CPG-binding domain protein 13,LOC_Os04g52380.1,NA,"methyl-CpG binding domain containing protein, putative, expressed"
+NsiI.TP159695,Sobic.006G236700,"GO:0016887,GO:0005524,GO:0055085,GO:0042626,GO:0016021,GO:0006810",AT3G28860.1,"ABCB19,ATABCB19,ATMDR1,ATMDR11,ATPGP19,MDR1,MDR11,PGP19",ATP binding cassette subfamily B19,LOC_Os04g38570.1,NA,"multidrug resistance protein, putative, expressed"
+NsiI.TP164112,Sobic.002G409000,GO:0016788,AT2G23540.1,,GDSL-like Lipase/Acylhydrolase superfamily protein,LOC_Os07g47210.1,NA,"GDSL-like lipase/acylhydrolase, putative, expressed"
+NsiI.TP195403,Sobic.001G482800,,AT5G20900.1,"JAZ12,TIFY3B",jasmonate-zim-domain protein 12,LOC_Os03g08310.1,NA,"ZIM domain containing protein, putative, expressed"
+NsiI.TP211798,Sobic.001G444100,"GO:0016020,GO:0006810,GO:0005215",AT2G02040.1,"ATPTR2,ATPTR2-B,NTR1,PTR2,PTR2-B",peptide transporter 2,LOC_Os03g13240.1,NA,"peptide transporter, putative, expressed"
+NsiI.TP211798,Sobic.001G444200,,AT4G37170.1,,Pentatricopeptide repeat (PPR) superfamily protein,LOC_Os03g13230.1,NA,"pentatricopeptide, putative, expressed"
+NsiI.TP217838,Sobic.003G038400,,AT1G27000.1,,Protein of unknown function (DUF1664),LOC_Os05g08980.2,NA,expressed protein
+NsiI.TP218789,Sobic.003G194500,GO:0046872,AT5G56930.1,emb1789,CCCH-type zinc finger family protein,LOC_Os01g39100.1,NA,"zinc finger C-x8-C-x5-C-x3-H type family protein, expressed"
+NsiI.TP249634,Sobic.009G052800,,,,,LOC_Os05g06520.1,NA,"helix-loop-helix DNA-binding domain containing protein, expressed"
+NsiI.TP250072,Sobic.009G050900,,AT5G47900.1,,Protein of unknown function (DUF1624),LOC_Os05g06360.1,NA,"heparan-alpha-glucosaminide N-acetyltransferase, putative, expressed"
+NsiI.TP255006,Sobic.006G258600,,AT5G50100.1,,Putative thiol-disulphide oxidoreductase DCC,LOC_Os04g57310.1,NA,"thiol-disulphide oxidoreductase DCC, putative, expressed"
+NsiI.TP257077,Sobic.001G079401,,,,,,NA,
+NsiI.TP257077,Sobic.001G079500,,AT1G27730.1,"STZ,ZAT10",salt tolerance zinc finger,LOC_Os03g55540.1,NA,"ZOS3-18 - C2H2 zinc finger protein, expressed"
+NsiI.TP273928,Sobic.006G236800,"GO:0005515,GO:0008017",AT3G47690.1,"ATEB1A,ATEB1H2,EB1A",microtubule end binding protein EB1A,LOC_Os04g54940.1,NA,"ATEB1A-like microtubule associated protein, putative, expressed"
+NsiI.TP282888,Sobic.002G006900,,AT4G37460.1,SRFR1,Tetratricopeptide repeat (TPR)-like superfamily protein,LOC_Os07g02300.1,NA,"tetratricopeptide repeat domain containing protein, expressed"
+NsiI.TP282888,Sobic.002G007000,,AT4G37380.1,,Tetratricopeptide repeat (TPR)-like superfamily protein,LOC_Os07g02280.1,NA,"pentatricopeptide, putative, expressed"
+NsiI.TP296881,Sobic.010G087300,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP296932,Sobic.009G142000,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP308953,Sobic.008G084100,"GO:0004017,GO:0019205,GO:0006139,GO:0005524",AT5G63400.1,ADK1,adenylate kinase 1,LOC_Os11g20790.1,NA,"adenylate kinase, putative, expressed"
+NsiI.TP327757,Sobic.003G403300,"GO:0016157,GO:0005985",AT1G04920.1,"ATSPS3F,SPS3F",sucrose phosphate synthase 3F,LOC_Os01g69030.2,NA,"sucrose-phosphate synthase, putative, expressed"
+NsiI.TP33138,Sobic.005G000500,"GO:0008017,GO:0007018,GO:0005524,GO:0003777,GO:0005871",AT3G45850.1,,P-loop containing nucleoside triphosphate hydrolases superfamily protein,LOC_Os05g02670.1,NA,"kinesin motor domain containing protein, putative, expressed"
+NsiI.TP33138,Sobic.005G000400,GO:0005515,AT5G41380.1,,CCT motif family protein,LOC_Os11g01074.4,NA,"RNase P subunit p30, putative, expressed"
+NsiI.TP332475,Sobic.003G315700,"GO:0003887,GO:0005524",AT2G02480.1,STI,AAA-type ATPase family protein,LOC_Os12g10670.1,NA,"AAA-type ATPase family protein, putative, expressed"
+NsiI.TP332475,Sobic.003G315800,,,,,,NA,
+NsiI.TP338132,Sobic.003G253500,,AT3G14180.1,,sequence-specific DNA binding transcription factors,LOC_Os01g48320.1,NA,"transcription factor like protein, putative, expressed"
+NsiI.TP34193,Sobic.006G110200,GO:0003723,AT3G01370.1,"ATCFM2,CFM2",CRM family member 2,LOC_Os04g39060.2,NA,"CRS1/YhbY domain containing protein, expressed"
+NsiI.TP346008,Sobic.004G350700,GO:0005515,AT5G04420.3,,Galactose oxidase/kelch repeat superfamily protein,LOC_Os02g57690.1,NA,"kelch repeat protein, putative, expressed"
+NsiI.TP352026,Sobic.006G003600,"GO:0055085,GO:0016021",AT1G34580.1,,Major facilitator superfamily protein,LOC_Os04g37990.1,NA,"transporter family protein, putative, expressed"
+NsiI.TP358081,Sobic.006G067600,,AT3G44680.1,"HDA09,HDA9",histone deacetylase 9,LOC_Os04g33480.1,NA,"histone deacetylase, putative, expressed"
+NsiI.TP358081,Sobic.006G067500,GO:0016787,AT3G09970.1,,Calcineurin-like metallo-phosphoesterase superfamily protein,LOC_Os04g33470.1,NA,"Ser/Thr protein phosphatase family protein, putative, expressed"
+NsiI.TP359278,Sobic.006G175500,GO:0046983,AT1G63650.3,"ATMYC-2,EGL1,EGL3",basic helix-loop-helix (bHLH) DNA-binding superfamily protein,LOC_Os04g47080.1,NA,"anthocyanin regulatory Lc protein, putative, expressed"
+NsiI.TP361622,Sobic.001G413100,,AT5G02740.1,,Ribosomal protein S24e family protein,LOC_Os03g17450.1,NA,"nucleotide binding protein, putative, expressed"
+NsiI.TP370880,Sobic.003G363600,"GO:0043565,GO:0006355,GO:0003700,GO:0006351",AT1G08320.1,"bZIP21,TGA9",bZIP transcription factor family protein,LOC_Os01g64020.1,NA,"transcription factor, putative, expressed"
+NsiI.TP390222,Sobic.004G237000,GO:0046983,AT1G26945.1,KDR,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,LOC_Os02g51320.1,NA,"helix-loop-helix DNA-binding domain containing protein, expressed"
+NsiI.TP39740,Sobic.002G001300,"GO:0055114,GO:0016491,GO:0005507",AT3G09220.1,LAC7,laccase 7,LOC_Os07g01110.1,NA,"laccase precursor protein, putative, expressed"
+NsiI.TP402511,Sobic.004G231700,,AT1G34670.1,"AtMYB93,MYB93",myb domain protein 93,LOC_Os06g11780.1,NA,"MYB family transcription factor, putative, expressed"
+NsiI.TP404457,Sobic.001G495000,"GO:0019901,GO:0006355,GO:0000079",AT5G45190.1,,Cyclin family protein,LOC_Os12g30020.2,NA,"cyclin-T1-4, putative, expressed"
+NsiI.TP404457,Sobic.001G494950,,,,,,NA,
+NsiI.TP409721,Sobic.002G266400,,,,,,NA,
+NsiI.TP409721,Sobic.002G266300,"GO:0052726,GO:0052725,GO:0047325,GO:0032957,GO:0005622,GO:0005524,GO:0000287",AT2G43980.1,"AtITPK4,ITPK4","inositol 1,3,4-trisphosphate 5/6-kinase 4",LOC_Os09g34300.1,NA,"Inositol 1, 3, 4-trisphosphate 5/6-kinase, putative, expressed"
+NsiI.TP409721,Sobic.002G266500,,,,,LOC_Os05g05860.1,NA,"retrotransposon protein, putative, unclassified, expressed"
+NsiI.TP415575,Sobic.009G186300,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP41841,Sobic.002G393600,GO:0016788,AT1G28600.1,,GDSL-like Lipase/Acylhydrolase superfamily protein,LOC_Os07g44780.1,NA,"GDSL-like lipase/acylhydrolase, putative, expressed"
+NsiI.TP42003,Sobic.008G191800,GO:0003677,AT5G66980.1,,AP2/B3-like transcriptional factor family protein,LOC_Os03g11370.1,NA,"B3 DNA binding domain containing protein, expressed"
+NsiI.TP434679,Sobic.003G128575,,,,,,NA,
+NsiI.TP438910,Sobic.004G344200,,AT2G20190.1,"ATCLASP,CLASP",CLIP-associated protein,LOC_Os02g57120.1,NA,"HEAT repeat family protein, putative, expressed"
+NsiI.TP441693,Sobic.003G029900,"GO:0055114,GO:0050660,GO:0016491,GO:0019139,GO:0009690",AT1G75450.1,"ATCKX5,ATCKX6,CKX5",cytokinin oxidase 5,LOC_Os01g10110.1,NA,"cytokinin dehydrogenase precursor, putative, expressed"
+NsiI.TP445017,Sobic.009G213500,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP447144,Sobic.003G305500,,AT5G66740.1,,Protein of unknown function (DUF620),LOC_Os01g55795.1,NA,expressed protein
+NsiI.TP459060,Sobic.010G006100,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP46196,Sobic.001G297600,"GO:0055085,GO:0016021",AT5G61520.1,,Major facilitator superfamily protein,LOC_Os10g41190.1,NA,"transporter family protein, putative, expressed"
+NsiI.TP465791,Sobic.001G476000,,AT4G40020.1,,Myosin heavy chain-related protein,LOC_Os03g08980.1,NA,expressed protein
+NsiI.TP465791,Sobic.001G475900,"GO:0055114,GO:0016491,GO:0008270",AT5G42250.1,,Zinc-binding alcohol dehydrogenase family protein,LOC_Os07g42924.1,NA,"dehydrogenase, putative, expressed"
+NsiI.TP471156,Sobic.006G071096,,,,,LOC_Os04g33710.1,NA,expressed protein
+NsiI.TP471487,Sobic.010G188500,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP482264,Sobic.001G376600,"GO:0006412,GO:0005840,GO:0005622,GO:0003735",AT3G05560.1,,Ribosomal L22e protein family,LOC_Os03g22340.1,NA,"60S ribosomal protein L22-2, putative, expressed"
+NsiI.TP488601,Sobic.001G082900,,AT1G13970.1,,Protein of unknown function (DUF1336),LOC_Os03g55180.1,NA,"DUF1336 domain containing protein, expressed"
+NsiI.TP488601,Sobic.001G083000,"GO:0043565,GO:0006355,GO:0003700",AT1G13960.1,WRKY4,WRKY DNA-binding protein 4,LOC_Os04g39570.1,NA,"WRKY35, expressed"
+NsiI.TP488716,Sobic.005G054800,,AT3G57620.1,,glyoxal oxidase-related protein,LOC_Os11g06870.1,NA,"glyoxal oxidase-related, putative, expressed"
+NsiI.TP494603,Sobic.002G221000,GO:0005515,AT5G22260.1,MS1,RING/FYVE/PHD zinc finger superfamily protein,LOC_Os09g27620.1,NA,"PHD-finger domain containing protein, putative, expressed"
+NsiI.TP494603,Sobic.002G220900,,AT1G73470.1,,,LOC_Os09g27610.1,NA,expressed protein
+NsiI.TP509742,Sobic.009G125400,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP51047,Sobic.002G110500,GO:0005643,AT1G24310.1,,,LOC_Os07g19494.1,NA,expressed protein
+NsiI.TP514947,Sobic.006G171050,,AT1G02070.1,,,LOC_Os04g46600.1,NA,"zinc finger protein, putative, expressed"
+NsiI.TP515167,Sobic.004G351600,GO:0000184,,,,LOC_Os02g57780.2,NA,expressed protein
+NsiI.TP520698,Sobic.001G041800,"GO:0016851,GO:0015995,GO:0015979",AT1G08520.1,"ALB-1V,ALB1,CHLD,PDE166,V157",ALBINA 1,LOC_Os03g59640.1,NA,"magnesium-chelatase subunit chlD, chloroplast precursor, putative, expressed"
+NsiI.TP520698,Sobic.001G041700,,,,,LOC_Os03g59650.1,NA,"BRCA1 C Terminus domain containing protein, expressed"
+NsiI.TP525011,Sobic.010G005500,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP525011,Sobic.010G005401,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP571832,Sobic.002G250900,,AT5G66580.1,,,LOC_Os09g32000.1,NA,expressed protein
+NsiI.TP575555,Sobic.002G023900,"GO:0003677,GO:0006355,GO:0005634",AT4G08150.1,"BP,BP1,KNAT1",KNOTTED-like from Arabidopsis thaliana,LOC_Os07g03770.1,NA,"Homeobox domain containing protein, expressed"
+NsiI.TP575618,Sobic.007G039100,,AT1G63910.1,"AtMYB103,MYB103",myb domain protein 103,LOC_Os08g05520.1,NA,"myb-like DNA-binding domain containing protein, putative, expressed"
+NsiI.TP575629,Sobic.004G124800,"GO:0042546,GO:0016020,GO:0008107",AT2G03220.1,"ATFT1,ATFUT1,FT1,MUR2",fucosyltransferase 1,LOC_Os02g17534.1,NA,"xyloglucan fucosyltransferase, putative, expressed"
+NsiI.TP575629,Sobic.004G124700,,AT1G15220.1,"ATCCMH,CCMH",cytochrome c biogenesis protein family,LOC_Os02g17520.1,NA,"cytochrome c-type biogenesis protein ccmH precursor, putative, expressed"
+NsiI.TP576208,Sobic.001G216300,"GO:0045454,GO:0015035,GO:0009055,GO:0035556",AT3G11920.1,,glutaredoxin-related,LOC_Os10g34170.1,NA,"glutaredoxin domain containing protein, putative, expressed"
+NsiI.TP586300,Sobic.003G238900,GO:0016788,AT1G28600.1,,GDSL-like Lipase/Acylhydrolase superfamily protein,LOC_Os01g46220.1,NA,"GDSL-like lipase/acylhydrolase, putative, expressed"
+NsiI.TP608372,Sobic.009G001300,,AT5G07290.1,"AML4,ML4",MEI2-like 4,LOC_Os05g01240.2,NA,"AML1, putative, expressed"
+NsiI.TP616137,Sobic.006G225200,"GO:0019901,GO:0000079",AT3G21870.1,CYCP2;1,cyclin p2;1,LOC_Os04g53680.1,NA,"cyclin, putative, expressed"
+NsiI.TP617177,Sobic.002G166800,GO:0003676,AT1G53650.2,CID8,CTC-interacting domain 8,LOC_Os08g02330.1,NA,"RNA recognition motif containing protein, putative, expressed"
+NsiI.TP631452,Sobic.010G183032,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP635575,Sobic.005G112400,"GO:0008234,GO:0006508",AT1G29090.1,,Cysteine proteinases superfamily protein,LOC_Os07g01800.1,NA,"cysteine proteinase EP-B 1 precursor, putative, expressed"
+NsiI.TP647736,Sobic.006G215400,"GO:0006468,GO:0005524,GO:0004672",AT1G56130.1,,Leucine-rich repeat transmembrane protein kinase,LOC_Os04g52600.1,NA,"SHR5-receptor-like kinase, putative, expressed"
+NsiI.TP648509,Sobic.010G146000,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP667008,Sobic.008G016000,"GO:0055085,GO:0022857,GO:0016021",AT3G43790.1,ZIFL2,zinc induced facilitator-like 2,LOC_Os12g03870.1,NA,"major facilitator superfamily antiporter, putative, expressed"
+NsiI.TP681203,Sobic.001G106200,"GO:0003677,GO:0006355,GO:0005634",AT4G08150.1,"BP,BP1,KNAT1",KNOTTED-like from Arabidopsis thaliana,LOC_Os03g51690.2,NA,"Homeobox domain containing protein, expressed"
+NsiI.TP696486,Sobic.004G107200,,AT1G17110.1,UBP15,ubiquitin-specific protease 15,LOC_Os02g14730.1,NA,"ubiquitin carboxyl-terminal hydrolase family protein, expressed"
+NsiI.TP701217,Sobic.008G169400,"GO:0006355,GO:0005634,GO:0003677,GO:0009725",AT1G30330.2,ARF6,auxin response factor 6,LOC_Os12g41950.1,NA,"auxin response factor, putative, expressed"
+NsiI.TP713636,Sobic.005G148100,,,,,,NA,
+NsiI.TP717578,Sobic.010G237900,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP717913,Sobic.004G222000,"GO:0016020,GO:0006810,GO:0005215",AT2G37170.1,"PIP2;2,PIP2B",plasma membrane intrinsic protein 2,LOC_Os02g41860.2,NA,"aquaporin protein, putative, expressed"
+NsiI.TP726681,Sobic.003G287400,"GO:0055114,GO:0016491,GO:0050664,GO:0004601",AT1G64060.1,"ATRBOH F,ATRBOHF,RBOH F,RBOHAP108,RBOHF",respiratory burst oxidase protein F,LOC_Os05g45210.1,NA,"respiratory burst oxidase, putative, expressed"
+NsiI.TP741199,Sobic.002G204100,"GO:0016531,GO:0006825,GO:0005758,GO:0005507",AT1G53030.1,,Cytochrome C oxidase copper chaperone (COX17),LOC_Os09g25314.1,NA,"cytochrome c oxidase copper chaperone, putative, expressed"
+NsiI.TP741199,Sobic.002G204050,,,,,,NA,
+NsiI.TP741991,Sobic.002G276800,"GO:0046923,GO:0016021,GO:0006621",AT1G75760.1,,ER lumen protein retaining receptor family protein,LOC_Os08g43470.1,NA,"ER lumen protein retaining receptor, putative, expressed"
+NsiI.TP750593,Sobic.004G266300,,AT3G01580.1,,Tetratricopeptide repeat (TPR)-like superfamily protein,LOC_Os03g56850.1,NA,"pentatricopeptide, putative, expressed"
+NsiI.TP753743,Sobic.009G102600,,AT1G07090.1,LSH6,Protein of unknown function (DUF640),LOC_Os01g61310.1,NA,"DUF640 domain containing protein, putative, expressed"
+NsiI.TP758763,Sobic.001G296100,,AT1G02110.1,,Protein of unknown function (DUF630 and DUF632),LOC_Os10g41310.1,NA,"DUF630/DUF632 domains containing protein, putative, expressed"
+NsiI.TP762015,Sobic.007G008800,"GO:0006886,GO:0005622",AT5G63640.1,,ENTH/VHS/GAT family protein,LOC_Os08g01740.2,NA,"VHS and GAT domain containing protein, expressed"
+NsiI.TP762935,Sobic.006G018800,"GO:0005515,GO:0000160",AT3G04580.1,EIN4,"Signal transduction histidine kinase, hybrid-type, ethylene sensor",LOC_Os04g08740.2,NA,"ethylene receptor, putative, expressed"
+NsiI.TP764847,Sobic.010G108100,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP766057,Sobic.007G183900,GO:0005515,AT5G42220.1,,Ubiquitin-like superfamily protein,LOC_Os07g31540.1,NA,"ubiquitin family protein, putative, expressed"
+NsiI.TP769756,Sobic.001G119800,,AT5G16720.1,,"Protein of unknown function, DUF593",LOC_Os03g15410.1,NA,expressed protein
+NsiI.TP779177,Sobic.004G298300,,AT2G44770.1,,ELMO/CED-12 family protein,LOC_Os02g43590.1,NA,"ELMO/CED-12 family protein, putative, expressed"
+NsiI.TP779177,Sobic.004G298250,,,,,,NA,
+NsiI.TP832364,Sobic.001G492800,,AT5G06610.1,,Protein of unknown function (DUF620),LOC_Os03g07120.1,NA,expressed protein
+NsiI.TP89701,Sobic.004G290600,GO:0005515,AT2G45540.1,,WD-40 repeat family protein / beige-related,LOC_Os04g46894.1,NA,"beige/BEACH domain containing protein, expressed"
+NsiI.TP90957,Sobic.009G253600,NA,NA,NA,NA,NA,NA,NA
+NsiI.TP90957,Sobic.009G253500,NA,NA,NA,NA,NA,NA,NA
+PstI.TP1012416,Sobic.002G204600,,AT5G57910.1,,,LOC_Os09g25410.1,NA,expressed protein
+PstI.TP1016611,Sobic.001G150200,"GO:0005509,GO:0030247,GO:0006468,GO:0004672",AT1G21270.1,WAK2,wall-associated kinase 2,LOC_Os04g51050.1,NA,"OsWAK53b - OsWAK receptor-like protein kinase, expressed"
+PstI.TP1025634,Sobic.002G347300,"GO:0055114,GO:0048038,GO:0009308,GO:0008131,GO:0005507",AT1G31690.1,,Copper amine oxidase family protein,LOC_Os06g23114.1,NA,"copper methylamine oxidase precursor, putative, expressed"
+PstI.TP1026977,Sobic.004G279300,,AT5G37260.1,"CIR1,RVE2",Homeodomain-like superfamily protein,LOC_Os02g46030.1,NA,"MYB family transcription factor, putative, expressed"
+PstI.TP1040729,Sobic.004G197400,GO:0003682,AT1G69770.1,CMT3,chromomethylase 3,LOC_Os03g12570.1,NA,expressed protein
+PstI.TP1040729,Sobic.004G197300,,,,,,NA,
+PstI.TP1040925,Sobic.001G233800,,,,,LOC_Os10g30890.1,NA,expressed protein
+PstI.TP1044533,Sobic.010G009466,NA,NA,NA,NA,NA,NA,NA
+PstI.TP1051083,Sobic.001G160200,,AT3G22810.1,,Plant protein of unknown function (DUF828) with plant pleckstrin homology-like region,LOC_Os03g43510.1,NA,expressed protein
+PstI.TP105605,Sobic.003G214400,"GO:0055085,GO:0016020,GO:0006810,GO:0015171,GO:0003333",AT2G01170.1,BAT1,bidirectional amino acid transporter 1,LOC_Os01g42234.2,NA,"amino acid permease family protein, putative, expressed"
+PstI.TP1057917,Sobic.003G307600,"GO:0055085,GO:0016020,GO:0015297,GO:0015238,GO:0006855",AT1G47530.1,,MATE efflux family protein,LOC_Os01g56050.1,NA,"MATE efflux family protein, putative, expressed"
+PstI.TP1064534,Sobic.003G021800,"GO:0043565,GO:0006355,GO:0003700",AT3G58120.1,"ATBZIP61,BZIP61",Basic-leucine zipper (bZIP) transcription factor family protein,LOC_Os01g11350.1,NA,"bZIP transcription factor domain containing protein, expressed"
+PstI.TP1066422,Sobic.003G273600,"GO:0006468,GO:0005524,GO:0004672",AT1G72710.1,CKL2,casein kinase 1-like protein 2,LOC_Os01g51200.1,NA,"CK1_CaseinKinase_1.3 - CK1 includes the casein kinase 1 kinases, expressed"
+PstI.TP107240,Sobic.008G192800,"GO:0006468,GO:0005524,GO:0004672",AT3G13670.1,,Protein kinase family protein,LOC_Os05g11140.2,NA,"CK1_CaseinKinase_1a.5 - CK1 includes the casein kinase 1 kinases, expressed"
+PstI.TP107240,Sobic.008G192700,"GO:0008017,GO:0007010",AT1G24764.1,"ATMAP70-2,MAP70-2",microtubule-associated proteins 70-2,LOC_Os12g44340.1,NA,"ATMAP70 protein, putative, expressed"
+PstI.TP1082141,Sobic.002G187500,,AT3G48030.1,,hypoxia-responsive family protein / zinc finger (C3HC4-type RING finger) family protein,LOC_Os09g20900.1,NA,"hypoxia-responsive family protein, putative, expressed"
+PstI.TP1083673,Sobic.007G137000,,AT3G29010.1,,Biotin/lipoate A/B protein ligase family,LOC_Os08g33810.1,NA,"lipoate protein ligase, putative, expressed"
+PstI.TP108652,Sobic.002G121300,"GO:0006508,GO:0004185",AT5G09640.1,"SCPL19,SNG2",serine carboxypeptidase-like 19,LOC_Os11g24510.1,NA,"OsSCP56 - Putative Serine Carboxypeptidase homologue, expressed"
+PstI.TP1090311,Sobic.006G103000,,,,,LOC_Os04g38320.1,NA,expressed protein
+PstI.TP1098463,Sobic.004G315400,"GO:0055085,GO:0016021,GO:0008324,GO:0006812",AT3G58060.1,,Cation efflux family protein,LOC_Os02g53490.1,NA,"cation efflux family protein, putative, expressed"
+PstI.TP10996,Sobic.006G239000,,AT4G28080.1,,Tetratricopeptide repeat (TPR)-like superfamily protein,LOC_Os04g55230.1,NA,"tetratricopeptide repeat domain containing protein, putative, expressed"
+PstI.TP1100764,Sobic.002G244901,,,,,,NA,
+PstI.TP1100764,Sobic.002G244800,,,,,,NA,
+PstI.TP110898,Sobic.010G104900,NA,NA,NA,NA,NA,NA,NA
+PstI.TP111833,Sobic.001G384600,"GO:0005975,GO:0004553",AT5G49720.1,"ATGH9A1,DEC,GH9A1,IRX2,KOR,KOR1,RSW2,TSD1",glycosyl hydrolase 9A1,LOC_Os03g21210.1,NA,"endoglucanase, putative, expressed"
+PstI.TP1123778,Sobic.002G227900,,AT1G47480.1,,alpha/beta-Hydrolases superfamily protein,LOC_Os09g28690.1,NA,"gibberellin receptor GID1L2, putative, expressed"
+PstI.TP1128002,Sobic.002G205700,,,,,,NA,
+PstI.TP1132955,Sobic.004G297300,"GO:0006511,GO:0005622,GO:0004843",AT4G17510.1,UCH3,ubiquitin C-terminal hydrolase 3,LOC_Os02g43760.1,NA,"ubiquitin carboxyl-terminal hydrolase, family 1, putative, expressed"
+PstI.TP1132955,Sobic.004G297400,"GO:0008152,GO:0003824",AT4G16800.1,,ATP-dependent caseinolytic (Clp) protease/crotonase family protein,LOC_Os02g43720.1,NA,"enoyl-CoA hydratase/isomerase family protein, putative, expressed"
+PstI.TP1145813,Sobic.005G206500,"GO:0055085,GO:0016021",AT2G47600.1,"ATMHX,ATMHX1,MHX,MHX1",magnesium/proton exchanger,LOC_Os11g43860.1,NA,"sodium/calcium exchanger protein, putative, expressed"
+PstI.TP1146105,Sobic.003G156500,"GO:0005515,GO:0006364",AT2G40360.1,,Transducin/WD40 repeat-like superfamily protein,LOC_Os07g25440.1,NA,"WD domain, G-beta repeat domain containing protein, expressed"
+PstI.TP1148487,Sobic.004G153000,,AT2G38430.1,,,LOC_Os02g30140.2,NA,expressed protein
+PstI.TP1148558,Sobic.002G229300,"GO:0006508,GO:0004185",AT3G63470.1,scpl40,serine carboxypeptidase-like 40,LOC_Os09g28840.1,NA,"OsSCP43 - Putative Serine Carboxypeptidase homologue, expressed"
+PstI.TP1150566,Sobic.009G018200,"GO:0048544,GO:0006468,GO:0005524,GO:0004672",AT2G19130.1,,S-locus lectin protein kinase family protein,LOC_Os07g08860.1,NA,"S-domain receptor-like protein kinase, putative, expressed"
+PstI.TP1155086,Sobic.009G142800,NA,NA,NA,NA,NA,NA,NA
+PstI.TP1158211,Sobic.003G281300,GO:0003677,AT4G34400.1,,AP2/B3-like transcriptional factor family protein,LOC_Os01g52540.1,NA,"B3 DNA binding domain containing protein, expressed"
+PstI.TP1158211,Sobic.003G281200,GO:0009116,AT1G10700.1,PRS3,phosphoribosyl pyrophosphate (PRPP) synthase 3,LOC_Os01g52530.1,NA,"phosphoribosyl transferase, putative, expressed"
+PstI.TP116046,Sobic.007G192100,"GO:0016021,GO:0006810",AT3G07680.1,,emp24/gp25L/p24 family/GOLD family protein,LOC_Os08g42050.1,NA,"emp24/gp25L/p24 family protein, putative, expressed"
+PstI.TP1164091,Sobic.006G215000,"GO:0005515,GO:0003676",AT1G31280.1,AGO2,Argonaute family protein,LOC_Os04g52540.1,NA,"retrotransposon protein, putative, unclassified, expressed"
+PstI.TP117081,Sobic.002G153700,"GO:0001104,GO:0006357,GO:0016592",AT3G04740.1,"ATMED14,MED14,SWP",RNA polymerase II transcription mediators,LOC_Os09g10960.1,NA,"SWP, putative, expressed"
+PstI.TP1181476,Sobic.005G025900,"GO:0055085,GO:0016021",AT2G01420.1,"ATPIN4,PIN4",Auxin efflux carrier family protein,LOC_Os11g04190.1,NA,"auxin efflux carrier component, putative, expressed"
+PstI.TP118716,Sobic.009G146400,NA,NA,NA,NA,NA,NA,NA
+PstI.TP118716,Sobic.009G146250,NA,NA,NA,NA,NA,NA,NA
+PstI.TP1187427,Sobic.006G145500,"GO:0004553,GO:0005975",AT1G61820.1,BGLU46,beta glucosidase 46,LOC_Os04g43390.2,NA,"Os4bglu16 - monolignol beta-glucoside homologue, expressed"
+PstI.TP1187427,Sobic.006G145400,"GO:0005975,GO:0004553",AT1G61820.1,BGLU46,beta glucosidase 46,LOC_Os04g43360.1,NA,"Os4bglu14 - monolignol beta-glucoside homologue without catalytic acid/base, expressed"
+PstI.TP1193013,Sobic.006G277200,GO:0005515,AT1G76900.1,"AtTLP1,TLP1",tubby like protein 1,LOC_Os04g59130.1,NA,"OsFBT6 - F-box and tubby domain containing protein, expressed"
+PstI.TP1200270,Sobic.002G111000,"GO:0016787,GO:0008152",AT1G67420.1,,Zn-dependent exopeptidases superfamily protein,LOC_Os07g19530.1,NA,"peptidase, putative, expressed"
+PstI.TP1212724,Sobic.001G444000,"GO:0005215,GO:0006810,GO:0016020",AT2G02040.1,"ATPTR2,ATPTR2-B,NTR1,PTR2,PTR2-B",peptide transporter 2,LOC_Os03g13240.1,NA,"peptide transporter, putative, expressed"
+PstI.TP1214992,Sobic.003G220200,"GO:0006468,GO:0005524,GO:0004672",AT1G71410.1,,ARM repeat superfamily protein,LOC_Os01g42950.1,NA,"protein kinase family protein, putative, expressed"
+PstI.TP1214992,Sobic.003G220266,,,,,,NA,
+PstI.TP1218439,Sobic.009G175900,NA,NA,NA,NA,NA,NA,NA
+PstI.TP1225179,Sobic.006G219400,,,,,,NA,
+PstI.TP1225179,Sobic.006G219300,"GO:0016887,GO:0005524,GO:0055085,GO:0042626,GO:0016021,GO:0006810",AT2G34660.1,"ATMRP2,EST4,MRP2",multidrug resistance-associated protein 2,LOC_Os04g52900.1,NA,"ABC transporter family protein, putative, expressed"
+PstI.TP1226186,Sobic.003G085100,,,,,LOC_Os01g03660.3,NA,"MYB family transcription factor, putative, expressed"
+PstI.TP123530,Sobic.010G085000,NA,NA,NA,NA,NA,NA,NA
+PstI.TP1235909,Sobic.004G303800,"GO:0016491,GO:0008152",AT1G01800.1,,NAD(P)-binding Rossmann-fold superfamily protein,LOC_Os02g42810.1,NA,"oxidoreductase, short chain dehydrogenase/reductase family domain containing protein, expressed"
+PstI.TP1235909,Sobic.004G303700,GO:0008270,AT3G61230.1,,GATA type zinc finger transcription factor family protein,LOC_Os02g42820.1,NA,"OsPLIM2a - LIM domain protein, putative actin-binding protein and transcription factor, expressed"
+PstI.TP1246584,Sobic.001G011800,GO:0005515,AT3G48800.1,,Sterile alpha motif (SAM) domain-containing protein,LOC_Os03g63320.1,NA,"SAM domain containing protein, putative, expressed"
+PstI.TP1248844,Sobic.008G012300,GO:0000160,AT3G57040.1,"ARR9,ATRR4",response regulator 9,LOC_Os11g04720.2,NA,"OsRR10 type-A response regulator, expressed"
+PstI.TP1249212,Sobic.003G246100,GO:0005515,AT1G10600.1,AMSH2,associated molecule with the SH3 domain of STAM 2,LOC_Os01g47262.2,NA,"AMSH-like protease, putative, expressed"
+PstI.TP1250993,Sobic.004G007500,"GO:0055114,GO:0020037,GO:0016705,GO:0005506",AT4G15440.1,"CYP74B2,HPL1",hydroperoxide lyase 1,LOC_Os02g02000.1,NA,"cytochrome P450, putative, expressed"
+PstI.TP1254872,Sobic.007G137750,,,,,,NA,
+PstI.TP1254872,Sobic.007G137700,"GO:0033897,GO:0003723",AT2G02990.1,"ATRNS1,RNS1",ribonuclease 1,LOC_Os08g33710.1,NA,"ribonuclease T2 family domain containing protein, expressed"
+PstI.TP126085,Sobic.006G273400,GO:0003676,AT5G04810.1,,pentatricopeptide (PPR) repeat-containing protein,LOC_Os04g58780.1,NA,"pentatricopeptide repeat protein, putative, expressed"
+PstI.TP1263163,Sobic.009G071600,"GO:0006355,GO:0003677",AT4G29230.1,"anac075,NAC075",NAC domain containing protein 75,LOC_Os01g09550.1,NA,"no apical meristem protein, putative, expressed"
+PstI.TP1268585,Sobic.001G040200,"GO:0006355,GO:0003677",AT5G08790.1,"anac081,ATAF2",NAC (No Apical Meristem) domain transcriptional regulator superfamily protein,LOC_Os03g60080.1,NA,"NAC domain-containing protein 67, putative, expressed"
+PstI.TP1272828,Sobic.010G251000,NA,NA,NA,NA,NA,NA,NA
+PstI.TP1280049,Sobic.003G049600,,AT4G32410.1,"AtCESA1,CESA1,RSW1",cellulose synthase 1,LOC_Os05g08370.1,NA,"CESA1 - cellulose synthase, expressed"
+PstI.TP1294713,Sobic.010G054400,NA,NA,NA,NA,NA,NA,NA
+PstI.TP132940,Sobic.003G098401,"GO:0003735,GO:0005622,GO:0005840,GO:0006412",ATCG00160.1,,ribosomal protein S2,LOC_Os02g24612.1,NA,"ribosomal protein S2, putative, expressed"
+PstI.TP134129,Sobic.009G158000,NA,NA,NA,NA,NA,NA,NA
+PstI.TP134453,Sobic.002G226700,,AT5G42750.1,BKI1,BRI1 kinase inhibitor 1,LOC_Os09g28550.1,NA,expressed protein
+PstI.TP137261,Sobic.001G072900,,AT2G22070.1,,pentatricopeptide (PPR) repeat-containing protein,LOC_Os03g56400.1,NA,"pentatricopeptide, putative, expressed"
+PstI.TP139651,Sobic.002G320900,"GO:0005515,GO:0006629",AT1G61850.2,,phospholipases;galactolipases,LOC_Os07g33670.1,NA,"patatin-like phospholipase family protein, expressed"
+PstI.TP139651,Sobic.002G320700,,AT1G50900.1,,Ankyrin repeat family protein,LOC_Os07g33660.1,NA,expressed protein
+PstI.TP139937,Sobic.002G281300,"GO:0006888,GO:0005801,GO:0005622",AT2G20930.1,,SNARE-like superfamily protein,LOC_Os09g36976.1,NA,"trafficking protein particle complex subunit, putative, expressed"
+PstI.TP14229,Sobic.009G240400,NA,NA,NA,NA,NA,NA,NA
+PstI.TP148994,Sobic.006G110500,"GO:0017148,GO:0030598",,,,LOC_Os11g35425.1,NA,expressed protein
+PstI.TP148994,Sobic.006G110600,,,,,,NA,
+PstI.TP150197,Sobic.001G258200,GO:0016787,AT1G07010.1,,Calcineurin-like metallo-phosphoesterase superfamily protein,LOC_Os10g25430.1,NA,"Ser/Thr protein phosphatase family protein, putative, expressed"
+PstI.TP153500,Sobic.002G416000,"GO:0004857,GO:0042545,GO:0030599,GO:0005618",AT1G53830.1,"ATPME2,PME2",pectin methylesterase 2,LOC_Os07g47830.1,NA,"pectinesterase, putative, expressed"
+PstI.TP153500,Sobic.002G415900,"GO:0055114,GO:0050660,GO:0016627,GO:0008152,GO:0003995",AT3G06810.1,IBR3,acyl-CoA dehydrogenase-related,LOC_Os07g47820.1,NA,"acyl-CoA dehydrogenase family member 10, putative, expressed"
+PstI.TP15780,Sobic.009G218000,NA,NA,NA,NA,NA,NA,NA
+PstI.TP160694,Sobic.009G210600,NA,NA,NA,NA,NA,NA,NA
+PstI.TP161086,Sobic.008G185200,GO:0043531,AT3G46730.1,,NB-ARC domain-containing disease resistance protein,LOC_Os12g37740.1,NA,"resistance protein LR10, putative, expressed"
+PstI.TP166501,Sobic.001G205700,,AT3G51000.1,,alpha/beta-Hydrolases superfamily protein,LOC_Os10g35520.1,NA,"hydrolase, alpha/beta fold family domain containing protein, expressed"
+PstI.TP18098,Sobic.002G143000,,AT2G35360.1,,ubiquitin family protein,LOC_Os09g39980.1,NA,"ubiquitin family protein, putative, expressed"
+PstI.TP188641,Sobic.003G071600,"GO:0016627,GO:0016021,GO:0006629,GO:0005737",AT3G55360.1,"ATTSC13,CER10,ECR,TSC13",3-oxo-5-alpha-steroid 4-dehydrogenase family protein,LOC_Os01g05670.1,NA,"3-oxo-5-alpha-steroid 4-dehydrogenase, putative, expressed"
+PstI.TP190549,Sobic.007G142100,GO:0016747,AT5G48930.1,HCT,hydroxycinnamoyl-CoA shikimate/quinate hydroxycinnamoyl transferase,LOC_Os09g25460.1,NA,"transferase family protein, putative, expressed"
+PstI.TP19694,Sobic.001G249600,GO:0005515,AT1G10370.1,"ATGSTU17,ERD9,GST30,GST30B",Glutathione S-transferase family protein,LOC_Os10g25590.1,NA,"glutathione S-transferase, putative, expressed"
+PstI.TP197493,Sobic.007G033700,,,,,LOC_Os09g08620.1,NA,"OsFBX309 - F-box domain containing protein, expressed"
+PstI.TP197570,Sobic.005G118400,,AT1G55280.1,,"Lipase/lipooxygenase, PLAT/LH2 family protein",LOC_Os11g29900.1,NA,expressed protein
+PstI.TP217199,Sobic.001G517800,GO:0005515,AT1G76350.1,,Plant regulator RWP-RK family protein,LOC_Os03g03900.1,NA,"NIN, putative, expressed"
+PstI.TP217994,Sobic.004G266400,"GO:0055114,GO:0016491",AT3G27820.1,"ATMDAR4,MDAR4",monodehydroascorbate reductase 4,LOC_Os02g47800.1,NA,"monodehydroascorbate reductase, putative, expressed"
+PstI.TP226277,Sobic.010G276700,NA,NA,NA,NA,NA,NA,NA
+PstI.TP226277,Sobic.010G276600,NA,NA,NA,NA,NA,NA,NA
+PstI.TP228722,Sobic.006G176600,"GO:0008152,GO:0003824",AT5G65780.1,ATBCAT-5,branched-chain amino acid aminotransferase 5 / branched-chain amino acid transaminase 5 (BCAT5),LOC_Os04g47190.2,NA,"aminotransferase domain containing protein, putative, expressed"
+PstI.TP233305,Sobic.003G417900,"GO:0031625,GO:0006511",AT1G43140.1,,Cullin family protein,LOC_Os01g70920.2,NA,"cullin-1, putative, expressed"
+PstI.TP238422,Sobic.003G277600,,AT1G71710.1,,DNAse I-like superfamily protein,LOC_Os01g51890.1,NA,"endonuclease/exonuclease/phosphatase family domain containing protein, expressed"
+PstI.TP238422,Sobic.003G277700,,AT1G74320.1,,Protein kinase superfamily protein,LOC_Os01g51920.1,NA,"phosphotransferase, putative, expressed"
+PstI.TP246674,Sobic.004G057500,"GO:0006355,GO:0005634,GO:0003700",,,,LOC_Os03g11614.1,NA,"OsMADS1 - MADS-box family gene with MIKCc type-box, expressed"
+PstI.TP251038,Sobic.007G044100,"GO:0006366,GO:0005665,GO:0003677,GO:0006351,GO:0003899",AT4G35800.1,"NRPB1,RNA_POL_II_LS,RNA_POL_II_LSRNA_POL_II_LS,RPB1",RNA polymerase II large subunit,LOC_Os05g05860.1,NA,"retrotransposon protein, putative, unclassified, expressed"
+PstI.TP258621,Sobic.001G470800,"GO:0016021,GO:0015116,GO:0008272,GO:0055085,GO:0016020,GO:0008271",AT5G10180.1,"AST68,SULTR2;1",slufate transporter 2;1,LOC_Os03g09940.1,NA,"sulfate transporter, putative, expressed"
+PstI.TP26215,Sobic.009G006600,"GO:0016021,GO:0016020,GO:0022857",AT5G64700.1,,nodulin MtN21 /EamA-like transporter family protein,LOC_Os05g01570.1,NA,"auxin-induced protein 5NG4, putative, expressed"
+PstI.TP262331,Sobic.002G049600,,AT3G22550.1,,Protein of unknown function (DUF581),LOC_Os07g07900.1,NA,expressed protein
+PstI.TP285646,Sobic.007G164400,"GO:0055085,GO:0016021",AT3G54700.1,PHT1;7,phosphate transporter 1;7,LOC_Os08g45000.1,NA,"inorganic phosphate transporter, putative, expressed"
+PstI.TP290055,Sobic.008G084200,,AT2G20520.1,FLA6,FASCICLIN-like arabinogalactan 6,LOC_Os02g20540.1,NA,"fasciclin domain containing protein, expressed"
+PstI.TP290738,Sobic.007G163800,"GO:0016887,GO:0005524,GO:0055085,GO:0042626,GO:0016021,GO:0006810",AT2G36910.1,"ABCB1,ATPGP1,PGP1",ATP binding cassette subfamily B1,LOC_Os08g45030.1,NA,"multidrug resistance protein, putative, expressed"
+PstI.TP292268,Sobic.005G037700,GO:0005515,,,,LOC_Os10g10420.1,NA,"OsFBX378 - F-box domain containing protein, expressed"
+PstI.TP292777,Sobic.007G213500,,,,,LOC_Os08g39320.1,NA,expressed protein
+PstI.TP298201,Sobic.006G009200,,AT5G18980.1,,ARM repeat superfamily protein,LOC_Os01g34010.1,NA,expressed protein
+PstI.TP299726,Sobic.009G032800,"GO:0055114,GO:0020037,GO:0006979,GO:0004601",AT1G05260.1,"RCI3,RCI3A",Peroxidase superfamily protein,LOC_Os05g04450.1,NA,"peroxidase precursor, putative, expressed"
+PstI.TP300328,Sobic.003G115400,"GO:0006310,GO:0006281,GO:0006260,GO:0005634,GO:0003677",AT4G18590.1,,"Nucleic acid-binding, OB-fold-like protein",LOC_Os01g14980.1,NA,"RPA3 - Putative single-stranded DNA binding complex subunit 3, expressed"
+PstI.TP308053,Sobic.001G107500,"GO:0006468,GO:0005524,GO:0004672",AT5G10270.1,CDKC;1,cyclin-dependent kinase C;1,LOC_Os01g72790.1,NA,"cyclin-dependent kinase, putative, expressed"
+PstI.TP315072,Sobic.008G034000,,AT5G51670.1,,Protein of unknown function (DUF668),LOC_Os12g05180.1,NA,"avr9/Cf-9 rapidly elicited protein, putative, expressed"
+PstI.TP317521,Sobic.004G325000,,AT5G57710.1,,Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein,LOC_Os02g54720.1,NA,expressed protein
+PstI.TP326891,Sobic.001G467200,GO:0005515,AT1G27460.1,NPGR1,no pollen germination related 1,LOC_Os03g10350.2,NA,"NPGR1, putative, expressed"
+PstI.TP344899,Sobic.007G181600,"GO:0055114,GO:0016491,GO:0008270",AT5G51970.2,,GroES-like zinc-binding alcohol dehydrogenase family protein,LOC_Os08g43190.2,NA,"dehydrogenase, putative, expressed"
+PstI.TP346744,Sobic.003G195900,GO:0005515,AT1G49040.1,SCD1,stomatal cytokinesis defective / SCD1 protein (SCD1),LOC_Os01g39380.1,NA,"SCD1, putative, expressed"
+PstI.TP350262,Sobic.008G032600,GO:0006629,AT3G51730.1,,saposin B domain-containing protein,LOC_Os12g02094.1,NA,"saposin-like type B, region 1 family protein, putative, expressed"
+PstI.TP360715,Sobic.010G250500,NA,NA,NA,NA,NA,NA,NA
+PstI.TP371473,Sobic.010G262300,NA,NA,NA,NA,NA,NA,NA
+PstI.TP374511,Sobic.001G048900,,AT4G38810.1,,Calcium-binding EF-hand family protein,LOC_Os10g09850.1,NA,"EF hand family protein, putative, expressed"
+PstI.TP376790,Sobic.001G254700,,AT1G32583.1,,,LOC_Os10g14020.1,NA,"TPD1, putative, expressed"
+PstI.TP384804,Sobic.002G265166,"GO:0033897,GO:0003723",AT2G39780.1,RNS2,ribonuclease 2,LOC_Os01g67180.1,NA,"ribonuclease T2 family domain containing protein, expressed"
+PstI.TP385678,Sobic.002G153200,,,,,,NA,
+PstI.TP387329,Sobic.009G214600,NA,NA,NA,NA,NA,NA,NA
+PstI.TP392482,Sobic.001G196000,"GO:0008017,GO:0007018,GO:0005524,GO:0003777,GO:0005871",AT4G39050.1,,Kinesin motor family protein,LOC_Os10g36880.1,NA,"kinesin motor domain containing protein, putative, expressed"
+PstI.TP393536,Sobic.001G378200,,AT3G16760.1,,Tetratricopeptide repeat (TPR)-like superfamily protein,LOC_Os03g22140.1,NA,"tetratricopeptide repeat domain containing protein, expressed"
+PstI.TP39944,Sobic.004G041100,"GO:0006887,GO:0000145",AT4G31540.1,"ATEXO70G1,EXO70G1",exocyst subunit exo70 family protein G1,LOC_Os02g05620.1,NA,"ATEXO70G1, putative, expressed"
+PstI.TP402429,Sobic.001G065600,GO:0016491,AT3G14420.1,,Aldolase-type TIM barrel family protein,LOC_Os03g57220.1,NA,"hydroxyacid oxidase 1, putative, expressed"
+PstI.TP410209,Sobic.003G382500,"GO:0006468,GO:0005524,GO:0004674",AT3G51270.1,,protein serine/threonine kinases;ATP binding;catalytics,LOC_Os01g66520.1,NA,"serine/threonine-protein kinase RIO-like, putative, expressed"
+PstI.TP418863,Sobic.006G265900,"GO:0045454,GO:0015035,GO:0006662",AT1G50320.1,"ATHX,ATX,THX",thioredoxin X,LOC_Os04g57930.1,NA,"thioredoxin, putative, expressed"
+PstI.TP420365,Sobic.001G235266,,AT1G17460.2,TRFL3,TRF-like 3,LOC_Os10g30719.1,NA,"MYB family transcription factor, putative, expressed"
+PstI.TP424396,Sobic.003G161500,"GO:0055114,GO:0016491,GO:0050664,GO:0004601,GO:0016174",AT5G47910.1,"ATRBOHD,RBOHD",respiratory burst oxidase homologue D,LOC_Os01g25820.1,NA,"respiratory burst oxidase, putative, expressed"
+PstI.TP425751,Sobic.002G350400,"GO:0003924,GO:0007017,GO:0005874",AT5G19780.1,TUA5,tubulin alpha-5,LOC_Os07g38730.1,NA,"tubulin/FtsZ domain containing protein, putative, expressed"
+PstI.TP426528,Sobic.002G401700,,AT1G09920.1,,TRAF-type zinc finger-related,LOC_Os07g46390.1,NA,"TRAF-type zinc finger domain-containing protein 1, putative, expressed"
+PstI.TP433824,Sobic.003G234400,"GO:0008270,GO:0004089",AT1G70410.1,"ATBCA4,BCA4,CA4",beta carbonic anhydrase 4,LOC_Os01g45274.4,NA,"carbonic anhydrase, chloroplast precursor, putative, expressed"
+PstI.TP434866,Sobic.006G022200,"GO:0055085,GO:0042626,GO:0016021,GO:0006810,GO:0005524,GO:0016887",AT2G47800.1,"ATMRP4,EST3,MRP4",multidrug resistance-associated protein 4,LOC_Os04g13210.1,NA,"multidrug resistance-associated protein, putative, expressed"
+PstI.TP446073,Sobic.007G085300,"GO:0043565,GO:0006355,GO:0003700",AT4G31550.1,"ATWRKY11,WRKY11",WRKY DNA-binding protein 11,LOC_Os04g51560.1,NA,"WRKY68, expressed"
+PstI.TP452173,Sobic.002G098500,,AT2G13690.1,,"PRLI-interacting factor, putative",LOC_Os07g15600.1,NA,"H-BTB6 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with H family conserved sequence, expressed"
+PstI.TP454285,Sobic.002G242200,,AT4G26455.1,WIP1,WPP domain interacting protein 1,LOC_Os09g30350.1,NA,expressed protein
+PstI.TP457393,Sobic.001G313800,GO:0003677,AT3G61970.1,NGA2,AP2/B3-like transcriptional factor family protein,LOC_Os10g39190.1,NA,"B3 DNA binding domain containing protein, expressed"
+PstI.TP458366,Sobic.008G109200,,,,,,NA,
+PstI.TP459121,Sobic.001G514500,GO:0005515,AT3G51380.1,IQD20,IQ-domain 20,LOC_Os03g04210.1,NA,"IQ calmodulin-binding motif family protein, putative, expressed"
+PstI.TP459121,Sobic.001G514400,GO:0005515,AT3G03190.1,"ATGSTF11,ATGSTF6,GSTF11",glutathione S-transferase F11,LOC_Os03g04220.1,NA,"glutathione S-transferase, putative, expressed"
+PstI.TP474390,Sobic.007G092100,"GO:0007264,GO:0005525",AT2G24765.1,"ARF3,ARL1,ATARL1",ADP-ribosylation factor 3,LOC_Os08g15040.1,NA,"ADP-ribosylation factor, putative, expressed"
+PstI.TP476886,Sobic.002G175400,GO:0006629,AT2G46210.1,,Fatty acid/sphingolipid desaturase,LOC_Os09g16920.1,NA,"desaturase/cytochrome b5 protein, putative, expressed"
+PstI.TP478050,Sobic.003G304200,"GO:0006629,GO:0004806",AT5G04040.1,SDP1,Patatin-like phospholipase family protein,LOC_Os01g55650.1,NA,"phospholipase, patatin family, putative, expressed"
+PstI.TP485051,Sobic.001G094600,,AT3G04750.1,,Tetratricopeptide repeat (TPR)-like superfamily protein,LOC_Os03g53170.1,NA,"pentatricopeptide, putative, expressed"
+PstI.TP485114,Sobic.009G229600,NA,NA,NA,NA,NA,NA,NA
+PstI.TP485114,Sobic.009G229700,NA,NA,NA,NA,NA,NA,NA
+PstI.TP4963,Sobic.003G326500,"GO:0006281,GO:0004518",AT2G41460.1,ARP,apurinic endonuclease-redox protein,LOC_Os01g58680.1,NA,"apurinic endonuclease-redox protein, putative, expressed"
+PstI.TP504809,Sobic.004G063900,,AT5G57780.1,,,LOC_Os06g44320.1,NA,expressed protein
+PstI.TP510424,Sobic.010G083050,NA,NA,NA,NA,NA,NA,NA
+PstI.TP521834,Sobic.004G187100,GO:0016567,AT5G64330.1,"JK218,NPH3,RPT3",Phototropic-responsive NPH3 family protein,LOC_Os02g35970.1,NA,"BTBN2 - Bric-a-Brac, Tramtrack, Broad Complex BTB domain with non-phototropic hypocotyl 3 NPH3 and coiled-coil domains, expressed"
+PstI.TP53013,Sobic.009G259900,NA,NA,NA,NA,NA,NA,NA
+PstI.TP532345,Sobic.009G099100,GO:0043531,AT3G14470.1,,NB-ARC domain-containing disease resistance protein,LOC_Os06g16790.1,NA,"go35 NBS-LRR, putative, expressed"
+PstI.TP532345,Sobic.009G099000,"GO:0016020,GO:0006810,GO:0005215",AT3G45650.1,NAXT1,nitrate excretion transporter1,LOC_Os05g27304.1,NA,"peptide transporter PTR2, putative, expressed"
+PstI.TP53685,Sobic.008G082800,,AT2G22410.1,SLO1,SLOW GROWTH 1,LOC_Os12g13110.1,NA,"pentatricopeptide, putative, expressed"
+PstI.TP537292,Sobic.001G514500,GO:0005515,AT3G51380.1,IQD20,IQ-domain 20,LOC_Os03g04210.1,NA,"IQ calmodulin-binding motif family protein, putative, expressed"
+PstI.TP537292,Sobic.001G514400,GO:0005515,AT3G03190.1,"ATGSTF11,ATGSTF6,GSTF11",glutathione S-transferase F11,LOC_Os03g04220.1,NA,"glutathione S-transferase, putative, expressed"
+PstI.TP541255,Sobic.010G192600,NA,NA,NA,NA,NA,NA,NA
+PstI.TP5429,Sobic.002G393266,,,,,,NA,
+PstI.TP543083,Sobic.007G068300,"GO:0055114,GO:0004097,GO:0016491,GO:0008152",,,,LOC_Os01g58100.1,NA,"polyphenol oxidase, putative, expressed"
+PstI.TP547023,Sobic.002G405800,GO:0005515,AT5G22760.1,,PHD finger family protein,LOC_Os07g46690.1,NA,"PHD-finger family protein, expressed"
+PstI.TP548121,Sobic.009G247100,NA,NA,NA,NA,NA,NA,NA
+PstI.TP55941,Sobic.006G150100,"GO:0016020,GO:0006810,GO:0005215",AT2G37170.1,"PIP2;2,PIP2B",plasma membrane intrinsic protein 2,LOC_Os02g41860.2,NA,"aquaporin protein, putative, expressed"
+PstI.TP570804,Sobic.004G053600,"GO:0016151,GO:0006807",AT1G21840.1,UREF,urease accessory protein F,LOC_Os02g07150.1,NA,"urease accessory protein F, putative, expressed"
+PstI.TP570804,Sobic.004G053700,"GO:0055114,GO:0016701,GO:0009072,GO:0003868",AT1G06570.1,"HPD,PDS1",phytoene desaturation 1,LOC_Os02g07160.1,NA,"glyoxalase family protein, putative, expressed"
+PstI.TP577552,Sobic.002G221400,,AT1G25250.1,"AtIDD16,IDD16",indeterminate(ID)-domain 16,LOC_Os09g27650.2,NA,"ZOS9-14 - C2H2 zinc finger protein, expressed"
+PstI.TP57846,Sobic.004G051900,"GO:0006355,GO:0005634,GO:0003677,GO:0009725",AT5G37020.1,"ARF8,ATARF8",auxin response factor 8,LOC_Os02g06910.1,NA,"auxin response factor 6, putative, expressed"
+PstI.TP58391,Sobic.007G220200,,AT4G26490.1,,Late embryogenesis abundant (LEA) hydroxyproline-rich glycoprotein family,LOC_Os08g38580.1,NA,"harpin-induced protein 1 domain containing protein, expressed"
+PstI.TP58391,Sobic.007G220150,,,,,,NA,
+PstI.TP584552,Sobic.002G200900,,AT1G74640.1,,alpha/beta-Hydrolases superfamily protein,LOC_Os09g24710.2,NA,"alpha/beta hydrolase fold, putative, expressed"
+PstI.TP604956,Sobic.010G070100,NA,NA,NA,NA,NA,NA,NA
+PstI.TP607682,Sobic.006G239300,"GO:0016021,GO:0016020",AT4G32140.1,,EamA-like transporter family,LOC_Os04g55260.1,NA,"thiamine-repressible mitochondrial transport protein THI74, putative, expressed"
+PstI.TP609740,Sobic.009G066500,,AT5G11460.1,,Protein of unknown function (DUF581),LOC_Os05g08800.1,NA,"DUF581 domain containing protein, expressed"
+PstI.TP609962,Sobic.005G123500,,AT3G48740.1,,Nodulin MtN3 family protein,LOC_Os11g31190.1,NA,"nodulin MtN3 family protein, putative, expressed"
+PstI.TP617554,Sobic.007G035900,,,,,LOC_Os08g04640.1,NA,expressed protein
+PstI.TP629514,Sobic.006G057300,"GO:0055114,GO:0016491",AT1G17020.1,"ATSRG1,SRG1",senescence-related gene 1,LOC_Os03g32470.1,NA,"leucoanthocyanidin dioxygenase, putative, expressed"
+PstI.TP631692,Sobic.002G235700,GO:0046983,AT1G68920.3,,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,LOC_Os09g29830.1,NA,"helix-loop-helix DNA-binding domain containing protein, expressed"
+PstI.TP647611,Sobic.004G244400,"GO:0003676,GO:0005524",AT1G70070.1,"EMB25,ISE2,PDE317","DEAD/DEAH box helicase, putative",LOC_Os02g50560.1,NA,"DSHCT domain containing protein, expressed"
+PstI.TP647611,Sobic.004G244300,,AT1G70140.1,"ATFH8,FH8",formin 8,LOC_Os02g50570.1,NA,"retrotransposon protein, putative, unclassified, expressed"
+PstI.TP648736,Sobic.004G254800,,AT1G61770.1,,Chaperone DnaJ-domain superfamily protein,LOC_Os12g15590.2,NA,"heat shock protein DnaJ, putative, expressed"
+PstI.TP650798,Sobic.002G292100,"GO:0055085,GO:0016021",AT5G65980.1,,Auxin efflux carrier family protein,LOC_Os09g38130.1,NA,"auxin efflux carrier component, putative, expressed"
+PstI.TP650798,Sobic.002G292000,,,,,,NA,
+PstI.TP651320,Sobic.005G111000,"GO:0005515,GO:0006468,GO:0005524,GO:0004672",AT1G66150.1,TMK1,transmembrane kinase 1,LOC_Os11g26130.1,NA,"receptor protein kinase TMK1 precursor, putative, expressed"
+PstI.TP651715,Sobic.010G250400,NA,NA,NA,NA,NA,NA,NA
+PstI.TP65271,Sobic.003G029900,"GO:0055114,GO:0050660,GO:0016491,GO:0019139,GO:0009690",AT1G75450.1,"ATCKX5,ATCKX6,CKX5",cytokinin oxidase 5,LOC_Os01g10110.1,NA,"cytokinin dehydrogenase precursor, putative, expressed"
+PstI.TP6534,Sobic.004G306200,GO:0006457,AT5G64350.1,"ATFKBP12,FKBP12",FK506-binding protein 12,LOC_Os02g52290.1,NA,"peptidyl-prolyl cis-trans isomerase, FKBP-type, putative, expressed"
+PstI.TP6534,Sobic.004G306100,,AT4G24610.1,,,LOC_Os02g52280.1,NA,expressed protein
+PstI.TP65527,Sobic.010G265900,NA,NA,NA,NA,NA,NA,NA
+PstI.TP663163,Sobic.002G330400,,AT4G18975.3,,Pentatricopeptide repeat (PPR) superfamily protein,LOC_Os07g36180.2,NA,"pentatricopeptide, putative, expressed"
+PstI.TP663427,Sobic.001G425300,,AT5G05840.1,,Protein of unknown function (DUF620),LOC_Os03g16060.1,NA,expressed protein
+PstI.TP676875,Sobic.003G039600,,,,,LOC_Os05g08860.1,NA,expressed protein
+PstI.TP697156,Sobic.004G105100,"GO:0055114,GO:0020037,GO:0006979,GO:0004601",AT5G05340.1,,Peroxidase superfamily protein,LOC_Os02g14160.1,NA,"peroxidase precursor, putative, expressed"
+PstI.TP69823,Sobic.001G429100,"GO:0006413,GO:0005737,GO:0003743,GO:0003723",AT5G18110.1,NCBP,novel cap-binding protein,LOC_Os03g15590.1,NA,"eukaryotic translation initiation factor, putative, expressed"
+PstI.TP69959,Sobic.009G238500,NA,NA,NA,NA,NA,NA,NA
+PstI.TP701332,Sobic.003G264100,"GO:0003677,GO:0005524,GO:0016787",AT5G41360.1,"ATXPB2,XPB2",homolog of Xeroderma pigmentosum complementation group B 2,LOC_Os01g49680.1,NA,"DNA repair helicase XPB2, putative, expressed"
+PstI.TP703969,Sobic.001G544600,"GO:0009165,GO:0004749,GO:0000287",AT2G44530.1,,Phosphoribosyltransferase family protein,LOC_Os03g01018.1,NA,"phosphoribosyl transferase, putative, expressed"
+PstI.TP704102,Sobic.003G413800,"GO:0055114,GO:0020037,GO:0016705,GO:0005506",AT1G64940.1,CYP89A6,"cytochrome P450, family 87, subfamily A, polypeptide 6",LOC_Os08g05620.1,NA,"cytochrome P450, putative, expressed"
+PstI.TP704244,Sobic.003G188100,"GO:0004672,GO:0006468",AT1G70520.1,CRK2,cysteine-rich RLK (RECEPTOR-like protein kinase) 2,LOC_Os01g36790.1,NA,"TKL_IRAK_DUF26-lf.2 - DUF26 kinases have homology to DUF26 containing loci, expressed"
+PstI.TP704666,Sobic.004G268200,,AT3G50910.1,,,LOC_Os02g47580.1,NA,expressed protein
+PstI.TP710636,Sobic.006G089300,"GO:0016020,GO:0006810,GO:0005215",AT1G33440.1,,Major facilitator superfamily protein,LOC_Os04g36040.1,NA,"peptide transporter PTR2, putative, expressed"
+PstI.TP710636,Sobic.006G089266,,,,,,NA,
+PstI.TP714069,Sobic.004G281800,,AT5G52660.2,,Homeodomain-like superfamily protein,LOC_Os02g45670.1,NA,"myb-like DNA-binding domain containing protein, expressed"
+PstI.TP714651,Sobic.005G029700,GO:0005515,AT2G41370.1,BOP2,Ankyrin repeat family protein / BTB/POZ domain-containing protein,LOC_Os12g04410.1,NA,"BTBA6 - Bric-a-Brac,Tramtrack, Broad Complex BTB domain with Ankyrin repeat region, expressed"
+PstI.TP719892,Sobic.005G167800,,AT3G55760.2,,,LOC_Os11g37560.2,NA,expressed protein
+PstI.TP723544,Sobic.009G021700,,AT5G02640.1,,,LOC_Os05g02900.1,NA,expressed protein
+PstI.TP729133,Sobic.007G105800,,AT3G07390.1,AIR12,auxin-responsive family protein,LOC_Os08g41290.1,NA,"AIR12, putative, expressed"
+PstI.TP736503,Sobic.001G040000,"GO:0006412,GO:0005840,GO:0005622,GO:0003735",AT3G54210.1,,Ribosomal protein L17 family protein,LOC_Os03g60100.1,NA,"50S ribosomal protein L17, putative, expressed"
+PstI.TP737551,Sobic.006G235700,GO:0005737,AT5G64830.1,,programmed cell death 2 C-terminal domain-containing protein,LOC_Os04g54820.1,NA,"programmed cell death 2 C-terminal domain-containing protein, putative, expressed"
+PstI.TP738082,Sobic.010G078600,NA,NA,NA,NA,NA,NA,NA
+PstI.TP742466,Sobic.005G222000,,AT3G17340.1,,ARM repeat superfamily protein,LOC_Os11g47320.1,NA,"protein transporter, putative, expressed"
+PstI.TP744556,Sobic.001G491200,"GO:0016887,GO:0005524,GO:0055085,GO:0042626,GO:0016021,GO:0006810",AT3G13080.1,"ATMRP3,MRP3",multidrug resistance-associated protein 3,LOC_Os01g07870.1,NA,"ABC transporter family protein, putative, expressed"
+PstI.TP745674,Sobic.003G337700,"GO:0043565,GO:0006355,GO:0003700",AT5G01900.1,"ATWRKY62,WRKY62",WRKY DNA-binding protein 62,LOC_Os01g60540.1,NA,"WRKY20, expressed"
+PstI.TP745785,Sobic.006G086900,"GO:0042545,GO:0030599,GO:0005618",AT5G09760.1,,Plant invertase/pectin methylesterase inhibitor superfamily,LOC_Os04g35770.1,NA,"pectinesterase, putative, expressed"
+PstI.TP747686,Sobic.005G002400,,AT2G29970.1,,Double Clp-N motif-containing P-loop nucleoside triphosphate hydrolases superfamily protein,LOC_Os11g01330.1,NA,expressed protein
+PstI.TP751721,Sobic.009G148000,NA,NA,NA,NA,NA,NA,NA
+PstI.TP75301,Sobic.006G077000,"GO:0048544,GO:0006468,GO:0005524,GO:0004672",AT2G19130.1,,S-locus lectin protein kinase family protein,LOC_Os10g20160.1,NA,"serine/threonine-protein kinase receptor precursor, putative, expressed"
+PstI.TP753385,Sobic.008G149450,,,,,,NA,
+PstI.TP754866,Sobic.001G407900,,AT3G08920.1,,Rhodanese/Cell cycle control phosphatase superfamily protein,LOC_Os03g18020.1,NA,"rhodanese-like family protein, putative, expressed"
+PstI.TP757921,Sobic.001G249000,,AT1G08230.2,"ATGAT1,GAT1",Transmembrane amino acid transporter family protein,LOC_Os10g27980.1,NA,"transmembrane amino acid transporter protein, putative, expressed"
+PstI.TP761935,Sobic.001G230400,,AT3G53190.1,,Pectin lyase-like superfamily protein,LOC_Os10g31910.1,NA,"pectate lyase precursor, putative, expressed"
+PstI.TP770722,Sobic.001G374900,,AT3G16570.1,"ATRALF23,RALF23",rapid alkalinization factor 23,LOC_Os03g22440.1,NA,"RALFL15 - Rapid ALkalinization Factor RALF family protein precursor, putative, expressed"
+PstI.TP770722,Sobic.001G374800,"GO:0030896,GO:0000077,GO:0006281,GO:0000075",AT3G05480.1,"ATRAD9,RAD9",cell cycle checkpoint control protein family,LOC_Os03g22450.1,NA,"auxin response factor 75, putative, expressed"
+PstI.TP770895,Sobic.001G161200,GO:0007165,AT4G14580.1,"CIPK4,SnRK3.3",CBL-interacting protein kinase 4,LOC_Os03g43440.1,NA,"CAMK_KIN1/SNF1/Nim1_like.17 - CAMK includes calcium/calmodulin depedent protein kinases, expressed"
+PstI.TP771967,Sobic.010G182800,NA,NA,NA,NA,NA,NA,NA
+PstI.TP773172,Sobic.003G215600,"GO:0016887,GO:0005524,GO:0016020",AT1G15520.1,"ABCG40,ATABCG40,ATPDR12,PDR12",pleiotropic drug resistance 12,LOC_Os01g42380.1,NA,"pleiotropic drug resistance protein, putative, expressed"
+PstI.TP774504,Sobic.004G088900,"GO:0005515,GO:0016020",AT1G61290.1,"ATSYP124,SYP124",syntaxin of plants 124,LOC_Os06g39050.1,NA,"syntaxin, putative, expressed"
+PstI.TP774963,Sobic.006G013300,"GO:0005515,GO:0006468,GO:0005524,GO:0004672",AT5G48940.1,,Leucine-rich repeat transmembrane protein kinase family protein,LOC_Os04g04330.2,NA,"receptor-like protein kinase 2 precursor, putative, expressed"
+PstI.TP775752,Sobic.010G146000,NA,NA,NA,NA,NA,NA,NA
+PstI.TP77980,Sobic.010G106900,NA,NA,NA,NA,NA,NA,NA
+PstI.TP788586,Sobic.006G231400,,AT1G03560.1,,Pentatricopeptide repeat (PPR-like) superfamily protein,LOC_Os07g30930.1,NA,"pentatricopeptide repeat domain containing protein, putative, expressed"
+PstI.TP788586,Sobic.006G231266,,AT4G21445.1,,,LOC_Os04g54320.1,NA,expressed protein
+PstI.TP789647,Sobic.003G379700,"GO:0006355,GO:0003677",AT1G01720.1,"ANAC002,ATAF1",NAC (No Apical Meristem) domain transcriptional regulator superfamily protein,LOC_Os01g66120.3,NA,"No apical meristem protein, putative, expressed"
+PstI.TP790069,Sobic.002G007400,GO:0016788,AT5G03610.1,,GDSL-like Lipase/Acylhydrolase superfamily protein,LOC_Os04g55660.1,NA,"GDSL-like lipase/acylhydrolase, putative, expressed"
+PstI.TP794569,Sobic.002G037700,GO:0006281,AT4G14970.1,,,LOC_Os07g05960.1,NA,expressed protein
+PstI.TP795667,Sobic.008G006400,,,,,LOC_Os01g66260.1,NA,expressed protein
+PstI.TP795667,Sobic.008G006500,,,,,LOC_Os06g28300.1,NA,"zinc knuckle family protein, expressed"
+PstI.TP797083,Sobic.003G245300,"GO:0008408,GO:0006139,GO:0003676",AT3G12410.1,,"Polynucleotidyl transferase, ribonuclease H-like superfamily protein",LOC_Os01g47180.1,NA,"3-5 exonuclease domain-containing protein, putative, expressed"
+PstI.TP797446,Sobic.003G129600,,,,,,NA,
+PstI.TP802133,Sobic.004G162900,,AT5G49100.1,,,LOC_Os02g32550.1,NA,expressed protein
+PstI.TP805461,Sobic.001G434800,,AT1G75250.1,"ATRL6,RL6,RSM3",RAD-like 6,LOC_Os03g14810.1,NA,"MYB-like transcription factor DIVARICATA, putative, expressed"
+PstI.TP814417,Sobic.007G211000,GO:0046983,AT2G42280.1,,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,LOC_Os08g39630.1,NA,"helix-loop-helix DNA-binding domain containing protein, expressed"
+PstI.TP815977,Sobic.008G100801,,,,,,NA,
+PstI.TP815977,Sobic.008G100700,,AT4G00850.1,GIF3,GRF1-interacting factor 3,LOC_Os12g31350.1,NA,"SSXT protein, putative, expressed"
+PstI.TP828064,Sobic.009G202801,NA,NA,NA,NA,NA,NA,NA
+PstI.TP832974,Sobic.001G466000,"GO:0016798,GO:0005975,GO:0004553",AT4G33840.1,,Glycosyl hydrolase family 10 protein,LOC_Os03g10478.1,NA,"glycosyl hydrolase family 10 protein, putative, expressed"
+PstI.TP838455,Sobic.002G261600,"GO:0005975,GO:0004553",AT1G02850.2,BGLU11,beta glucosidase 11,LOC_Os09g33680.1,NA,"Os9bglu31 - beta-glucosidase, dhurrinase, similar to G. max hydroxyisourate hydrolase, expressed"
+PstI.TP840657,Sobic.004G047400,"GO:0030246,GO:0005975",AT3G54690.1,,Sugar isomerase (SIS) family protein,LOC_Os02g06360.1,NA,"uncharacterized protein CPn_0526/CP_0226/CPj0526/CpB0547, putative, expressed"
+PstI.TP840657,Sobic.004G047500,,AT1G71260.1,"ATWHY2,WHY2",WHIRLY 2,LOC_Os02g06370.1,NA,"whirly transcription factor domain containing protein, expressed"
+PstI.TP840679,Sobic.006G129000,,AT5G10010.1,,,LOC_Os04g56590.1,NA,"ATP/GTP binding protein, putative, expressed"
+PstI.TP841498,Sobic.005G206300,,AT1G66330.2,,senescence-associated family protein,LOC_Os05g05600.3,NA,"ATA15 protein, putative, expressed"
+PstI.TP844985,Sobic.002G197000,"GO:0055114,GO:0020037,GO:0016705,GO:0005506",AT5G38450.1,CYP735A1,"cytochrome P450, family 735, subfamily A, polypeptide 1",LOC_Os09g23820.1,NA,"cytochrome P450 72A1, putative, expressed"
+PstI.TP84880,Sobic.001G347500,,AT3G50370.1,,,LOC_Os03g27820.1,NA,expressed protein
+PstI.TP850835,Sobic.001G079600,GO:0008080,AT2G23060.1,,Acyl-CoA N-acyltransferases (NAT) superfamily protein,LOC_Os03g55530.1,NA,"HLS, putative, expressed"
+PstI.TP852023,Sobic.004G162200,,AT5G47900.1,,Protein of unknown function (DUF1624),LOC_Os02g32504.1,NA,"heparan-alpha-glucosaminide N-acetyltransferase, putative, expressed"
+PstI.TP858902,Sobic.004G326400,,AT5G57740.1,XBAT32,XB3 ortholog 2 in Arabidopsis thaliana,LOC_Os02g54860.2,NA,"ankyrin repeat-rich protein, putative, expressed"
+PstI.TP862775,Sobic.009G008100,,AT2G28310.3,,Protein of unknown function (DUF707),LOC_Os05g01760.1,NA,"lysine ketoglutarate reductase trans-splicing related 1, putative, expressed"
+PstI.TP866959,Sobic.009G145600,NA,NA,NA,NA,NA,NA,NA
+PstI.TP866959,Sobic.009G145500,NA,NA,NA,NA,NA,NA,NA
+PstI.TP869093,Sobic.001G140200,"GO:0003677,GO:0006355,GO:0005634",AT4G08150.1,"BP,BP1,KNAT1",KNOTTED-like from Arabidopsis thaliana,LOC_Os07g03770.1,NA,"Homeobox domain containing protein, expressed"
+PstI.TP882936,Sobic.001G078300,"GO:0006913,GO:0005643",AT4G37130.1,,hydroxyproline-rich glycoprotein family protein,LOC_Os09g28019.1,NA,"nucleoporin p58/p45, putative, expressed"
+PstI.TP887302,Sobic.007G084300,,AT1G51550.1,,Kelch repeat-containing F-box family protein,LOC_Os08g13360.2,NA,"kelch repeat protein, putative, expressed"
+PstI.TP892749,Sobic.001G540300,,AT3G61380.1,,Phosphatidylinositol N-acetyglucosaminlytransferase subunit P-related,LOC_Os03g01580.2,NA,expressed protein
+PstI.TP892749,Sobic.001G540250,,,,,,NA,
+PstI.TP898259,Sobic.001G530700,GO:0055085,AT4G23010.3,"ATUTR2,UTR2",UDP-galactose transporter 2,LOC_Os03g02670.2,NA,"transporter family protein, putative, expressed"
+PstI.TP901954,Sobic.009G035601,,,,,,NA,
+PstI.TP906726,Sobic.003G040000,"GO:0006418,GO:0005524,GO:0004812,GO:0000166,GO:0005737",AT3G46100.1,"ATHRS1,HRS1",Histidyl-tRNA synthetase 1,LOC_Os02g51830.1,NA,"tRNA synthetase class II core domain containing protein, expressed"
+PstI.TP940999,Sobic.003G346200,,AT2G37080.1,RIP3,ROP interactive partner 3,LOC_Os01g61760.2,NA,"myosin heavy chain-related, putative, expressed"
+PstI.TP942675,Sobic.003G319800,,AT1G61660.1,,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,LOC_Os01g57580.1,NA,"bHelix-loop-helix transcription factor, putative, expressed"
+PstI.TP94792,Sobic.001G007500,,AT3G46210.3,,Ribosomal protein S5 domain 2-like superfamily protein,LOC_Os03g63720.1,NA,"exosome complex exonuclease, putative, expressed"
+PstI.TP94792,Sobic.001G007600,GO:0005096,AT4G17890.1,AGD8,ARF-GAP domain 8,LOC_Os03g63710.1,NA,"GTPase-activating protein, putative, expressed"
+PstI.TP955356,Sobic.003G361200,,AT1G07270.1,,"Cell division control, Cdc6",LOC_Os01g63710.1,NA,"CDC6 - Putative DNA replication initiation protein, expressed"
+PstI.TP961110,Sobic.001G362001,"GO:0006468,GO:0004672",AT1G61590.1,,Protein kinase superfamily protein,LOC_Os03g24930.1,NA,"tyrosine protein kinase domain containing protein, putative, expressed"
+PstI.TP965825,Sobic.003G305500,,AT5G66740.1,,Protein of unknown function (DUF620),LOC_Os01g55795.1,NA,expressed protein
+PstI.TP96720,Sobic.006G050900,GO:0003677,AT4G33280.1,,AP2/B3-like transcriptional factor family protein,LOC_Os04g31730.1,NA,expressed protein
+PstI.TP96720,Sobic.006G051000,"GO:0006269,GO:0003896",AT1G67320.2,,"DNA primase, large subunit family",LOC_Os07g22400.1,NA,"POLA3 - Putative DNA polymerase alpha complex subunit, expressed"
+PstI.TP969142,Sobic.001G425800,"GO:0005737,GO:0005515",AT1G31440.1,,SH3 domain-containing protein,LOC_Os03g16000.1,NA,"src homology-3 domain protein 3, putative, expressed"
+PstI.TP969142,Sobic.001G425900,,AT5G55390.2,EDM2,ENHANCED DOWNY MILDEW 2,LOC_Os03g15990.1,NA,"EDM2, putative, expressed"
+PstI.TP972953,Sobic.001G104100,"GO:0016597,GO:0008152",AT5G25320.1,,ACT-like superfamily protein,LOC_Os03g51990.1,NA,"ACT domain containing protein, expressed"
+PstI.TP976305,Sobic.009G238100,NA,NA,NA,NA,NA,NA,NA
+PstI.TP977809,Sobic.005G118300,GO:0009055,AT1G08500.1,"AtENODL18,ENODL18",early nodulin-like protein 18,LOC_Os11g29910.1,NA,"plastocyanin-like domain containing protein, putative, expressed"
+PstI.TP977809,Sobic.005G118400,,AT1G55280.1,,"Lipase/lipooxygenase, PLAT/LH2 family protein",LOC_Os11g29900.1,NA,expressed protein
+PstI.TP980214,Sobic.001G135500,GO:0004842,AT3G53090.1,UPL7,ubiquitin-protein ligase 7,LOC_Os03g47949.1,NA,"HECT-domain domain containing protein, expressed"
+PstI.TP980214,Sobic.001G135600,GO:0016788,AT5G03820.1,,GDSL-like Lipase/Acylhydrolase family protein,LOC_Os03g47940.1,NA,"GDSL-like lipase/acylhydrolase, putative, expressed"
+PstI.TP982503,Sobic.004G207200,GO:0046983,AT1G05805.1,,basic helix-loop-helix (bHLH) DNA-binding superfamily protein,LOC_Os02g39140.1,NA,"helix-loop-helix DNA-binding domain containing protein, expressed"
+PstI.TP993272,Sobic.002G194700,"GO:0005992,GO:0003824",AT1G68020.2,"ATTPS6,TPS6",UDP-Glycosyltransferase / trehalose-phosphatase family protein,LOC_Os09g23350.1,NA,"trehalose synthase, putative, expressed"
+PstI.TP994751,Sobic.010G268500,NA,NA,NA,NA,NA,NA,NA
+PstI.TP994751,Sobic.010G268400,NA,NA,NA,NA,NA,NA,NA
+PstI.TP995173,Sobic.002G333400,"GO:0048544,GO:0006468,GO:0004672",AT4G21390.1,B120,S-locus lectin protein kinase family protein,LOC_Os07g36570.1,NA,"KI domain interacting kinase 1, putative, expressed"
+PstI.TP995394,Sobic.009G149500,NA,NA,NA,NA,NA,NA,NA
+PstI.TP995394,Sobic.009G149400,NA,NA,NA,NA,NA,NA,NA
+PstI.TP998275,Sobic.004G103100,,,,,,NA,
+PstI.TP998491,Sobic.002G117600,"GO:0005515,GO:0016459,GO:0005524,GO:0003774",AT1G04160.1,"ATXIB,XI-8,XI-B,XIB",myosin XI B,LOC_Os03g64290.1,NA,"myosin, putative, expressed"

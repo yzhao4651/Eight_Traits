@@ -1,0 +1,100 @@
+"","Method","Trait.name","Freq"
+"1","CMLM+SUPER","Bcirc_cm",5
+"2","FarmCPU","Bcirc_cm",31
+"3","FASTmrEMMA","Bcirc_cm",8
+"4","FASTmrMLM","Bcirc_cm",14
+"5","GLM","Bcirc_cm",0
+"6","ISIS EM-BLASSO","Bcirc_cm",23
+"7","MLM+SUPER","Bcirc_cm",14
+"8","mrMLM","Bcirc_cm",28
+"9","pKWmEB","Bcirc_cm",1
+"10","pLARmEB","Bcirc_cm",21
+"11","rrBLUP","Bcirc_cm",0
+"12","CMLM+SUPER","CCirc_cm",3
+"13","FarmCPU","CCirc_cm",21
+"14","FASTmrEMMA","CCirc_cm",4
+"15","FASTmrMLM","CCirc_cm",22
+"16","GLM","CCirc_cm",0
+"17","ISIS EM-BLASSO","CCirc_cm",15
+"18","MLM+SUPER","CCirc_cm",0
+"19","mrMLM","CCirc_cm",15
+"20","pKWmEB","CCirc_cm",3
+"21","pLARmEB","CCirc_cm",24
+"22","rrBLUP","CCirc_cm",0
+"23","CMLM+SUPER","CmD_BI_mm",1
+"24","FarmCPU","CmD_BI_mm",27
+"25","FASTmrEMMA","CmD_BI_mm",10
+"26","FASTmrMLM","CmD_BI_mm",25
+"27","GLM","CmD_BI_mm",0
+"28","ISIS EM-BLASSO","CmD_BI_mm",31
+"29","MLM+SUPER","CmD_BI_mm",0
+"30","mrMLM","CmD_BI_mm",23
+"31","pKWmEB","CmD_BI_mm",0
+"32","pLARmEB","CmD_BI_mm",33
+"33","rrBLUP","CmD_BI_mm",1
+"34","CMLM+SUPER","CmD_LI_mm",0
+"35","FarmCPU","CmD_LI_mm",24
+"36","FASTmrEMMA","CmD_LI_mm",6
+"37","FASTmrMLM","CmD_LI_mm",22
+"38","GLM","CmD_LI_mm",0
+"39","ISIS EM-BLASSO","CmD_LI_mm",17
+"40","MLM+SUPER","CmD_LI_mm",0
+"41","mrMLM","CmD_LI_mm",17
+"42","pKWmEB","CmD_LI_mm",2
+"43","pLARmEB","CmD_LI_mm",19
+"44","rrBLUP","CmD_LI_mm",0
+"45","CMLM+SUPER","CmDW_g",3
+"46","FarmCPU","CmDW_g",24
+"47","FASTmrEMMA","CmDW_g",11
+"48","FASTmrMLM","CmDW_g",25
+"49","GLM","CmDW_g",0
+"50","ISIS EM-BLASSO","CmDW_g",30
+"51","MLM+SUPER","CmDW_g",0
+"52","mrMLM","CmDW_g",23
+"53","pKWmEB","CmDW_g",3
+"54","pLARmEB","CmDW_g",28
+"55","rrBLUP","CmDW_g",3
+"56","CMLM+SUPER","Cml_cm",1
+"57","FarmCPU","Cml_cm",28
+"58","FASTmrEMMA","Cml_cm",7
+"59","FASTmrMLM","Cml_cm",33
+"60","GLM","Cml_cm",0
+"61","ISIS EM-BLASSO","Cml_cm",31
+"62","MLM+SUPER","Cml_cm",3
+"63","mrMLM","Cml_cm",26
+"64","pKWmEB","Cml_cm",7
+"65","pLARmEB","Cml_cm",26
+"66","rrBLUP","Cml_cm",0
+"67","CMLM+SUPER","CmN",117
+"68","FarmCPU","CmN",27
+"69","FASTmrEMMA","CmN",11
+"70","FASTmrMLM","CmN",36
+"71","GLM","CmN",126
+"72","ISIS EM-BLASSO","CmN",21
+"73","MLM+SUPER","CmN",103
+"74","mrMLM","CmN",24
+"75","pKWmEB","CmN",7
+"76","pLARmEB","CmN",38
+"77","rrBLUP","CmN",3
+"78","CMLM+SUPER","SDW_kg",0
+"79","FarmCPU","SDW_kg",21
+"80","FASTmrEMMA","SDW_kg",4
+"81","FASTmrMLM","SDW_kg",18
+"82","GLM","SDW_kg",0
+"83","ISIS EM-BLASSO","SDW_kg",18
+"84","MLM+SUPER","SDW_kg",0
+"85","mrMLM","SDW_kg",21
+"86","pKWmEB","SDW_kg",3
+"87","pLARmEB","SDW_kg",25
+"88","rrBLUP","SDW_kg",1
+"89","CMLM+SUPER","Yld_kg",0
+"90","FarmCPU","Yld_kg",16
+"91","FASTmrEMMA","Yld_kg",8
+"92","FASTmrMLM","Yld_kg",18
+"93","GLM","Yld_kg",0
+"94","ISIS EM-BLASSO","Yld_kg",21
+"95","MLM+SUPER","Yld_kg",0
+"96","mrMLM","Yld_kg",21
+"97","pKWmEB","Yld_kg",0
+"98","pLARmEB","Yld_kg",30
+"99","rrBLUP","Yld_kg",1
