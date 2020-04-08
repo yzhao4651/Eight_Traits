@@ -1,0 +1,45 @@
+"","Miscanthus.SNPe","Chr.a","Positionb","Trialc","Winterd","Pvaluef","Nearest.S..bicolor.gene","Position.relative.to.the.geneg","Arabidopsis.gene","Gene.ontology","Gene.symbol","Original.marker.name","Sbicolor3.Chr","Sbicolor3.Pos"
+"1","UIMiscanthus001453","U","","KNU2012","1","1.27E‐10","","","","","","PstI.TP608232",NA,NA
+"2","UIMiscanthus005328","4","59 577 953","CSU 2012","2","8.42E‐06","Sobic.004G248700","3' UTR","AT5G16600","myb domain protein 43","AtMYB43, MYB43","PstI.TP116978","Chr04",59577953
+"3","UIMiscanthus005853","U","","CSU 2013","1","5.91E‐52","","","","","","PstI.TP141152",NA,NA
+"4","UIMiscanthus007416","U","","NEF 2012","2","1.88E‐17","","","","","","PstI.TP223913","Chr09",59200333
+"5","UIMiscanthus008958","3","7 227 095","KNU 2012","1","6.80E‐07","Sobic.003G084100","CDS","","","","PstI.TP317707","Chr03",7227095
+"6","UIMiscanthus009034","U","","HU 2012","2","3.90E‐08","","","","","","PstI.TP321804",NA,NA
+"7","UIMiscanthus010426","8","255 984","UI 2013","1","4.79E‐06","Sobic.008G002950","CDS","","","","PstI.TP411939","Chr08",255984
+"8","UIMiscanthus011134","","2014","OWA7","QTL7","","","","","","","PstI.TP467396",NA,NA
+"9","UIMiscanthus012279","10","1 280 469","CSU 2012","2","1.32E‐24","Sobic.010G016100","CDS","AT2G21480","Malectin/receptor‐like protein kinase","","PstI.TP549546","Chr10",1280469
+"10","UIMiscanthus012370","","2014","OWA9","QTL9","","","","","","","PstI.TP571386",NA,NA
+"11","UIMiscanthus012595","9","57 313 789","CSU 2013","1","4.99E‐09","Sobic.009G234500","0.07 Mb upstream","AT1G29390","Cold‐regulated 314 thylakoid membrane 2","COR314","PstI.TP595651","Chr09",57313789
+"12","UIMiscanthus012849","U","","NEF 2012","1","8.17E‐09","","","","","","PstI.TP621165",NA,NA
+"13","UIMiscanthus014960","6","46 253 326","NEF 2012","1","1.37E‐09","Sobic.006G092300","CDS","AT5G10970","C2H2 and C2HC zinc fingers","","PstI.TP759023","Chr06",46253326
+"14","UIMiscanthus015113","2","3 043 560","CSU 2012","2","1.44E‐22","Sobic.002G033200","CDS","AT1G30540","Actin‐like ATPase","","PstI.TP767919","Chr02",3043560
+"15","UIMiscanthus016292","U","","KNU 2012","2","6.16E‐127","","","","","","PstI.TP837719",NA,NA
+"16","UIMiscanthus016483","","2014","OWA8","QTL8","","","","","","","PstI.TP847961","Chr08",53109551
+"17","UIMiscanthus016552","4","62 928 690","KNU 2012","2","1.13E‐95","Sobic.004G286600","0.02 Mb downstream","AT1G20440","Cold‐regulated 47, dehydrin","COR47","PstI.TP851529","Chr04",62928690
+"18","UIMiscanthus017076","1","73 182 406","UI 2013","1","1.85E‐07","Sobic.001G455800","3' UTR ‐> 1,171 bp","AT4G13780","Methionine–tRNA ligase","","PstI.TP880946","Chr01",73182406
+"19","UIMiscanthus017647","3","67 125 342","HU 2012","2","7.85E‐16","Sobic.003G352200","CDS","AT5G02320","myb domain protein 3r‐5","ATMYB3R5, MYB3R‐5","PstI.TP917557","Chr03",67125342
+"20","UIMiscanthus018713","6","59 583 985","CSU 2012","1","8.99E‐08","Sobic.006G260800","CDS","AT5G04490","vitamin E pathway gene 5","VTE5","PstI.TP987182","Chr06",59583985
+"21","UIMiscanthus019389","3","72 078 520","KNU 2012","2","5.05E‐45","Sobic.003G413600","Upstream","AT4G13420","High affinity K+ transporter 5","ATHAK5, HAK5","PstI.TP1026872","Chr03",72078520
+"22","UIMiscanthus020585","2","77 204 376","KNU 2012","2","7.49E‐92","Sobic.002G425600","3' UTR","AT2G41070","Basic‐leucine zipper (bZIP) transcription factor","ATBZIP12, DPBF4, EEL","PstI.TP1102650","Chr02",77204376
+"23","UIMiscanthus020970","U","","UI 2013","1","4.30E‐14","","","","","","PstI.TP1128342",NA,NA
+"24","UIMiscanthus021451","4","62 602 070","KNU 2012","2","1.15E‐49","Sobic.004G283800","CDS","AT4G00750","S‐adenosyl‐L‐methionine‐dependent methyltransferases","","PstI.TP1158722","Chr04",62602070
+"25","UIMiscanthus022071","4","62 207 466","NEF 2012","1","9.25E‐07","Sobic.004G279300","CDS","AT5G37260","Homeodomain‐like protein","CIR1, RVE2","PstI.TP1191619","Chr04",62207466
+"26","UIMiscanthus025782","U","","NEF 2012","2","6.40E‐30","","","","","","PstI.TP315329","Chr01",57535967
+"27","UIMiscanthus025992","U","","KNU 2013","1","4.18E‐12","","","","","","PstI.TP345199",NA,NA
+"28","UIMiscanthus091689","4","3 460 776","UI 2012","1","1.45E‐07","Sobic.004G042100","Downstream","AT5G24870","RING/U‐box superfamily protein","","PstI.TP18130","Chr04",3460776
+"29","UIMiscanthus096439","4","446 677","UI 2013","1","2.23E‐13","Sobic.004G005200","CDS","AT1G33230","TMPIT‐like protein","","PstI.TP1229853","Chr04",446677
+"30","UIMiscanthus096890","1","9 158 264","KNU 2013","1","2.48E‐11","Sobic.001G117600","CDS","AT4G22760","Tetratricopeptide repeat (TPR)‐like superfamily protein","","NsiI.TP6770","Chr01",9158264
+"31","UIMiscanthus097991","8","2 549 936","CSU 2012","2","6.98E‐12","Sobic.008G028600","Downstream","AT2G40750","WRKY DNA‐binding protein 54","ATWRKY54, WRKY54","NsiI.TP50219","Chr08",2549936
+"32","UIMiscanthus100262","4","5 948 390","CSU 2013","1","1.29E‐20","Sobic.004G073500","CDS","AT3G28345","ABC transporter family protein","","NsiI.TP153287","Chr04",5948390
+"33","UIMiscanthus101153","U","","UI 2013","1","2.89E‐08","","","","","","NsiI.TP192802",NA,NA
+"34","UIMiscanthus101527","U","","KNU 2013","1","6.02E‐12","","","","","","NsiI.TP207247",NA,NA
+"35","UIMiscanthus102803","U","","KNU 2012","2","2.25E‐09","","","","","","NsiI.TP257946",NA,NA
+"36","UIMiscanthus104319","1","73 966 201","KNU 2013","2","2.07E‐10","Sobic.001G465900","3' UTR ‐> 6,387 bp","AT3G03900","Adenosine‐5'‐phosphosulfate (APS) kinase 3","APK3","NsiI.TP329261","Chr01",73966201
+"37","UIMiscanthus107102","6","3 007 286","HU 2012","2","8.16E‐17","Sobic.006G018100","In the gene, near 5' UTR","AT3G05950","RmlC‐like cupins superfamily protein","","NsiI.TP429477","Chr06",3007286
+"38","UIMiscanthus107624","4","65 644 782","KNU 2012","1","1.74E‐06","Sobic.004G321400","Upstream","AT3G18730","Tetratricopeptide repeat (TPR)‐containing protein","BRU1, MGO3, TSK","NsiI.TP439573","Chr04",65644782
+"39","UIMiscanthus110730","7","1 678 335","HU 2012","2","1.87E‐08","Sobic.007G018100","Downstream","AT2G46770","NAC (No Apical Meristem) domain transcriptional regulator","ANAC043, EMB2301, NST1","NsiI.TP533478","Chr07",1678335
+"40","UIMiscanthus111354","U","","HU 2012","2","3.57E‐08","","","","","","NsiI.TP559192",NA,NA
+"41","UIMiscanthus111533","1","77 425 506","NEF 2012","2","2.84E‐116","Sobic.001G506100","3,342 bp ‐> 5' UTR","AT4G28650","Leucine‐rich repeat transmembrane protein kinase","","NsiI.TP566919","Chr01",77425506
+"42","UIMiscanthus111993","U","","CSU2013","1","2.89E‐17","","","","","","NsiI.TP585786",NA,NA
+"43","UIMiscanthus116154","6","58 727 756","HU 2012","2","8.25E‐14","Sobic.006G247700","Downstream","AT1G02065","Squamosa promoter binding protein‐like 8","SPL8","NsiI.TP751468","Chr06",58727756
+"44","UIMiscanthus116202","U","","CSU2012","2","7.80E‐08","","","","","","NsiI.TP752864",NA,NA

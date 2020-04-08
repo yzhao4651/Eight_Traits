@@ -1,0 +1,252 @@
+﻿Reference ,genes ,Function ,,,,,,,,,,,,,,,
+"Li et al., 2018 ",LOC_Os10g11730,,highly induced ,,,,,,,,,,,,,,
+"Li et al., 2018 ",LOC_Os10g11770,,highly induced ,,,,,,,,,,,,,,
+"Li et al., 2018 ",LOC_Os10g11810,,highly induced ,,,,,,,,,,,,,,
+"Li et al., 2018 ",LOC_Os10g11750,,change a little ,,,,,,,,,,,,,,
+"Sun et al.,2018",LOC_Os06g39740,,cold responsible ,,,,,,,,,,,,,,
+"Sun et al.,2018",LOC_Os06g39750,,cold responsible ,,,,,,,,,,,,,,
+"Sun et al.,2018",LOC_Os06g39750,,highly induced ,,,,,,,,,,,,,,
+Zhang et al 2016,LOC_Os04g04330 ,Ctb1 ,,,,,,,,,,,,,,,
+"Saito et al., 2010",LOC_Os4g0619300,encoding an F-box ,"young panicles, suggesting that FB was a more likely candidate to be Ctb1",,,,,,,,,,,,,,
+"Saito et al., 2010",LOC_Os04g0619400,a ser/thr protein kinase ,in mature leaves and young panicles,,,,,,,,,,,,,,
+"Xiao et al., 2018",LOC_Os10g34840,the candidate gene for the qPSR10 genetic locus that is associated with CT in rice seedlings,,,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29650,"CDP-diacylglycerol-inositol 3-phosphatidyltransferase 1, putative, expressed",Membrane,417,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29790,"Phosphate transporter 1, putative, expressed",Membrane,2583,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29844,"MATE efflux family protein, putative, expressed",Membrane,1473,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29900,"Integral membrane protein, putative, expressed",Membrane,333,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29950,"MATE domain containing protein, expressed",Membrane,1488,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29994,"MATE efflux family protein, putative, expressed",Membrane,1440,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g30210,Expressed protein,Membrane,1293,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g30730,"ABC-2 type transporter domain containing protein, expressed",Membrane,1875,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g30750,"Reticulon domain containing protein, putative, expressed",Membrane,798,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g30930,Expressed protein,Membrane,792,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g30950,"Transporter-related, putative, expressed",Membrane,1029,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g34660,"X8 domain containing protein, expressed",Membrane,561,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g34830,"Amino acid permease family protein, putative, expressed",MEMBRANE,1791,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g35814,"Ras-related protein, putative, expressed",Membrane,654,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g35930,"Aquaporin protein, putative, expressed",Membrane,822,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29110,"MLO domain containing protein, putative, expressed",Plasma membrane,1623,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29120,"STE_PAK_Ste20_STLK.5—STE kinases include homologs to sterile 7, sterile 11 and sterile 20 from yeast, expressed",Plasma membrane,2082,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29430,"Cytidine and deoxycytidylate deaminase zinc-binding region family protein, expressed",Plasma membrane,4773,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g29810,"Lectin protein kinase family protein, putative, expressed",Plasma membrane,2538,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g30430,"Disease resistance protein RPM1, putative, expressed",Plasma membrane,1485,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g30970,"Ubiquitin-conjugating enzyme, putative, expressed",Plasma membrane,447,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g31190,"Intracellular protein transport protein USO1-related, putative, expressed",Plasma membrane,2094,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g33570,"Cyclic nucleotide-gated ion channel 1, putative, expressed",Plasma membrane,2085,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g33610,"Cyclic nucleotide-gated ion channel 1, putative, expressed",Plasma membrane,654,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g34960,"TKL-IRAK-DUF26—DUF26 kinases have homology to DUF26 containing loci, expressed",Plasma membrane,1263,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g34970,Expressed protein,Plasma membrane,417,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g35850,"Lectin protein kinase family protein, putative, expressed",Plasma membrane,1554,,,,,,,,,,,,,
+"Liang et al., 2017",LOC_Os06g35870,"Lectin protein kinase family protein, putative, expressed",Plasma membrane,1923,,,,,,,,,,,,,
+"Mi Young Byun et al., 2018",LOC_Os01g03340,BBTI4 - Bowman-Birk type bran trypsin inhibitor precursor expressed,9.69E-01,1,1.006,,,71.576,109.27,,1.45E-07,1.56E-04,-1.94,Down,,201.259,69.955
+"Mi Young Byun et al., 2018",LOC_Os01g03360,BBTI5 - Bowman-Birk type bran trypsin inhibitor precursor expressed,5.25E-01,1,-1.154,,,37.165,51.652,,2.22E-06,1.67E-03,-3.191,Down,,70.473,15.861
+"Mi Young Byun et al., 2018",LOC_Os01g05650,metallothionein putative expressed,1.78E-13,2.68E-10,-3.548,Down,,119.175,53.085,,6.31E-01,1,1.091,,,65.742,51.246
+"Mi Young Byun et al., 2018",LOC_Os01g06740,ribosome inactivating protein putative expressed,6.18E-01,1,1.615,,,1.455,3.822,,1.06E-06,9.22E-04,-1.526,Down,,404.451,160.694
+"Mi Young Byun et al., 2018",LOC_Os01g06882,expressed protein,6.03E-06,3.62E-03,1154.569,Up,,0.063,27.863,,1,1,1,,,0,0
+"Mi Young Byun et al., 2018",LOC_Os01g07530,uncharacterized glycosyltransferase putative expressed,1.13E-01,1,-1.231,,,114.681,143.051,,3.18E-09,4.93E-06,-2.383,Down,,167.63,50.104
+"Mi Young Byun et al., 2018",LOC_Os01g09220,transposon protein putative CACTA EnFSpm sub-class expressed,5.49E-10,6.39E-07,2.157,Up,,81.656,244.567,,7.12E-01,1,-1.039,,,218.711,137.49
+"Mi Young Byun et al., 2018",LOC_Os01g10400,expressed protein,8.91E-23,1.99E-19,-2.582,Down,,315.13,182.541,,7.55E-01,1,1.11,,,18.115,15.238
+"Mi Young Byun et al., 2018",LOC_Os01g15270,expressed protein,9.94E-08,7.60E-05,-1.327,Down,,923.359,949.93,,2.34E-02,1,-1.194,,,426.747,213.118
+"Mi Young Byun et al., 2018",LOC_Os01g19740,calvin cycle protein CP12 putative expressed,6.61E-12,9.22E-09,-2.093,Down,,224.304,166.591,,1.94E-01,1,1.067,,,899.795,670.112
+"Mi Young Byun et al., 2018",LOC_Os01g21250,late embryogenesis abundant protein putative expressed,0,0,1.595,Up,,3567.348,3111.137,,2.42E-69,1.04E-65,-1.595,Down,,3139.297,2511.013
+"Mi Young Byun et al., 2018",LOC_Os01g22010,S-adenosylmethionine synthetase putative expressed,3.67E-11,4.65E-08,1.663,Up,,228.377,632.713,,2.45E-10,4.28E-07,-2.763,Down,,156.563,38.48
+"Mi Young Byun et al., 2018",LOC_Os01g25386,multidrug resistance-associated protein putative expressed,1.40E-03,3.89E-01,1.636,,,59.922,147.933,,2.43E-06,1.81E-03,-2.642,Down,,88.041,23.903
+"Mi Young Byun et al., 2018",LOC_Os01g37800,ras-related protein putative expressed,9.53E-01,1,1.014,,,31.27,51.366,,8.27E-11,1.54E-07,2.783,Up,,57.229,107.865
+"Mi Young Byun et al., 2018",LOC_Os01g41710,chlorophyll A-B binding protein putative expressed,1.20E-23,3.05E-20,-1.904,Down,,517.171,492.554,,2.93E-01,1,-1.747,,,9.399,3.766
+"Mi Young Byun et al., 2018",LOC_Os01g41810,cytochrome P450 72A1 putative expressed,7.75E-01,1,-1.101,,,15.104,22.746,,2.80E-06,2.00E-03,1.851,Up,,97.73,117.087
+"Mi Young Byun et al., 2018",LOC_Os01g42380,pleiotropic drug resistance protein putative expressed,2.97E-06,1.91E-03,2.474,Up,,30.328,117.574,,2.00E-01,1,1.133,,,235.106,165.242
+"Mi Young Byun et al., 2018",LOC_Os01g48690,ribosomal protein rpS20 putative expressed,2.85E-05,1.42E-02,-3.279,Down,,41.638,19.458,,5.84E-01,1,-1.892,,,1.411,0.465
+"Mi Young Byun et al., 2018",LOC_Os01g52230,phosphoethanolamineFphosphocholine phosphatase putative expressed,9.23E-52,2.58E-48,-3.502,Down,,427.644,218.09,,4.07E-01,1,-1.263,,,32.25,18.063
+"Mi Young Byun et al., 2018",LOC_Os01g53820,expressed protein,2.32E-02,1,4.317,,,2.085,14.377,,1.84E-06,1.47E-03,-1.87,Down,,180.69,65.875
+"Mi Young Byun et al., 2018",LOC_Os01g56680,photosystem II reaction center W protein chloroplast precursor putative expressed,6.54E-06,3.80E-03,-2.036,Down,,105.174,81.197,,7.86E-01,1,-1.14,,,9.008,6.006
+"Mi Young Byun et al., 2018",LOC_Os01g57960,retrotransposon protein putative unclassified expressed,9.88E-14,1.58E-10,-2.056,Down,,258.702,201.641,,8.07E-08,9.38E-05,1.493,Up,,357.36,296.819
+"Mi Young Byun et al., 2018",LOC_Os01g58020,ribulose bisphosphate carboxylase large chain precursor putative expressed,7.70E-21,1.59E-17,-2.169,Down,,384.112,260.489,,2.50E-01,1,-1.181,,,116.855,67.375
+"Mi Young Byun et al., 2018",LOC_Os01g58870,domain of unknown function DUF250 domain containing protein expressed,3.03E-03,6.96E-01,2.344,,,13.429,53.4,,4.35E-06,2.96E-03,-4.637,Down,,48.572,6.906
+"Mi Young Byun et al., 2018",LOC_Os01g64170,glycosyl hydrolases family 17 putative expressed,1.02E-02,1,2.109,,,13.738,49.442,,4.90E-10,8.29E-07,-1.666,Down,,475.581,178.743
+"Mi Young Byun et al., 2018",LOC_Os01g64470,harpin-induced protein 1 domain containing protein expressed,9.26E-01,1,1.023,,,30.013,49.696,,6.18E-06,4.16E-03,2.186,Up,,52.9,78.711
+"Mi Young Byun et al., 2018",LOC_Os01g66120,No apical meristem protein putative expressed,4.68E-06,2.84E-03,-1.434,Down,,347.61,359.384,,3.04E-04,1.23E-01,-1.229,,,815.037,410.364
+"Mi Young Byun et al., 2018",LOC_Os01g67480,helix-loop-helix DNA-binding domain containing protein expressed,3.14E-06,1.97E-03,2,Up,,58.968,175.717,,4.59E-05,2.54E-02,-1.733,Down,,167.124,64.655
+"Mi Young Byun et al., 2018",LOC_Os01g68300,expressed protein,9.23E-01,1,-1.01,,,165.455,233.519,,2.16E-05,1.30E-02,2.993,Up,,19.592,43.741
+"Mi Young Byun et al., 2018",LOC_Os01g70170,transaldolase putative expressed,2.12E-01,1,1.396,,,20.088,46.07,,4.72E-07,4.62E-04,1.611,Up,,197.784,209.55
+"Mi Young Byun et al., 2018",LOC_Os01g72530,OsCML31 - Calmodulin-related calcium sensor protein expressed,9.79E-01,1,-1.005,,,56.765,87.677,,2.77E-07,2.76E-04,1.897,Up,,107.805,138.501
+"Mi Young Byun et al., 2018",LOC_Os01g72610,glycosyltransferase putative expressed,7.00E-01,1,1.11,,,22.115,39.272,,9.06E-07,8.03E-04,-2.064,Down,,157.459,52.313
+"Mi Young Byun et al., 2018",LOC_Os01g72900,abscisic stress-ripening putative expressed,1.28E-01,1,1.608,,,13.509,35.821,,1.50E-09,2.46E-06,2.842,Up,,48.115,89.68
+"Mi Young Byun et al., 2018",LOC_Os01g72910,abscisic stress-ripening putative expressed,3.60E-03,7.87E-01,2.243,,,14.571,56.028,,0,0,3.046,Up,,134.264,257.849
+"Mi Young Byun et al., 2018",LOC_Os01g73000,copine putative expressed,7.40E-05,3.39E-02,7.911,Up,,2.436,31.363,,1.92E-02,1,3.138,,,4.349,12.567
+"Mi Young Byun et al., 2018",LOC_Os02g02890,peptidyl-prolyl cis-trans isomerase putative expressed,5.19E-05,2.44E-02,-1.457,Down,,237.703,242.194,,8.18E-03,1,-1.199,,,534.474,278.294
+"Mi Young Byun et al., 2018",LOC_Os02g03280,transmembrane BAX inhibitor motif-containing protein putative expressed,2.88E-03,6.68E-01,2.334,,,13.662,54.552,,0,0,3.844,Up,,97.641,230.93
+"Mi Young Byun et al., 2018",LOC_Os02g08180,protein transport protein SEC61 subunit gamma putative expressed,3.92E-01,1,-1.361,,,14.768,17.869,,1.61E-05,9.99E-03,2.745,Up,,25.647,51.212
+"Mi Young Byun et al., 2018",LOC_Os02g09510,limonoid UDP-glucosyltransferase putative expressed,5.05E-01,1,1.21,,,18.698,36.672,,1.61E-07,1.69E-04,-2.009,Down,,181.395,62.339
+"Mi Young Byun et al., 2018",LOC_Os02g10390,chlorophyll A-B binding protein putative expressed,8.94E-06,5.04E-03,-1.708,Down,,170.089,144.196,,8.39E-01,1,1.091,,,10.42,8.828
+"Mi Young Byun et al., 2018",LOC_Os02g24598,chloroplast envelope membrane protein putative expressed,1.06E-05,5.86E-03,-4.571,Down,,34.176,11.459,,3.02E-02,1,2.275,,,9.288,17.54
+"Mi Young Byun et al., 2018",LOC_Os02g24634,photosystem II D2 protein putative expressed,5.34E-05,2.48E-02,-8.063,Down,,20.202,4.078,,8.46E-02,1,-2.16,,,15.965,5.114
+"Mi Young Byun et al., 2018",LOC_Os02g32520,ERD1 protein chloroplast precursor putative expressed,7.63E-01,1,1.087,,,21.04,36.737,,1.35E-06,1.16E-03,1.515,Up,,261.388,234.419
+"Mi Young Byun et al., 2018",LOC_Os02g38050,joka2 putative expressed,5.56E-02,1,1.432,,,41.94,95.604,,4.32E-11,8.61E-08,1.719,Up,,268.635,278.875
+"Mi Young Byun et al., 2018",LOC_Os02g39850,transferase family protein putative expressed,1.74E-11,2.36E-08,1.902,Up,,156.946,450.167,,2.92E-08,3.89E-05,-2.659,Down,,121.806,31.894
+"Mi Young Byun et al., 2018",LOC_Os02g39930,OsTIL-1  Temperature-induced lipocalin-1 expressed,1.22E-01,1,1.383,,,34.267,77.792,,1.29E-05,8.28E-03,1.366,Up,,405.048,304.861
+"Mi Young Byun et al., 2018",LOC_Os02g40260,uncharacterized protein At4g06744 precursor putative expressed,5.52E-08,4.46E-05,-3.834,Down,,61.653,24.319,,4.69E-01,1,-2.784,,,0.278,0.1
+"Mi Young Byun et al., 2018",LOC_Os02g41630,phenylalanine ammonia-lyase putative expressed,2.49E-06,1.62E-03,1.281,Up,,475.083,1115.887,,2.30E-25,8.57E-22,-2.681,Down,,475.482,108.039
+"Mi Young Byun et al., 2018",LOC_Os02g41650,phenylalanine ammonia-lyase putative expressed,1.15E-01,1,-1.102,,,422.539,695.734,,3.60E-26,1.43E-22,-2.646,Down,,481.693,112.298
+"Mi Young Byun et al., 2018",LOC_Os02g41820,expressed protein,8.76E-01,1,1.045,,,20.342,34.182,,7.21E-09,1.03E-05,1.625,Up,,267.837,262.259
+"Mi Young Byun et al., 2018",LOC_Os02g43120,zinc finger C3HC4 type domain containing protein expressed,2.31E-10,2.74E-07,565.471,Up,,0.1,56.547,,1.96E-05,1.19E-02,147.333,Up,,0.1,14.733
+"Mi Young Byun et al., 2018",LOC_Os02g43790,ethylene-responsive transcription factor putative expressed,6.63E-02,1,-1.741,,,25.141,23.067,,5.58E-05,3.05E-02,-2.634,Down,,66.216,17.85
+"Mi Young Byun et al., 2018",LOC_Os02g43970,AP2 domain containing protein expressed,0,0,30.603,Up,,2.218,112.196,,1.37E-11,2.94E-08,106.229,Up,,0.241,37.286
+"Mi Young Byun et al., 2018",LOC_Os02g44980,transmembrane amino acid transporter protein putative expressed,9.77E-09,9.32E-06,1.554,Up,,235.993,577.224,,3.46E-08,4.49E-05,-1.633,Down,,399.26,148.881
+"Mi Young Byun et al., 2018",LOC_Os02g48560,fatty acid desaturase putative expressed,6.62E-04,2.11E-01,1.401,,,163.142,313.296,,1.96E-06,1.52E-03,-2.627,Down,,91.714,24.84
+"Mi Young Byun et al., 2018",LOC_Os02g49700,homeobox associated leucine zipper putative expressed,5.53E-02,1,-1.175,,,252.997,338.01,,3.12E-17,9.18E-14,-1.961,Down,,506.789,165.954
+"Mi Young Byun et al., 2018",LOC_Os02g52010,phosphate-induced protein 1 conserved region domain containing protein expressed,1.45E-02,1,-1.976,,,32.316,25.401,,7.99E-05,4.02E-02,-2.711,Down,,60.764,16.016
+"Mi Young Byun et al., 2018",LOC_Os02g55430,alginate regulatory protein AlgP putative expressed,2.39E-05,1.20E-02,-1.468,Down,,239.289,260.457,,2.34E-01,1,-1.274,,,62.638,33.714
+"Mi Young Byun et al., 2018",LOC_Os02g57530,ethylene receptor putative expressed,5.83E-01,1,1.385,,,4.01,9.065,,3.36E-06,2.34E-03,-4.57,Down,,49.864,7.293
+"Mi Young Byun et al., 2018",LOC_Os03g01300,LTPL114 - Protease inhibitorFseed storageFLTP family protein precursor expressed,0,0,2.035,Up,,203.299,660.989,,2.79E-01,1,-1.202,,,83.561,51.339
+"Mi Young Byun et al., 2018",LOC_Os03g02470,expressed protein,1.23E-05,6.65E-03,261.082,Up,,0.1,26.108,,1.30E-02,1,43.649,,,0.1,4.365
+"Mi Young Byun et al., 2018",LOC_Os03g03910,catalase domain containing protein expressed,0,0,2.21,Up,,146.466,477.98,,2.81E-03,6.93E-01,-1.547,,,134.913,58.999
+"Mi Young Byun et al., 2018",LOC_Os03g05390,Citrate transporter protein putative expressed,3.27E-05,1.60E-02,1.783,Up,,71.645,184.325,,6.08E-01,1,-1.06,,,176.217,111.721
+"Mi Young Byun et al., 2018",LOC_Os03g05730,cell division control protein 48 homolog E putative expressed,1.92E-01,1,1.355,,,27.476,60.921,,1.87E-05,1.15E-02,1.518,Up,,189.037,198.291
+"Mi Young Byun et al., 2018",LOC_Os03g06680,plant-specific domain TIGR01615 family protein expressed,9.03E-08,7.09E-05,-2.088,Down,,150.395,104.286,,2.14E-01,1,-1.851,,,11.313,4.29
+"Mi Young Byun et al., 2018",LOC_Os03g08330,ZIM domain containing protein putative expressed,2.09E-05,1.07E-02,-1.772,Down,,142.403,115.73,,8.72E-03,1,-1.613,,,84.907,37.784
+"Mi Young Byun et al., 2018",LOC_Os03g09900,membrane protein putative expressed,3.11E-11,4.04E-08,2.813,Up,,45.207,187.251,,1.87E-02,1,-1.311,,,190.719,98.134
+"Mi Young Byun et al., 2018",LOC_Os03g10620,hydrolase alphaFbeta fold family domain containing protein expressed,1.17E-08,1.09E-05,2.888,Up,,30.906,138.754,,1.94E-02,1,-1.778,,,51.681,20.039
+"Mi Young Byun et al., 2018",LOC_Os03g12820,ATP8 putative expressed,5.17E-03,1,1.717,,,36.228,99.388,,5.08E-07,4.81E-04,-1.292,Down,,1051.018,572.691
+"Mi Young Byun et al., 2018",LOC_Os03g13800,ribosomal protein L7Ae putative expressed,8.07E-01,1,-1.175,,,4.11,5.824,,4.50E-05,2.51E-02,2.134,Up,,46.977,66.007
+"Mi Young Byun et al., 2018",LOC_Os03g16860,DnaK family protein putative expressed,7.61E-06,4.38E-03,1.84,Up,,74.028,196.812,,1,1,-1,,,597.237,389.871
+"Mi Young Byun et al., 2018",LOC_Os03g16920,DnaK family protein putative expressed,2.91E-01,1,3.202,,,0.825,4.261,,1.75E-07,1.78E-04,-1.624,Down,,366.422,140.29
+"Mi Young Byun et al., 2018",LOC_Os03g17070,ATP synthase B chain chloroplast precursor putative expressed,1.86E-06,1.22E-03,-1.909,Down,,147.455,111.523,,4.79E-01,1,1.241,,,21.058,19.139
+"Mi Young Byun et al., 2018",LOC_Os03g20790,ethylene-insensitive 3 putative expressed,1.80E-03,4.52E-01,1.53,,,78.817,178.69,,8.13E-06,5.32E-03,-1.821,Down,,173.402,64.017
+"Mi Young Byun et al., 2018",LOC_Os03g22170,AP2 domain containing protein expressed,1.43E-06,9.52E-04,124.606,Up,,0.207,32.428,,6.53E-03,1,6.9,,,1.078,9.102
+"Mi Young Byun et al., 2018",LOC_Os03g45280,dehydrin putative expressed,0,0,5.219,Up,,161.508,1123.031,,2.64E-14,6.41E-11,1.932,Up,,234.216,270.085
+"Mi Young Byun et al., 2018",LOC_Os03g46770,RNA recognition motif containing protein expressed,1.64E-08,1.45E-05,-1.51,Down,,395.519,451.153,,1.94E-04,8.59E-02,1.295,,,428.047,308.206
+"Mi Young Byun et al., 2018",LOC_Os03g49990,GRAS family transcription factor domain containing protein expressed,7.53E-05,3.42E-02,1.742,Up,,71.633,180.921,,2.31E-02,1,-2.301,,,25.991,7.794
+"Mi Young Byun et al., 2018",LOC_Os03g52860,lipoxygenase putative expressed,5.70E-05,2.63E-02,6.134,Up,,3.647,36.655,,4.61E-04,1.68E-01,-6.969,,,20.712,1.583
+"Mi Young Byun et al., 2018",LOC_Os03g57340,chaperone protein dnaJ putative expressed,7.98E-01,1,1.05,,,48.312,81.394,,4.35E-14,1.01E-10,1.661,Up,,419.991,423.123
+"Mi Young Byun et al., 2018",LOC_Os03g57640,gibberellin receptor GID1L2 putative expressed,2.00E-02,1,2.1,,,11.272,39.692,,1.68E-07,1.73E-04,-1.712,Down,,298.957,111.028
+"Mi Young Byun et al., 2018",LOC_Os03g60080,NAC domain-containing protein 67 putative expressed,9.57E-08,7.42E-05,-1.971,Down,,164.665,121.319,,8.45E-04,2.81E-01,-1.395,,,289.942,128.821
+"Mi Young Byun et al., 2018",LOC_Os03g61130,phosphoesterase family protein putative expressed,4.20E-02,1,1.419,,,50.648,112.134,,5.69E-05,3.08E-02,-1.288,Down,,656.366,303.171
+"Mi Young Byun et al., 2018",LOC_Os04g01330,expressed protein,1.07E-09,1.17E-06,535.302,Up,,0.13,52.581,,7.16E-03,1,3.565,,,4.394,14.476
+"Mi Young Byun et al., 2018",LOC_Os04g16770,photosynthetic reaction center protein putative expressed,7.19E-03,1,-1.142,,,994.516,1066.358,,0,0,1.812,Up,,1096.26,2078.714
+"Mi Young Byun et al., 2018",LOC_Os04g16872,photosystem II D2 protein putative expressed,3.32E-05,1.60E-02,-1.428,Down,,292.449,299.006,,1.35E-04,6.27E-02,1.552,,,138.677,143.439
+"Mi Young Byun et al., 2018",LOC_Os04g16874,photosystem II 44 kDa reaction center protein putative expressed,9.85E-09,9.32E-06,-1.741,Down,,238.867,216.508,,1.51E-03,4.31E-01,1.603,,,79.873,88.152
+"Mi Young Byun et al., 2018",LOC_Os04g33830,membrane protein putative expressed,9.23E-16,1.66E-12,-2.583,Down,,207.935,125.97,,9.38E-01,1,-1.032,,,12.912,9.791
+"Mi Young Byun et al., 2018",LOC_Os04g36760,enzyme of the cupin superfamily protein putative expressed,1.21E-08,1.11E-05,-2.795,Down,,95.138,53.508,,4.22E-01,1,1.397,,,9.799,11.098
+"Mi Young Byun et al., 2018",LOC_Os04g45070,remorin putative expressed,9.96E-07,6.78E-04,-2.165,Down,,106.777,80.023,,8.03E-01,1,-1.117,,,10.882,7.452
+"Mi Young Byun et al., 2018",LOC_Os04g46960,glutathione peroxidase domain containing protein expressed,6.39E-01,1,1.084,,,58.981,99.327,,1.04E-08,1.44E-05,2.013,Up,,109.067,146.622
+"Mi Young Byun et al., 2018",LOC_Os04g55150,UBAFTS-N domain containing protein expressed,3.02E-06,1.91E-03,-3.185,Down,,55.206,26.09,,4.72E-01,1,1.467,,,5.299,6.489
+"Mi Young Byun et al., 2018",LOC_Os04g58710,AMP-binding domain containing protein expressed,1.82E-10,2.21E-07,1.221,Up,,2129.471,2273.478,,2.38E-77,1.11E-73,-2.106,Down,,1796.588,744.234
+"Mi Young Byun et al., 2018",LOC_Os04g58850,harpin-induced protein 1 domain containing protein expressed,0,0,3.385,Up,,67.478,328.263,,5.82E-01,1,-1.07,,,160.591,97.257
+"Mi Young Byun et al., 2018",LOC_Os04g59190,peroxidase precursor putative expressed,5.94E-07,4.15E-04,1.93,Up,,76.459,216.485,,5.93E-09,8.70E-06,-2.665,Down,,136.492,35.549
+"Mi Young Byun et al., 2018",LOC_Os05g02760,expressed protein,1.48E-01,1,1.738,,,8.543,24.893,,5.86E-05,3.12E-02,1.949,Up,,59.95,79.601
+"Mi Young Byun et al., 2018",LOC_Os05g03960,expressed protein,2.04E-05,1.06E-02,-8.682,Down,,22.054,4.096,,5.20E-03,1,3.606,,,4.676,15.407
+"Mi Young Byun et al., 2018",LOC_Os05g04510,S-adenosylmethionine synthetase putative expressed,7.81E-04,2.41E-01,1.382,,,171.022,330.292,,6.90E-05,3.53E-02,-2.058,Down,,100.472,34.118
+"Mi Young Byun et al., 2018",LOC_Os05g04700,OsRCI2-6 - Hydrophobic protein LTI6B expressed,3.18E-01,1,1.231,,,36.504,74.173,,3.55E-06,2.44E-03,1.809,Up,,105.224,122.359
+"Mi Young Byun et al., 2018",LOC_Os05g05080,expressed protein,2.24E-01,1,1.826,,,5.032,14.952,,3.51E-11,7.25E-08,2.813,Up,,57.92,109.475
+"Mi Young Byun et al., 2018",LOC_Os05g05940,stress-related protein putative expressed,1.87E-01,1,-1.233,,,80.246,101.05,,4.16E-08,5.27E-05,1.49,Up,,389.043,307.845
+"Mi Young Byun et al., 2018",LOC_Os05g08420,expressed protein,1.03E-05,5.75E-03,-2.096,Down,,93.998,71.477,,9.54E-05,4.67E-02,2.004,Up,,52.207,69.476
+"Mi Young Byun et al., 2018",LOC_Os05g14240,aquaporin protein putative expressed,1.48E-02,1,1.465,,,61.486,134.716,,3.79E-05,2.14E-02,-1.761,Down,,164.077,62.076
+"Mi Young Byun et al., 2018",LOC_Os05g22716,translation initiation factor IF-1 chloroplast putative expressed,2.07E-11,2.75E-08,-6.319,Down,,66.96,15.596,,7.14E-01,1,-1.211,,,7.753,4.789
+"Mi Young Byun et al., 2018",LOC_Os05g22718,chloroplast 30S ribosomal protein S8 putative expressed,1.05E-06,7.05E-04,-6.731,Down,,33.138,7.611,,5.36E-01,1,-1.491,,,5.348,2.517
+"Mi Young Byun et al., 2018",LOC_Os05g22724,chloroplast 50S ribosomal protein L16 putative expressed,1.45E-09,1.56E-06,-2.472,Down,,137.45,82.976,,9.63E-01,1,-1.01,,,51.815,35.035
+"Mi Young Byun et al., 2018",LOC_Os05g25640,cytochrome P450 putative expressed,5.04E-02,1,1.464,,,38.276,90.94,,2.80E-05,1.61E-02,-1.918,Down,,132.407,49.221
+"Mi Young Byun et al., 2018",LOC_Os05g27730,WRKY53 expressed,1.96E-05,1.02E-02,1.485,Up,,177.831,403.332,,2.98E-01,1,-1.083,,,422.783,223.474
+"Mi Young Byun et al., 2018",LOC_Os05g27780,expressed protein,4.81E-09,4.88E-06,-2.043,Down,,179.864,130.616,,3.77E-02,1,-1.682,,,48.791,19.928
+"Mi Young Byun et al., 2018",LOC_Os05g34770,cytochrome c putative expressed,5.55E-01,1,-1.24,,,13.838,18.234,,1.54E-05,9.64E-03,1.99,Up,,65.248,86.108
+"Mi Young Byun et al., 2018",LOC_Os05g41900,translation initiation factor SUI1 putative expressed,2.57E-01,1,1.225,,,50.045,95.911,,6.06E-05,3.19E-02,1.469,Up,,206.813,199.959
+"Mi Young Byun et al., 2018",LOC_Os05g44340,heat shock protein 101 putative expressed,6.86E-01,1,2.068,,,0.406,1.253,,2.35E-05,1.40E-02,-2.078,Down,,109.953,37.557
+"Mi Young Byun et al., 2018",LOC_Os05g49890,ras-related protein putative expressed,4.93E-01,1,1.061,,,225.875,370.616,,9.68E-05,4.70E-02,1.478,Up,,182.956,180.475
+"Mi Young Byun et al., 2018",LOC_Os05g51670,NAD dependent epimeraseFdehydratase family protein putative expressed,8.26E-01,1,1.059,,,24.549,41.564,,7.95E-05,4.02E-02,1.348,Up,,370.059,284.148
+"Mi Young Byun et al., 2018",LOC_Os06g03670,dehydration-responsive element-binding protein putative expressed,0,0,62.751,Up,,1.39,139.639,,0,0,587.463,Up,,0.1,58.746
+"Mi Young Byun et al., 2018",LOC_Os06g05470,expressed protein,8.68E-01,1,-1.093,,,5.929,8.99,,1.42E-07,1.56E-04,2.237,Up,,66.668,97.587
+"Mi Young Byun et al., 2018",LOC_Os06g05880,profilin domain containing protein expressed,5.77E-01,1,-1.127,,,40.652,57.607,,6.65E-11,1.28E-07,2.005,Up,,144.66,187.355
+"Mi Young Byun et al., 2018",LOC_Os06g09900,expressed protein,8.04E-14,1.32E-10,1.788,Up,,220.329,632.73,,1.24E-02,1,-2.027,,,41.483,14.532
+"Mi Young Byun et al., 2018",LOC_Os06g30970,ubiquitin-conjugating enzyme putative expressed,7.28E-01,1,1.187,,,6.129,11.964,,1.97E-06,1.52E-03,1.994,Up,,76.279,104.617
+"Mi Young Byun et al., 2018",LOC_Os06g36000,AP2 domain containing protein expressed,5.66E-09,5.63E-06,952.12,Up,,0.104,47.71,,1.37E-06,1.16E-03,185.849,Up,,0.1,18.585
+"Mi Young Byun et al., 2018",LOC_Os06g40440,expressed protein,6.40E-01,1,1.066,,,91.097,148.778,,6.11E-05,3.19E-02,-2.193,Down,,87.246,28.62
+"Mi Young Byun et al., 2018",LOC_Os06g44450,CCTFB-box zinc finger protein putative expressed,2.50E-03,5.98E-01,1.259,,,253.539,511.285,,1.72E-06,1.39E-03,-1.539,Down,,376.665,148.913
+"Mi Young Byun et al., 2018",LOC_Os06g51220,HMG1F2 putative expressed,8.77E-03,1,1.265,,,201.691,382.262,,1.45E-06,1.21E-03,1.501,Up,,270.091,255.147
+"Mi Young Byun et al., 2018",LOC_Os07g01560,transporter family protein putative expressed,4.07E-06,2.49E-03,3.056,Up,,16.866,87.22,,1.46E-03,4.22E-01,-1.377,,,270.859,125.782
+"Mi Young Byun et al., 2018",LOC_Os07g02340,expressed protein,0,0,3.602,Up,,49.448,258.113,,9.94E-03,1,1.344,,,154.309,137.047
+"Mi Young Byun et al., 2018",LOC_Os07g05480,photosystem I reaction center subunit chloroplast precursor putative expressed,8.27E-18,1.59E-14,-2.71,Down,,223.601,128.613,,4.19E-01,1,1.72,,,2.707,4.162
+"Mi Young Byun et al., 2018",LOC_Os07g07990,uncharacterized protein At4g06744 precursor putative expressed,1.93E-01,1,1.318,,,34.183,74.006,,2.42E-05,1.42E-02,-1.982,Down,,122.491,44.453
+"Mi Young Byun et al., 2018",LOC_Os07g08840,thioredoxin putative expressed,2.86E-08,2.42E-05,-2.064,Down,,162.646,114.638,,1.62E-02,1,1.099,,,1131.229,1199.539
+"Mi Young Byun et al., 2018",LOC_Os07g09420,ATPase putative expressed,8.03E-06,4.57E-03,1.817,Up,,76.175,204.347,,1.37E-03,4.07E-01,-1.275,,,479.778,217.161
+"Mi Young Byun et al., 2018",LOC_Os07g12340,NAC domain-containing protein 67 putative expressed,6.43E-06,3.80E-03,-2.215,Down,,86.931,62.861,,9.87E-01,1,1.006,,,15.066,11.621
+"Mi Young Byun et al., 2018",LOC_Os07g25002,chloroplast 30S ribosomal protein S7 putative expressed,4.48E-08,3.68E-05,-1.501,Down,,388.016,433.629,,1.88E-01,1,1.123,,,294.696,203.455
+"Mi Young Byun et al., 2018",LOC_Os07g33780,pleiotropic drug resistance protein 5 putative expressed,9.34E-01,1,-1.043,,,6.482,10.255,,8.98E-05,4.43E-02,1.732,Up,,86.023,103.134
+"Mi Young Byun et al., 2018",LOC_Os07g35979,expressed protein,1.72E-13,2.67E-10,-476.014,Down,,47.601,0.1,,7.58E-04,2.57E-01,-114.58,,,11.458,0.1
+"Mi Young Byun et al., 2018",LOC_Os07g37240,chlorophyll A-B binding protein putative expressed,1.92E-09,2.02E-06,-2.367,Down,,149.058,91.466,,3.93E-04,1.48E-01,-3.038,,,42.486,9.771
+"Mi Young Byun et al., 2018",LOC_Os07g37320,transporter family protein putative expressed,6.53E-06,3.80E-03,1.299,Up,,417.597,986.25,,8.88E-24,3.10E-20,-2.109,Down,,616.656,187.818
+"Mi Young Byun et al., 2018",LOC_Os07g38360,expressed protein,1.53E-05,8.21E-03,1.874,Up,,63.725,175.905,,1.72E-02,1,-1.393,,,139.467,67.367
+"Mi Young Byun et al., 2018",LOC_Os07g39680,UV-induced protein uvi15 putative expressed,2.18E-01,1,-1.164,,,135.657,167.352,,6.66E-16,1.77E-12,2.091,Up,,188.434,256.848
+"Mi Young Byun et al., 2018",LOC_Os07g47640,ultraviolet-B-repressible protein putative expressed,8.87E-13,1.30E-09,-3.278,Down,,125.078,59.6,,9.50E-01,1,1.042,,,3.743,3.083
+"Mi Young Byun et al., 2018",LOC_Os07g47790,AP2 domain containing protein expressed,8.86E-07,6.11E-04,436.782,Up,,0.12,33.009,,2.13E-04,9.21E-02,15.57,,,0.624,13.368
+"Mi Young Byun et al., 2018",LOC_Os07g48630,ethylene-insensitive 3 putative expressed,4.22E-15,7.36E-12,2.055,Up,,161.747,482.802,,2.55E-06,1.87E-03,-1.938,Down,,164.136,57.921
+"Mi Young Byun et al., 2018",LOC_Os07g49114,wound-induced protein WI12 putative expressed,1.46E-07,1.09E-04,1.91,Up,,86.17,240.082,,8.02E-06,5.32E-03,-2.856,Down,,71.783,17.988
+"Mi Young Byun et al., 2018",LOC_Os08g01380,2Fe-2S iron-sulfur cluster binding domain containing protein expressed,3.24E-09,3.34E-06,-1.613,Down,,347.907,314.633,,7.57E-01,1,1.125,,,13.466,11.903
+"Mi Young Byun et al., 2018",LOC_Os08g02030,transferase family protein putative expressed,3.75E-01,1,-3.327,,,1.76,0.878,,8.21E-06,5.32E-03,-1.553,Down,,319.333,122.232
+"Mi Young Byun et al., 2018",LOC_Os08g02700,fructose-bisphospate aldolase isozyme putative expressed,6.13E-01,1,1.357,,,3.938,8.716,,7.76E-08,9.21E-05,-2.846,Down,,105.814,26.083
+"Mi Young Byun et al., 2018",LOC_Os08g06010,transporter major facilitator family putative expressed,9.68E-05,4.36E-02,-1.724,Down,,120.815,110.133,,7.35E-01,1,-1.137,,,15.659,10.608
+"Mi Young Byun et al., 2018",LOC_Os08g06100,O-methyltransferase putative expressed,8.82E-01,1,-1.016,,,165.112,232.071,,1.52E-05,9.64E-03,-2.911,Down,,66.293,16.356
+"Mi Young Byun et al., 2018",LOC_Os08g10020,photosystem II 10 kDa polypeptide chloroplast precursor putative expressed,3.00E-14,5.08E-11,-1.634,Down,,431.936,504.274,,2.58E-05,1.50E-02,2.173,Up,,47.489,67.478
+"Mi Young Byun et al., 2018",LOC_Os08g10480,heavy metal-associated domain containing protein expressed,9.72E-01,1,-1.012,,,14.625,24.164,,0,0,2.391,Up,,144.512,213.173
+"Mi Young Byun et al., 2018",LOC_Os08g10500,expressed protein,3.15E-01,1,-1.226,,,47.6,62.773,,2.22E-16,6.20E-13,2.236,Up,,163.818,223.014
+"Mi Young Byun et al., 2018",LOC_Os08g15268,chloroplast 50S ribosomal protein L22 putative expressed,6.43E-08,5.13E-05,-4.174,Down,,56.648,20.32,,7.89E-03,1,-3.293,,,20.583,4.023
+"Mi Young Byun et al., 2018",LOC_Os08g27070,co-chaperone protein SBA1 putative expressed,5.93E-01,1,1.256,,,8.018,16.537,,5.48E-08,6.80E-05,2.196,Up,,73.586,110.512
+"Mi Young Byun et al., 2018",LOC_Os08g27850,endothelial differentiation-related factor 1 putative expressed,9.60E-01,1,-1.01,,,44.131,70.396,,2.74E-06,1.98E-03,1.525,Up,,238.016,214.368
+"Mi Young Byun et al., 2018",LOC_Os08g33820,chlorophyll A-B binding protein putative expressed,3.10E-05,1.53E-02,-1.945,Down,,100.174,80.899,,4.04E-01,1,-1.798,,,4.898,1.816
+"Mi Young Byun et al., 2018",LOC_Os08g35420,photosynthetic reaction center protein putative expressed,1.01E-75,2.95E-72,-2.455,Down,,1379.159,803.699,,0,0,1.505,Up,,948.202,1061.845
+"Mi Young Byun et al., 2018",LOC_Os08g36480,nitrate reductase putative expressed,1.83E-01,1,1.118,,,234.185,443.933,,2.64E-08,3.59E-05,-5.371,Down,,63.166,8.072
+"Mi Young Byun et al., 2018",LOC_Os08g37670,plastocyanin-like domain containing protein putative expressed,0,0,2.816,Up,,104.504,466.709,,2.09E-09,3.32E-06,-1.345,Down,,1095.347,627.811
+"Mi Young Byun et al., 2018",LOC_Os08g39450,AN1-like zinc finger domain containing protein expressed,2.22E-05,1.12E-02,-1.875,Down,,111.778,94.357,,5.09E-01,1,-1.194,,,34.902,20.367
+"Mi Young Byun et al., 2018",LOC_Os08g39840,lipoxygenase chloroplast precursor putative expressed,1.71E-12,2.45E-09,3.53,Up,,30.679,169.426,,4.71E-03,9.95E-01,-1.269,,,394.437,187.025
+"Mi Young Byun et al., 2018",LOC_Os08g43200,dehydration-responsive element-binding protein putative expressed,0,0,1261.105,Up,,0.1,126.11,,1.13E-14,2.87E-11,93.47,Up,,0.36,49.826
+"Mi Young Byun et al., 2018",LOC_Os08g43210,AP2 domain containing protein expressed,0,0,128.732,Up,,0.491,101.202,,1.96E-10,3.52E-07,316.034,Up,,0.1,31.603
+"Mi Young Byun et al., 2018",LOC_Os08g45030,multidrug resistance protein putative expressed,5.28E-02,1,1.63,,,21.036,56.797,,2.20E-06,1.67E-03,-2.634,Down,,89.477,24.361
+"Mi Young Byun et al., 2018",LOC_Os09g15480,Ser/Thr-rich protein T10 in DGCR region putative expressed,0,0,55.047,Up,,3.533,302.905,,0,0,1799.953,Up,,0.1,179.995
+"Mi Young Byun et al., 2018",LOC_Os09g17740,chlorophyll A-B binding protein putative expressed,8.23E-20,1.64E-16,-2.459,Down,,295.087,179.619,,3.00E-01,1,1.483,,,11.57,13.639
+"Mi Young Byun et al., 2018",LOC_Os09g25320,ubiquitin family protein putative expressed,3.40E-01,1,-1.38,,,17.218,20.392,,8.78E-05,4.38E-02,1.79,Up,,76.596,93.304
+"Mi Young Byun et al., 2018",LOC_Os09g25760,tetraspanin family protein putative expressed,7.94E-03,1,1.312,,,160.397,288.72,,1.43E-07,1.56E-04,-1.507,Down,,488.048,202.58
+"Mi Young Byun et al., 2018",LOC_Os09g26670,expressed protein,1.18E-05,6.44E-03,-3.379,Down,,44.546,20.113,,7.93E-01,1,1.326,,,0.949,1.042
+"Mi Young Byun et al., 2018",LOC_Os09g35010,dehydration-responsive element-binding protein putative expressed,3.90E-02,1,1.407,,,55.968,118.845,,5.97E-07,5.55E-04,9.506,Up,,2.878,27.39
+"Mi Young Byun et al., 2018",LOC_Os09g35020,AP2 domain containing protein expressed,0,0,61.31,Up,,1.814,178.015,,0,0,586.765,Up,,0.1,58.676
+"Mi Young Byun et al., 2018",LOC_Os09g35030,dehydration-responsive element-binding protein putative expressed,2.11E-08,1.81E-05,2.913,Up,,29.012,132.51,,3.19E-06,2.26E-03,6.291,Up,,5.039,28.178
+"Mi Young Byun et al., 2018",LOC_Os09g36680,ribonuclease T2 family domain containing protein expressed,4.81E-07,3.44E-04,1.694,Up,,132.928,306.643,,1.76E-02,1,1.827,,,26.19,33.556
+"Mi Young Byun et al., 2018",LOC_Os09g39940,plastocyanin-like domain containing protein putative expressed,7.02E-02,1,1.819,,,11.209,33.981,,5.73E-05,3.08E-02,-1.742,Down,,161.859,62.057
+"Mi Young Byun et al., 2018",LOC_Os10g21190,expressed protein,0,0,-3.793,Down,,5581.824,1200.35,,0,0,1.595,Up,,1971.008,3045.283
+"Mi Young Byun et al., 2018",LOC_Os10g21268,ribulose bisphosphate carboxylase large chain precursor putative expressed,3.52E-04,1.26E-01,-1.222,,,524.823,902.018,,7.56E-07,6.81E-04,1.559,Up,,236.953,219.87
+"Mi Young Byun et al., 2018",LOC_Os10g21352,chloroplast 30S ribosomal protein S19 putative expressed,6.81E-09,6.66E-06,-2.237,Down,,153.137,99.439,,3.99E-02,1,1.536,,,42.653,46.056
+"Mi Young Byun et al., 2018",LOC_Os10g21358,chloroplast 50S ribosomal protein L23 putative,4.38E-05,2.09E-02,-5.322,Down,,25.858,7.68,,1.93E-01,1,-209.055,,,1.113,0
+"Mi Young Byun et al., 2018",LOC_Os10g22630,expressed protein,1.24E-07,9.38E-05,381.889,Up,,0.1,38.189,,1.21E-01,1,2.447,,,3.215,7.503
+"Mi Young Byun et al., 2018",LOC_Os10g23310,transferase family protein putative expressed,7.70E-01,1,-1.367,,,1.72,2.045,,3.02E-05,1.72E-02,-4.114,Down,,43.561,7.066
+"Mi Young Byun et al., 2018",LOC_Os10g25290,ZIM domain containing protein putative expressed,4.48E-05,2.12E-02,-2.194,Down,,74.878,52.365,,3.34E-01,1,-1.144,,,123.805,72.092
+"Mi Young Byun et al., 2018",LOC_Os10g31330,retrotransposon protein putative unclassified expressed,0,0,2.126,Up,,218.084,751.141,,5.29E-04,1.91E-01,1.487,,,144.354,142.068
+"Mi Young Byun et al., 2018",LOC_Os10g33800,lactateFmalate dehydrogenase putative expressed,5.91E-02,1,1.49,,,32.336,79.131,,7.30E-07,6.68E-04,2.259,Up,,57.781,86.56
+"Mi Young Byun et al., 2018",LOC_Os10g36170,LTPL160 - Protease inhibitorFseed storageFLTP family protein precursor expressed,2.07E-07,1.52E-04,7.182,Up,,4.768,58.335,,6.48E-01,1,-1.324,,,5.55,3.048
+"Mi Young Byun et al., 2018",LOC_Os10g37340,cystathionine gamma-synthase putative expressed,2.35E-03,5.68E-01,1.684,,,46.879,121.125,,1.25E-23,4.10E-20,-2.279,Down,,528.794,148.956
+"Mi Young Byun et al., 2018",LOC_Os10g37500,AAA-type ATPase family protein putative expressed,2.34E-01,1,1.453,,,13.919,33.421,,6.53E-05,3.37E-02,-2.47,Down,,71.47,20.488
+"Mi Young Byun et al., 2018",LOC_Os10g38238,chloroplast 30S ribosomal protein S14 putative expressed,1.69E-05,9.00E-03,-4.245,Down,,34.382,12.34,,3.07E-01,1,1.432,,,14.089,15.749
+"Mi Young Byun et al., 2018",LOC_Os10g38272,ATP synthase B chain putative expressed,1.70E-08,1.48E-05,-5.774,Down,,47.709,12.642,,3.50E-01,1,1.507,,,8.248,10.307
+"Mi Young Byun et al., 2018",LOC_Os10g38278,chloroplast 30S ribosomal protein S2 putative expressed,3.29E-05,1.60E-02,-5.884,Down,,25.089,6.769,,2.47E-01,1,1.939,,,3.754,6.547
+"Mi Young Byun et al., 2018",LOC_Os10g41550,beta-amylase putative expressed,3.36E-08,2.79E-05,1.488,Up,,263.72,690.035,,3.39E-03,7.82E-01,-1.408,,,195.541,94.221
+"Mi Young Byun et al., 2018",LOC_Os11g02350,LTPL25 - Protease inhibitorFseed storageFLTP family protein precursor expressed,5.95E-07,4.15E-04,-2.204,Down,,107.122,79.258,,7.17E-01,1,-1.171,,,11.529,7.541
+"Mi Young Byun et al., 2018",LOC_Os11g07020,fructose-bisphospate aldolase isozyme putative expressed,9.18E-10,1.02E-06,1.301,Up,,1010.242,1600.302,,1.50E-01,1,1.152,,,231.63,162.624
+"Mi Young Byun et al., 2018",LOC_Os11g14140,OsFBK25 - F-box domain and kelch repeat containing protein expressed,4.59E-07,3.33E-04,-1.442,Down,,390.916,454.202,,8.59E-08,9.78E-05,-2.473,Down,,127.379,36.432
+"Mi Young Byun et al., 2018",LOC_Os11g33120,respiratory burst oxidase putative expressed,1.44E-01,1,1.507,,,17.355,42.909,,1.63E-06,1.34E-03,-2.483,Down,,102.385,28.815
+"Mi Young Byun et al., 2018",LOC_Os11g47809,metallothionein putative expressed,3.77E-01,1,-1.265,,,27.495,34.179,,0,0,1.593,Up,,796.676,957.308
+"Mi Young Byun et al., 2018",LOC_Os11g47970,AAA-type ATPase family protein putative expressed,0,0,1.497,Up,,1272.777,2016.938,,4.55E-02,1,-1.469,,,73.734,35.812
+"Mi Young Byun et al., 2018",LOC_Os12g02300,LTPL26 - Protease inhibitorFseed storageFLTP family protein precursor expressed,2.20E-23,5.12E-20,-2.965,Down,,245.881,136.911,,3.23E-01,1,1.331,,,23.008,22.295
+"Mi Young Byun et al., 2018",LOC_Os12g04150,alpha/beta hydrolase fold putative expressed,5.60E-01,1,-2.175,,,1.441,1.079,,1.04E-04,5.00E-02,-6.035,Down,,28.512,2.706
+"Mi Young Byun et al., 2018",LOC_Os12g08760,carboxyvinyl-carboxyphosphonate phosphorylmutase putative expressed,2.22E-16,4.13E-13,1.692,Up,,329.093,951.792,,9.17E-01,1,-1.029,,,31.147,21.441
+"Mi Young Byun et al., 2018",LOC_Os12g10580,ribulose bisphosphate carboxylase large chain precursor putative expressed,9.95E-23,2.14E-19,-3.786,Down,,202.555,83.797,,8.24E-01,1,-1.06,,,33.717,22.428
+"Mi Young Byun et al., 2018",LOC_Os12g12880,expressed protein,8.88E-02,1,-2.491,,,9.256,6.227,,5.07E-07,4.81E-04,-11.253,Down,,37.741,1.727
+"Mi Young Byun et al., 2018",LOC_Os12g13674,expressed protein,1.71E-23,4.15E-20,-4892.59,Down,,88.326,0,,1.64E-12,3.66E-09,-198.441,Down,,57.886,0
+"Mi Young Byun et al., 2018",LOC_Os12g14440,Jacalin-like lectin domain containing protein putative expressed,1.02E-77,3.15E-74,-19.342,Down,,374.713,28.391,,6.22E-08,7.55E-05,-19.822,Down,,38.601,0.854
+"Mi Young Byun et al., 2018",LOC_Os12g15680,laccase precursor protein putative expressed,8.40E-01,1,1.226,,,1.493,2.981,,5.07E-09,7.65E-06,-1.952,Down,,255.327,84.456
+"Mi Young Byun et al., 2018",LOC_Os12g25490,O-methyltransferase putative expressed,1.54E-08,1.39E-05,4.28,Up,,13.014,93.609,,4.62E-01,1,1.808,,,1.654,2.724
+"Mi Young Byun et al., 2018",LOC_Os12g29400,GRAM domain containing protein expressed,1.46E-01,1,1.511,,,16.796,41.849,,1.78E-17,5.52E-14,-1.43,Down,,1327.524,827.762
+"Mi Young Byun et al., 2018",LOC_Os12g33130,expressed protein,9.85E-11,1.22E-07,2.329,Up,,72.015,238.773,,4.80E-02,1,2.197,,,8.486,15.477
+"Mi Young Byun et al., 2018",LOC_Os12g36210,inhibitor I family protein putative expressed,7.59E-10,8.64E-07,3.812,Up,,19.485,119.04,,9.62E-01,1,1.052,,,1.109,0.914
+"Mi Young Byun et al., 2018",LOC_Os12g36240,inhibitor I family protein putative expressed,1.95E-05,1.02E-02,6.524,Up,,3.737,40.105,,3.36E-01,1,-4.596,,,1.217,0
+"Mi Young Byun et al., 2018",LOC_Os12g37260,lipoxygenase 2.1 chloroplast precursor putative expressed,0,0,3.191,Up,,383.104,1639.401,,5.65E-01,1,1.071,,,160.115,111.71
+"Mi Young Byun et al., 2018",LOC_Os12g38720,expressed protein,3.87E-06,2.40E-03,-4.018,Down,,41.493,15.779,,5.74E-02,1,-2.296,,,17.224,5.218
+"Mi Young Byun et al., 2018",LOC_Os12g39930,expressed protein,4.10E-25,1.09E-21,-2.726,Down,,325.975,178.65,,0,0,1.623,Up,,537.581,667.452
+"zhao et al., 2017",LOC_Os09g0410300,over‐expression plants exhibited enhanced cold tolerance at the seedling stage compared with the wild‐type plants.,,,,,,,,,,,,,,,
+"Mao et al, 2019",LOC_Os11g29290 ,candidate gene for HAN1,,,,,,,,,,,,,,,
+"Ma et al., 2015",LOC_Os04g51180,GPCR-type G protein COLD1-like,,,,,,,,,,,,,,,
