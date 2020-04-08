@@ -1,0 +1,16 @@
+﻿Type,SNP Totally Detected,SNPs Hit with Flower Genes
+D+GW,538,24
+D+W,698,26
+D+M,340,13
+W+GW,599,27
+W+M,395,13
+GW+M,668,24
+D+GW+M,26,2
+D+W+M,84,3
+D+GW+W,246,11
+GW+W+M,34,2
+D+GW+W+M,200,8
+D,180,4
+W,192,8
+M,581,25
+GW,917,39
