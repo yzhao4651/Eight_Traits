@@ -1,0 +1,2 @@
+"Trait ID","Trait name","Method","RS#","Chromosome","Marker position (bp)","QTN effect","LOD score","'-log10(P)'","r2 (%)","MAF","Genotype for code 1","Var_error","Var_phen(total)"
+"1","Trait1","FASTmrEMMA","NsiI.TP424080","8","62210912","-0.5083","3.7092","4.4458","11.1134","0.041","A","0.0352","0.0437"
