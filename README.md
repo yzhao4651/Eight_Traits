@@ -4,19 +4,19 @@ SupportingTable:
 
 1:Supporting Materials A: Orginal phenotype data
 
-2:Supporting Materials B: The summarized GWAS result of nine traits
+2:Supporting Materials B: The summarized GWAS results of nine traits
 
-3:Supporting Materials C: The GWAS result comparison between SNPs from current study and QTLs and SNPs from other studies.
+3:Supporting Materials C: The GWAS results comparison between SNPs from current study and QTLs and SNPs from other studies.
 
 4:Supporting Materials D: The known flowering genes from other species and miscanthus.
 
-5:Supporting Materials E: The summarized GWAS result of flowering traits.
+5:Supporting Materials E: The summarized GWAS results of flowering traits.
 
 6:Supporting Materials F: The genes related to cold and overwintering ability from other species and Miscanthus.
 
-7:Supporting Materials G:The summarized GWAS result of Overwintering Ability.
+7:Supporting Materials G:The summarized GWAS results of Overwintering Ability.
 
-8:Supporting Materials H:The GWAS result of all traits.
+8:Supporting Materials H:The GWAS results of all traits.
 
 
 Data: including several datasets used for the analysis. 
