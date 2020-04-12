@@ -1,6 +1,6 @@
 # Dissertation-
 
-SupportingTable includes
+SupportingTable:
 
 1:Supporting Materials A: Orginal phenotype data
 
@@ -17,6 +17,7 @@ SupportingTable includes
 7:Supporting Materials G:The summarized GWAS result of Overwintering Ability.
 
 8:Supporting Materials H:The GWAS result of all traits.
+
 
 Data: including several datasets used for the analysis. 
 
@@ -65,6 +66,7 @@ mrMLMM2: GWAS results of all traits using all SNPs datasets using all the GWAS m
 Chapter2UP: all datasets used for the table and images for nine traits
 
 Flotraits2: all datasets used for the table and images for the flowering traits
+
 
 Rcode includes all of the R codes used in the dissertation 
 
