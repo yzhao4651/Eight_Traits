@@ -1,10 +1,5 @@
-###import the data
-###import the data
-#normadata <- read.csv("~/Documents/whole traits/traits1718normalited1.csv",na.strings = c("",".","NA"))
-#normadata <- read.csv("data/traits1718normalited1.csv",na.strings = c("",".","NA"),row.names=1)
-###check the data format
-#str(normadata)
-
+###import the normalited data
+###import the normalited data
 normadata <- read.csv("data/traits1718normalited5.csv",na.strings = c("",".","NA"),row.names=1)
 ###check the data format
 str(normadata)
@@ -19,7 +14,7 @@ str(normadata)
 ###get the heritablity of all the traits using the function in the Function
 source("Function/Heritability.OWA.R")
 Herit <- Heritability(5,38,normadata)
-write.csv(Herit, file = "data/heritabilityall5.csv", na = ".")
+write.csv(Herit, file = "data/heritabilityall5.csv", na = ".") ### this one is for all of the traits for this project. 
 
 ###get the heritablity of all the traits using the function in the Function
 source("Function/BLUP.R")
