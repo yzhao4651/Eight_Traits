@@ -22,14 +22,11 @@ library(data.table)
 install.packages("dplyr")
 library(dplyr)
 
-
 source("0 Qualdat import.R") ##using this source R function 
 
 ##import the phenotype dataset 
 ##import the phenotype dataset 
 qualdat <- read_qualdat("data/trait1718.3.16.19withoutliers1.csv")
-
-
 
 ###write out the data set 
 write.csv(qualdat,file="~/Documents/whole traits/trait1718SAS1.csv") ##saved a dataset can be used for SAS software for descriptive statistics and saved them under whole traits folder
@@ -966,7 +963,6 @@ head(LsmeanSAS)
 ##back tansformation 
 
 ###import the lda
-
 lda <- read.csv("data/lda.makeup_kg.csv")
 lda_1 <-lda[-c(7,9,10,12,13),] 
 str(lda_1)
@@ -997,7 +993,6 @@ lsmeanSASlda$BackLSmeans <- bcBack(lsmeanSASlda$Estimate,lsmeanSASlda$lambda)
 lsmeanSASlda$Backupper.CL <- bcBack(lsmeanSASlda$Upper, lsmeanSASlda$lambda)
 
 lsmeanSASlda$Backlower.CL <- bcBack(lsmeanSASlda$Lower, lsmeanSASlda$lambda)
-
 
 write.csv(lsmeanSASlda, file="Chapter2UP/lsmeanSASlda.csv",row.names = F)
 
@@ -1059,5 +1054,3 @@ for (k in levels(as.factor(lsmeanSASlda$filename))){
   ggsave(plot, path = "Chapter2UP/Mean_image_SAS_up", filename =paste(k, "pdf", sep = '.'),
          width=10,height = 6)
 }
-
-
