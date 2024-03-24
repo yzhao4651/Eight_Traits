@@ -1,5 +1,5 @@
-###import the normalited data，traits1718normalited5 includes
-###import the normalited data
+###import the normalited data，traits1718normalited5 includes all of 38 traits for this study only 8 traits were used for this article
+###import the normalited data,traits1718normalited5 includes all of 38 traits for this study only 8 traits were used for this article
 normadata <- read.csv("data/traits1718normalited5.csv",na.strings = c("",".","NA"),row.names=1)
 ###check the data format
 str(normadata)
