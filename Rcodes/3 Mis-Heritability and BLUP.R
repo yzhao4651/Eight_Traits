@@ -10,6 +10,7 @@ normadata$Year=as.factor(normadata$Year)
 ###check the data format
 str(normadata)
 
+##change the colnames
 colnames(normadata)[which(names(normadata)=="CmDW")] <- "CmDW_g"
 colnames(normadata)[which(names(normadata)=="Cml")] <- "Cml_cm"
 colnames(normadata)[which(names(normadata)=="CmD_BI")] <- "CmD_BI_mm"
@@ -21,6 +22,5 @@ colnames(normadata)[colnames(normadata)=="CCirc_cm"] <- "CCirc"
 ###get the heritablity of all the traits using the function in the Function
 source("Function/BLUP.R")
 ranefvalueall <- ranefvalue(5,17,normadata)
-#write.csv(ranefvalueall,file="data/ranefvalueallcheck.csv")
 
 write.csv(ranefvalueall, file = "data/ranefvalueChapter2.csv", row.names = T, na = ".")
