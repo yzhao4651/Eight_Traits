@@ -31,141 +31,217 @@ str(allblup)
 write.csv(allblup, file = "data/alltraits_chapter2.csv",row.names = T)
 
 
-############# step2 Download the genotype data
-############# step2 Download the genotype data
-############download the SNP data that Lindsay gave to me ################### 
-#### import the SNP values with already imputed missing value datacomb2
-###trying to load in to GitHub, But this one is big, can not load from here. 
-load("data/160324EMimputedSNP_Msi.RData")
-#load("~/Documents/MiacnathusSNPinformation /160324EMimputedSNP_Msi.RData")
-# load("~/DOE Msi study/yield manuscript/phenotypic and GWAS analysis/160324EMimputedSNP_Msi.RData") # Lindsay's version
-#load("C:/Users/Admin/Desktop/New folder/miscanthus study-1/Misthcanthus CCA data analysis/160324EMimputedSNP_Msi.RData")
-### this data set in value part, change the value into data.frame
-##check the name of that value:
-names(myA.EM.Msi)
-myA.EM.Msi$imputed[myA.EM.Msi$imputed > 1] <- 1
-myA.EM.Msi$imputed[myA.EM.Msi$imputed < -1] <- -1
-####change the data to data.frame
-datacomb2 <- data.frame(myA.EM.Msi[["imputed"]] + 1) # convert to be 0, 1, 2 instead of -1, 0, 1
-write.csv(dimnames(datacomb2)[[1]], file = "data/datacomb2.csv", row.names = FALSE)
-#############changing the rowname to the first columne##############################
-datacomb2 <- data.frame(datacomb2)
-Taxa <- rownames(datacomb2)
-rownames(datacomb2) <- NULL
-datacomb2 <- cbind(Taxa,datacomb2)
 
-##############step3 select Genotype data that matched phenotype 
-##############step3 select Genotype data that matched phenotype  
-### checking Taxa if match in SNP and in phenotype data 
-allblup$Taxa %in% datacomb2$Taxa
-allblup$Taxa[!allblup$Taxa %in% datacomb2$Taxa] # Msa, Mxg, a few Msi not genotyped
-### submet the SNP data set match with the phenotype with total missing value
-SNP <- datacomb2[match(allblup$Taxa, datacomb2$Taxa,nomatch=0),]
-#######omit the missing values 
-SNP <- na.omit(SNP)
-###change colomn to row for datacomb2
-SNP <- data.frame(SNP,row.names=1)
+############step 1 import phenotypic data:myY 
+############step 1 import phenotypic data:myY
+allblupClu <- read.csv("data/alltraits_chapter2.csv", na.strings = c("",".","NA"),row.names = 1)
+str(allblupClu)
+
+############# step2 
+############# step2
+############loading the genotype SNP data with missing value called datacomb3####
+load("data/160322filteredSNPs.RData")
+
+########## inspect the genotype data
+#str(datacomb3) # 594 genotypes, 46,177 markers
+#dimnames(datacomb3)[[1]] # this is how the genotypes are named in the SNP data
+
+#############changing the rowname to the first columne###########################
+source("Function/subsetNONmissingSNP.GAPIT.R")
+SNP <- subsetNONmisingSNP.GAPIT(datacomb3,allblup)
+
+##############step3 (myGD) select suitable SNP and individual for the next analysis 
+##############step3 (myGD) select suitable SNP and individual for the next analysis 
+########1)remove row with missing value more than 30, 
+### Remove the row with 30% missing value (more than 30% NA)
+SNPnmrow <- SNP[-which(rowMeans(is.na(SNP)) > 0.3),]
+########2) remove column with missng more than 0
+### Remove the column with 0 missing value (more than 0 NA)
+SNPnmcol <- SNPnmrow[, -which(colMeans(is.na(SNPnmrow)) > 0)]
+
+############select the MAF > 0.05
+source("Function/SelectMAF-GAPIT.R")
+myGD.106.4202 <- Select.MAF(SNPnmcol)
+
+#############step4 myGM:Genetic mapping information
+#############step4 myGM:Genetic mapping information
+########## GM (Genetic mapping dataset)#############
+myGM <- read.csv("data/myGM.csv",row.names = 1)
+
+### Function to get myGM 
+# put the SNPs back in order by chromosome and position
+identical(as.character(myGM$Name), colnames(myGD.106.4202))
+source("Function/getmyGM.R")
+source("Function/getmyGD.R")
+myGD.106.4202 <- getmyGD(myGM,myGD.106.4202)
+
+myGM.106.4202 <- getmyGM(myGM,myGD.106.4202)
+
+###check if they are shared the same name in the same order
+identical(as.character(myGM.106.4202$Name), colnames(myGD.106.4202))
+write.csv(myGM.106.4202, file = "data/myGMC.106.4202_up.csv",row.names = FALSE)
+source("Function/FirstColumn.R")
+myGD.106.4202 <- FirstColumn(myGD.106.4202)
+
+write.csv(myGD.106.4202, file = "data/myGDC.106.4202_up.csv",row.names = FALSE)
 
 
-############step4 select the MAF larger than 1%
-############step4 select the MAF larger than 1% 
-##I think i asked this question before, but still get confused, I asked here again.
-##Question: I still confused this one also about the MAF. Do you know where has formular for calculating MAF, 
-
-#####select the MAF with SNP from the last 
-SNPmeans <- colMeans(SNP, na.rm = TRUE)
-#range(SNPmeans)
-#levels(as.factor(SNPmeans))
-# determine for which SNPs 0 is the major allele
-ZeroIsMajor <- SNPmeans < 1
-# set up an empty vector to indicate which SNPs to keep
-SNPsToKeep <- logical(length(ZeroIsMajor))
-# define a minimum number of accessions with minor allele
-minWithMinor <- 3
-# figure out which to keep based on how many individuals have minor allele
-SNPsToKeep[ZeroIsMajor] <- colSums(SNP[, ZeroIsMajor] == 1 | SNP[, ZeroIsMajor] == 2, na.rm = TRUE) >= minWithMinor
-SNPsToKeep[!ZeroIsMajor] <- colSums(SNP[, !ZeroIsMajor] == 1 | SNP[, !ZeroIsMajor] == 0, na.rm = TRUE) >= minWithMinor
-# this is how I would filter based on MAF
-MAF <- SNPmeans/2
-MAF[!ZeroIsMajor] <- 1 - MAF[!ZeroIsMajor] # flip the frequencies if allele 2 is the common one
-hist(MAF) # most near zero, max 0.5
-SNPsToKeep <- SNPsToKeep & MAF > 0.01 # update SNPsToKeep; 3 ind. with minor allele AND MAF > 0.01. 35,279 SNPs.
-# subset genotype matrix 
-###using this mymat as new genotype for the next step. 
-mymat <- SNP[, SNPsToKeep]
-
-############step5 myGD: Genotype data for GAPIT and FarmCPU
-############step5 myGD: Genotype data for GAPIT and FarmCPU
-mymatg <-mymat
-mymatg <- data.frame(mymatg)
-Taxa <- rownames(mymatg)
-rownames(mymatg) <- NULL
-mymatg <- cbind(Taxa,mymatg)
-myGDorderg <-mymatg[order(mymatg$Taxa),]
-#### write out the phenotype with correct TAXA for GAPIT analysis 
-write.csv(myGDorderg, file = "data/myGDimputedSNP19.csv",row.names = FALSE)
-
-# free up RAM by removing large unused objects
-rm(myA.EM.Msi, mymat, mymatg, SNP)
-
-##############step6 myY: Phenotype data for GAPIT and FarmCPU 
-##############step6 myY: Phenotype data for GAPIT and FarmCPU 
-myYorderg <- allblup[match(myGDorderg$Taxa,allblup$Taxa, nomatch=0),]
-myYorderg <- droplevels(myYorderg)
+##############step5 myY: Phenotype data for GAPIT and FarmCPU 
+##############step5 myY: Phenotype data for GAPIT and FarmCPU 
+myY.106.4202 <- allblupClu[match(myGD.106.4202$Taxa,allblupClu$Taxa, nomatch=0),]
+myY.106.4202 <- droplevels(myY.106.4202)
 ######### order the Taxa
 #myYorderg <- na.omit(myYorderg[order(myYorderg$Taxa),])
-str(myYorderg)
+
 #### write out the phenotype with correct TAXA
-write.csv(myYorderg, file = "data/myYimputedSNP19_chapter2.csv", row.names = FALSE, na = "")
+write.csv(myY.106.4202, file = "data/myYC.106.4202_up.csv", row.names = FALSE, na = "")
 
-
-##############step7 myQ: population structure
-##############step7 myQ: population structure
+##############step6 myQ: population structure
+##############step6 myQ: population structure
 ########## Q value (population structure)###############################
 #####import Q data that Lindsay sent to me 
 myQ <- read.csv("data/myQ.csv", stringsAsFactors = FALSE,header = TRUE)
-####get the name of collumn 
-names(myQ)
 ####change the Sample_name to Taxa
-myQ$Taxa <- myQ$Sample_name
+colnames(myQ)[colnames(myQ)=="Sample_name"] <- "Taxa"
 ####check if the name match from both data
-myYorderg$Taxa %in% myQ$Taxa
+myY.106.4202$Taxa %in% myQ$Taxa
 ###elect myQ dataset using the phenotype data
-myQ1 <- myQ[match(myYorderg$Taxa,myQ$Taxa, nomatch=0),]
-myQorder <- myQ1[order(myQ1$Taxa),]
-myQorder <- myQorder[,c(10,2:9)]
-str(myQorder)
+myQ.106.4202 <- myQ[match(myY.106.4202$Taxa, myQ$Taxa, nomatch=0),]
+##check the format
+#str(myQ.clum.107.3707)
 ####write out the dataset
+write.csv(myQ.106.4202, file = "data/myQC.106.4202_up.csv",row.names = FALSE)
 
-#############step8 myGM:Genetic mapping information
-#############step8 myGM:Genetic mapping information
-########## GM (Genetic mapping dataset)###############################
-#load GM dataset get myGM and myQ
-load("161025forGAPIT.RData")
-#load("~/DOE Msi study/yield manuscript/phenotypic and GWAS analysis/161025forGAPIT.RData") # on Lindsay's computer
-### select the GM dataset with the same ID with GD
-#myGDorderg <- read.csv("~/Documents/whole traits/myGDordfrrblup19.csv")
-#load("C:/Users/Admin/Desktop/New folder/miscanthus study-1/Misthcanthus CCA data analysis/161025forGAPIT.RData")
-n <- data.frame(myGDorderg,row.names = 1)
-a <- data.frame(t(n))
-myGM2 <- myGM[match(dimnames(a)[[1]],myGM$Name, nomatch=0),]
+###0.351
+###0.351
+###0.351
+##############step3 (myGD) select suitable SNP and individual for the next analysis 
+##############step3 (myGD) select suitable SNP and individual for the next analysis 
+########1)remove row with missing value more than 351, 
+### Remove the row with 351% missing value (more than 351% NA)
+SNPnmrow <- SNP[-which(rowMeans(is.na(SNP)) > 0.336),]
+########2) remove column with missng more than 0
+### Remove the column with 0 missing value (more than 0 NA)
+SNPnmcol <- SNPnmrow[, -which(colMeans(is.na(SNPnmrow)) > 0)]
+
+############select the MAF > 0.05
+source("Function/SelectMAF-GAPIT.R")
+myGD.116.3293 <- Select.MAF(SNPnmcol)
+
+#############step4 myGM:Genetic mapping information
+#############step4 myGM:Genetic mapping information
+########## GM (Genetic mapping dataset)#############
+myGM <- read.csv("data/myGM.csv",row.names = 1)
+
+### Function to get myGM 
 # put the SNPs back in order by chromosome and position
-identical(as.character(myGM2$Name), colnames(myGDorderg)[-1])
-snporder <- order(myGM2$Chromosome, myGM2$Position)
-myGM2 <- myGM2[snporder,]
-myGDorderg <- myGDorderg[,c(1, snporder + 1)]
-identical(as.character(myGM2$Name), colnames(myGDorderg)[-1])
-####output GM data with csv format
-write.csv(myGM2, "data/myGMimputedSNP19_chapter2.csv",row.names = FALSE)
+identical(as.character(myGM$Name), colnames(myGD.116.3293))
+source("Function/getmyGM.R")
+source("Function/getmyGD.R")
+myGD.116.3293 <- getmyGD(myGM,myGD.116.3293)
 
-#### this one for rrBLUP
-#### this one for rrBLUP
-####rrBLUP analysis
-####write out for the rrBLUP analysis 
-myGDorder <-data.frame(cbind(myGDorderg[1],myGDorderg[-1]+1))
-str(myGDorder)
+myGM.116.3293 <- getmyGM(myGM,myGD.116.3293)
+
+###check if they are shared the same name in the same order
+identical(as.character(myGM.116.3293$Name), colnames(myGD.116.3293))
+write.csv(myGM.116.3293, file = "data/myGMC.116.3293_up.csv",row.names = FALSE)
+source("Function/FirstColumn.R")
+myGD.116.3293 <- FirstColumn(myGD.116.3293)
+
+write.csv(myGD.116.3293, file = "data/myGDC.116.3293_up.csv",row.names = FALSE)
+
+
+##############step5 myY: Phenotype data for GAPIT and FarmCPU 
+##############step5 myY: Phenotype data for GAPIT and FarmCPU 
+myY.116.3293 <- allblupClu[match(myGD.116.3293$Taxa,allblupClu$Taxa, nomatch=0),]
+myY.116.3293 <- droplevels(myY.116.3293)
+######### order the Taxa
+#myYorderg <- na.omit(myYorderg[order(myYorderg$Taxa),])
+
 #### write out the phenotype with correct TAXA
-write.csv(myGDorder, file = "data/myGDimputedSNPrrblup19_chapter2.csv",row.names = FALSE)
+write.csv(myY.116.3293, file = "data/myYC.116.3293_up.csv", row.names = FALSE, na = "")
+
+##############step6 myQ: population structure
+##############step6 myQ: population structure
+########## Q value (population structure)###############################
+#####import Q data that Lindsay sent to me 
+myQ <- read.csv("data/myQ.csv", stringsAsFactors = FALSE,header = TRUE)
+####change the Sample_name to Taxa
+colnames(myQ)[colnames(myQ)=="Sample_name"] <- "Taxa"
+####check if the name match from both data
+myY.116.3293$Taxa %in% myQ$Taxa
+###elect myQ dataset using the phenotype data
+myQ.116.3293 <- myQ[match(myY.116.3293$Taxa, myQ$Taxa, nomatch=0),]
+##check the format
+#str(myQ.clum.107.3707)
+####write out the dataset
+write.csv(myQ.116.3293, file = "data/myQC.116.3293_up.csv",row.names = FALSE)
+
+###0.42
+###0.42
+###0.42
+### Remove the row with 42% missing value (more than 42% NA)
+SNPnmrow <- SNP[-which(rowMeans(is.na(SNP)) > 0.42),]
+########2) remove column with missng more than 0
+### Remove the column with 0 missing value (more than 0 NA)
+SNPnmcol <- SNPnmrow[, -which(colMeans(is.na(SNPnmrow)) > 0)]
+rownames(SNPnmcol)
+SNPnmcol <- SNPnmcol[-c(121),]
+rownames(SNPnmcol)
+###remove one individauls 
+rownames(SNP)
+
+############select the MAF > 0.05
+source("Function/SelectMAF-GAPIT.R")
+myGD.124.2560 <- Select.MAF(SNPnmcol)
+write.csv(myGD.124.2560, file = "data/myGDC.124.2560_up.csv",row.names = FALSE)
+
+#############step4 myGM:Genetic mapping information
+#############step4 myGM:Genetic mapping information
+########## GM (Genetic mapping dataset)############# 
+myGM <- read.csv("data/myGM.csv",row.names = 1)
+
+### Function to get myGM 
+# put the SNPs back in order by chromosome and position
+identical(as.character(myGM$Name), colnames(myGD.124.2560))
+source("Function/getmyGM.R")
+source("Function/getmyGD.R")
+myGD.124.2560 <- getmyGD(myGM,myGD.124.2560)
+myGM.124.2560 <- getmyGM(myGM,myGD.124.2560)
+
+###check if they are shared the same name in the same order
+identical(as.character(myGM.124.2560$Name), colnames(myGD.124.2560))
+write.csv(myGM.124.2560, file = "data/myGMC.124.2560_up.csv",row.names = FALSE)
+source("Function/FirstColumn.R")
+myGD.124.2560 <- FirstColumn(myGD.124.2560)
+write.csv(myGD.124.2560, file = "data/myGDC.124.2560_up.csv",row.names = FALSE)
 
 
+##############step5 myY: Phenotype data for GAPIT and FarmCPU 
+##############step5 myY: Phenotype data for GAPIT and FarmCPU 
+##import the dataset with myY.124.2560 
 
+myY.124.2560 <- allblupClu[match(myGD.124.2560$Taxa,allblupClu$Taxa, nomatch=0),]
+
+myY.124.2560 <- droplevels(myY.124.2560)
+######### order the Taxa
+#myYorderg <- na.omit(myYorderg[order(myYorderg$Taxa),])
+
+#### write out the phenotype with correct TAXA
+write.csv(myY.124.2560, file = "data/myYC.124.2560_up.csv", row.names = FALSE, na = "")
+
+##############step6 myQ: population structure
+##############step6 myQ: population structure
+########## Q value (population structure)###############################
+#####import Q data that Lindsay sent to me 
+myQ <- read.csv("data/myQ.csv", stringsAsFactors = FALSE,header = TRUE)
+####change the Sample_name to Taxa
+colnames(myQ)[colnames(myQ)=="Sample_name"] <- "Taxa"
+####check if the name match from both data
+myY.124.2560$Taxa %in% myQ$Taxa
+###elect myQ dataset using the phenotype data
+myQ.124.2560 <- myQ[match(myY.124.2560$Taxa, myQ$Taxa, nomatch=0),]
+##check the format
+#str(myQ.clum.107.3707)
+####write out the dataset
+write.csv(myQ.124.2560, file = "data/myQC.124.2560_up.csv",row.names = FALSE)
